@@ -1,0 +1,32 @@
+[
+  {
+    "sentence": "I ___ an apple every morning.",
+    "answer": "eat",
+    "options": ["eat", "drink", "bought"],
+    "translation": "Tôi ăn một quả táo mỗi sáng."
+  },
+  {
+    "sentence": "She ___ to school by bike.",
+    "answer": "goes",
+    "options": ["goes", "go", "going"],
+    "translation": "Cô ấy đi học bằng xe đạp."
+  },
+  {
+    "sentence": "There are more ___ buying at this time of the year so prices are high.",
+    "answer": "people",
+    "options": ["eat", "apple", "people"],
+    "translation": "Vào thời điểm này trong năm, có nhiều người mua hơn nên giá cả cũng cao hơn."
+  },
+  {
+    "sentence": "The company was set up to ___ and sell shares on behalf of investors.",
+    "answer": "buy",
+    "options": ["buy", "bought", "purchase"],
+    "translation": "Công ty được thành lập để mua và bán cổ phiếu thay mặt cho các nhà đầu tư."
+  },
+  {
+    "sentence": "I bought my ___ from a friend of mine.",
+    "answer": "camera",
+    "options": ["apple", "camera", "android"],
+    "translation": "Tôi mua máy ảnh từ một người bạn."
+  }
+]

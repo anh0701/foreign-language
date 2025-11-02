@@ -1,0 +1,1690 @@
+[
+  {
+    "en": "apple",
+    "vi": "quả táo"
+  },
+  {
+    "en": "book",
+    "vi": "cuốn sách"
+  },
+  {
+    "en": "orange",
+    "vi": "quả cam"
+  },
+  {
+    "en": "people",
+    "vi": "con người"
+  },
+  {
+    "en": "get",
+    "vi": "nhận, lấy"
+  },
+  {
+    "en": "make",
+    "vi": "làm, tạo"
+  },
+  {
+    "en": "know",
+    "vi": "biết"
+  },
+  {
+    "en": "think",
+    "vi": "nghĩ"
+  },
+  {
+    "en": "take",
+    "vi": "lấy, mang"
+  },
+  {
+    "en": "see",
+    "vi": "nhìn, thấy"
+  },
+  {
+    "en": "come",
+    "vi": "đến"
+  },
+  {
+    "en": "want",
+    "vi": "muốn"
+  },
+  {
+    "en": "use",
+    "vi": "dùng"
+  },
+  {
+    "en": "find",
+    "vi": "tìm"
+  },
+  {
+    "en": "give",
+    "vi": "đưa"
+  },
+  {
+    "en": "tell",
+    "vi": "kể, bảo"
+  },
+  {
+    "en": "work",
+    "vi": "làm việc"
+  },
+  {
+    "en": "call",
+    "vi": "gọi"
+  },
+  {
+    "en": "try",
+    "vi": "thử"
+  },
+  {
+    "en": "time",
+    "vi": "thời gian"
+  },
+  {
+    "en": "year",
+    "vi": "năm"
+  },
+  {
+    "en": "way",
+    "vi": "cách, con đường"
+  },
+  {
+    "en": "thing",
+    "vi": "vật, điều"
+  },
+  {
+    "en": "man",
+    "vi": "đàn ông"
+  },
+  {
+    "en": "woman",
+    "vi": "phụ nữ"
+  },
+  {
+    "en": "life",
+    "vi": "cuộc sống"
+  },
+  {
+    "en": "child",
+    "vi": "đứa trẻ"
+  },
+  {
+    "en": "world",
+    "vi": "thế giới"
+  },
+  {
+    "en": "school",
+    "vi": "trường học"
+  },
+  {
+    "en": "state",
+    "vi": "tiểu bang, trạng thái"
+  },
+  {
+    "en": "family",
+    "vi": "gia đình"
+  },
+  {
+    "en": "student",
+    "vi": "học sinh, sinh viên"
+  },
+  {
+    "en": "group",
+    "vi": "nhóm"
+  },
+  {
+    "en": "country",
+    "vi": "đất nước"
+  },
+  {
+    "en": "problem",
+    "vi": "vấn đề"
+  },
+  {
+    "en": "hand",
+    "vi": "bàn tay"
+  },
+  {
+    "en": "place",
+    "vi": "nơi chốn"
+  },
+  {
+    "en": "good",
+    "vi": "tốt"
+  },
+  {
+    "en": "new",
+    "vi": "mới"
+  },
+  {
+    "en": "first",
+    "vi": "đầu tiên"
+  },
+  {
+    "en": "last",
+    "vi": "cuối cùng"
+  },
+  {
+    "en": "long",
+    "vi": "dài"
+  },
+  {
+    "en": "great",
+    "vi": "tuyệt vời"
+  },
+  {
+    "en": "little",
+    "vi": "nhỏ"
+  },
+  {
+    "en": "own",
+    "vi": "riêng"
+  },
+  {
+    "en": "other",
+    "vi": "khác"
+  },
+  {
+    "en": "old",
+    "vi": "cũ"
+  },
+  {
+    "en": "right",
+    "vi": "đúng"
+  },
+  {
+    "en": "big",
+    "vi": "to, lớn"
+  },
+  {
+    "en": "high",
+    "vi": "cao"
+  },
+  {
+    "en": "different",
+    "vi": "khác biệt"
+  },
+  {
+    "en": "small",
+    "vi": "nhỏ"
+  },
+  {
+    "en": "large",
+    "vi": "lớn"
+  },
+  {
+    "en": "next",
+    "vi": "kế tiếp"
+  },
+  {
+    "en": "early",
+    "vi": "sớm"
+  },
+  {
+    "en": "young",
+    "vi": "trẻ"
+  },
+  {
+    "en": "important",
+    "vi": "quan trọng"
+  },
+  {
+    "en": "in",
+    "vi": "trong"
+  },
+  {
+    "en": "on",
+    "vi": "trên"
+  },
+  {
+    "en": "at",
+    "vi": "tại"
+  },
+  {
+    "en": "to",
+    "vi": "đến"
+  },
+  {
+    "en": "from",
+    "vi": "từ"
+  },
+  {
+    "en": "with",
+    "vi": "với"
+  },
+  {
+    "en": "about",
+    "vi": "về"
+  },
+  {
+    "en": "into",
+    "vi": "vào"
+  },
+  {
+    "en": "after",
+    "vi": "sau"
+  },
+  {
+    "en": "before",
+    "vi": "trước"
+  },
+  {
+    "en": "between",
+    "vi": "giữa"
+  },
+  {
+    "en": "under",
+    "vi": "dưới"
+  },
+  {
+    "en": "over",
+    "vi": "trên, vượt qua"
+  },
+  {
+    "en": "without",
+    "vi": "không có"
+  },
+  {
+    "en": "during",
+    "vi": "trong suốt"
+  },
+  {
+    "en": "among",
+    "vi": "trong số"
+  },
+  {
+    "en": "across",
+    "vi": "băng qua"
+  },
+  {
+    "en": "through",
+    "vi": "xuyên qua"
+  },
+  {
+    "en": "around",
+    "vi": "xung quanh"
+  },
+  {
+    "en": "very",
+    "vi": "rất"
+  },
+  {
+    "en": "really",
+    "vi": "thật sự"
+  },
+  {
+    "en": "always",
+    "vi": "luôn luôn"
+  },
+  {
+    "en": "usually",
+    "vi": "thường xuyên"
+  },
+  {
+    "en": "often",
+    "vi": "thường"
+  },
+  {
+    "en": "sometimes",
+    "vi": "đôi khi"
+  },
+  {
+    "en": "never",
+    "vi": "không bao giờ"
+  },
+  {
+    "en": "just",
+    "vi": "vừa mới"
+  },
+  {
+    "en": "also",
+    "vi": "cũng"
+  },
+  {
+    "en": "too",
+    "vi": "cũng, quá"
+  },
+  {
+    "en": "well",
+    "vi": "tốt"
+  },
+  {
+    "en": "here",
+    "vi": "ở đây"
+  },
+  {
+    "en": "there",
+    "vi": "ở đó"
+  },
+  {
+    "en": "now",
+    "vi": "bây giờ"
+  },
+  {
+    "en": "then",
+    "vi": "sau đó"
+  },
+  {
+    "en": "today",
+    "vi": "hôm nay"
+  },
+  {
+    "en": "tomorrow",
+    "vi": "ngày mai"
+  },
+  {
+    "en": "yesterday",
+    "vi": "hôm qua"
+  },
+  {
+    "en": "together",
+    "vi": "cùng nhau"
+  },
+  {
+    "en": "again",
+    "vi": "lại lần nữa"
+  },
+  {
+    "en": "need",
+    "vi": "cần"
+  },
+  {
+    "en": "feel",
+    "vi": "cảm thấy"
+  },
+  {
+    "en": "seem",
+    "vi": "có vẻ"
+  },
+  {
+    "en": "leave",
+    "vi": "rời đi"
+  },
+  {
+    "en": "put",
+    "vi": "đặt, để"
+  },
+  {
+    "en": "mean",
+    "vi": "có nghĩa là"
+  },
+  {
+    "en": "keep",
+    "vi": "giữ"
+  },
+  {
+    "en": "let",
+    "vi": "để cho"
+  },
+  {
+    "en": "begin",
+    "vi": "bắt đầu"
+  },
+  {
+    "en": "help",
+    "vi": "giúp"
+  },
+  {
+    "en": "show",
+    "vi": "chỉ, cho thấy"
+  },
+  {
+    "en": "hear",
+    "vi": "nghe"
+  },
+  {
+    "en": "play",
+    "vi": "chơi"
+  },
+  {
+    "en": "run",
+    "vi": "chạy"
+  },
+  {
+    "en": "move",
+    "vi": "di chuyển"
+  },
+  {
+    "en": "like",
+    "vi": "thích"
+  },
+  {
+    "en": "live",
+    "vi": "sống"
+  },
+  {
+    "en": "believe",
+    "vi": "tin tưởng"
+  },
+  {
+    "en": "hold",
+    "vi": "giữ, cầm"
+  },
+  {
+    "en": "bring",
+    "vi": "mang đến"
+  },
+  {
+    "en": "happen",
+    "vi": "xảy ra"
+  },
+  {
+    "en": "write",
+    "vi": "viết"
+  },
+  {
+    "en": "provide",
+    "vi": "cung cấp"
+  },
+  {
+    "en": "sit",
+    "vi": "ngồi"
+  },
+  {
+    "en": "stand",
+    "vi": "đứng"
+  },
+  {
+    "en": "lose",
+    "vi": "mất"
+  },
+  {
+    "en": "pay",
+    "vi": "trả, thanh toán"
+  },
+  {
+    "en": "meet",
+    "vi": "gặp"
+  },
+  {
+    "en": "include",
+    "vi": "bao gồm"
+  },
+  {
+    "en": "continue",
+    "vi": "tiếp tục"
+  },
+  {
+    "en": "service",
+    "vi": "dịch vụ"
+  },
+  {
+    "en": "area",
+    "vi": "khu vực"
+  },
+  {
+    "en": "company",
+    "vi": "công ty"
+  },
+  {
+    "en": "number",
+    "vi": "số"
+  },
+  {
+    "en": "part",
+    "vi": "phần"
+  },
+  {
+    "en": "system",
+    "vi": "hệ thống"
+  },
+  {
+    "en": "program",
+    "vi": "chương trình"
+  },
+  {
+    "en": "question",
+    "vi": "câu hỏi"
+  },
+  {
+    "en": "work",
+    "vi": "công việc"
+  },
+  {
+    "en": "night",
+    "vi": "đêm"
+  },
+  {
+    "en": "point",
+    "vi": "điểm"
+  },
+  {
+    "en": "home",
+    "vi": "nhà"
+  },
+  {
+    "en": "water",
+    "vi": "nước"
+  },
+  {
+    "en": "room",
+    "vi": "phòng"
+  },
+  {
+    "en": "mother",
+    "vi": "mẹ"
+  },
+  {
+    "en": "story",
+    "vi": "câu chuyện"
+  },
+  {
+    "en": "fact",
+    "vi": "sự thật"
+  },
+  {
+    "en": "month",
+    "vi": "tháng"
+  },
+  {
+    "en": "lot",
+    "vi": "nhiều, lô"
+  },
+  {
+    "en": "right",
+    "vi": "quyền, hướng phải"
+  },
+  {
+    "en": "study",
+    "vi": "việc học"
+  },
+  {
+    "en": "eye",
+    "vi": "mắt"
+  },
+  {
+    "en": "job",
+    "vi": "công việc"
+  },
+  {
+    "en": "word",
+    "vi": "từ"
+  },
+  {
+    "en": "business",
+    "vi": "kinh doanh"
+  },
+  {
+    "en": "issue",
+    "vi": "vấn đề"
+  },
+  {
+    "en": "side",
+    "vi": "phía, bên"
+  },
+  {
+    "en": "kind",
+    "vi": "loại, tử tế"
+  },
+  {
+    "en": "head",
+    "vi": "đầu"
+  },
+  {
+    "en": "house",
+    "vi": "ngôi nhà"
+  },
+  {
+    "en": "able",
+    "vi": "có thể"
+  },
+  {
+    "en": "bad",
+    "vi": "xấu"
+  },
+  {
+    "en": "best",
+    "vi": "tốt nhất"
+  },
+  {
+    "en": "better",
+    "vi": "tốt hơn"
+  },
+  {
+    "en": "sure",
+    "vi": "chắc chắn"
+  },
+  {
+    "en": "clear",
+    "vi": "rõ ràng"
+  },
+  {
+    "en": "full",
+    "vi": "đầy"
+  },
+  {
+    "en": "special",
+    "vi": "đặc biệt"
+  },
+  {
+    "en": "easy",
+    "vi": "dễ"
+  },
+  {
+    "en": "strong",
+    "vi": "mạnh"
+  },
+  {
+    "en": "free",
+    "vi": "tự do, miễn phí"
+  },
+  {
+    "en": "true",
+    "vi": "đúng, thật"
+  },
+  {
+    "en": "whole",
+    "vi": "toàn bộ"
+  },
+  {
+    "en": "white",
+    "vi": "trắng"
+  },
+  {
+    "en": "black",
+    "vi": "đen"
+  },
+  {
+    "en": "red",
+    "vi": "đỏ"
+  },
+  {
+    "en": "blue",
+    "vi": "xanh dương"
+  },
+  {
+    "en": "green",
+    "vi": "xanh lá"
+  },
+  {
+    "en": "different",
+    "vi": "khác"
+  },
+  {
+    "en": "only",
+    "vi": "duy nhất"
+  },
+  {
+    "en": "large",
+    "vi": "lớn"
+  },
+  {
+    "en": "short",
+    "vi": "ngắn"
+  },
+  {
+    "en": "hard",
+    "vi": "khó, cứng"
+  },
+  {
+    "en": "light",
+    "vi": "nhẹ, sáng"
+  },
+  {
+    "en": "young",
+    "vi": "trẻ"
+  },
+  {
+    "en": "ready",
+    "vi": "sẵn sàng"
+  },
+  {
+    "en": "simple",
+    "vi": "đơn giản"
+  },
+  {
+    "en": "difficult",
+    "vi": "khó"
+  },
+  {
+    "en": "beautiful",
+    "vi": "đẹp"
+  },
+  {
+    "en": "hot",
+    "vi": "nóng"
+  },
+  {
+    "en": "quickly",
+    "vi": "nhanh chóng"
+  },
+  {
+    "en": "slowly",
+    "vi": "chậm rãi"
+  },
+  {
+    "en": "finally",
+    "vi": "cuối cùng"
+  },
+  {
+    "en": "early",
+    "vi": "sớm"
+  },
+  {
+    "en": "late",
+    "vi": "muộn"
+  },
+  {
+    "en": "probably",
+    "vi": "có lẽ"
+  },
+  {
+    "en": "actually",
+    "vi": "thực ra"
+  },
+  {
+    "en": "already",
+    "vi": "đã rồi"
+  },
+  {
+    "en": "again",
+    "vi": "lại, nữa"
+  },
+  {
+    "en": "almost",
+    "vi": "gần như"
+  },
+  {
+    "en": "maybe",
+    "vi": "có thể"
+  },
+  {
+    "en": "especially",
+    "vi": "đặc biệt là"
+  },
+  {
+    "en": "ever",
+    "vi": "từng"
+  },
+  {
+    "en": "exactly",
+    "vi": "chính xác"
+  },
+  {
+    "en": "often",
+    "vi": "thường"
+  },
+  {
+    "en": "soon",
+    "vi": "sớm"
+  },
+  {
+    "en": "sometimes",
+    "vi": "đôi khi"
+  },
+  {
+    "en": "still",
+    "vi": "vẫn"
+  },
+  {
+    "en": "together",
+    "vi": "cùng nhau"
+  },
+  {
+    "en": "quite",
+    "vi": "khá"
+  },
+  {
+    "en": "truly",
+    "vi": "thực sự"
+  },
+  {
+    "en": "easily",
+    "vi": "dễ dàng"
+  },
+  {
+    "en": "certainly",
+    "vi": "chắc chắn"
+  },
+  {
+    "en": "enough",
+    "vi": "đủ"
+  },
+  {
+    "en": "recently",
+    "vi": "gần đây"
+  },
+  {
+    "en": "suddenly",
+    "vi": "đột nhiên"
+  },
+  {
+    "en": "usually",
+    "vi": "thường xuyên"
+  },
+  {
+    "en": "nearly",
+    "vi": "gần như"
+  },
+  {
+    "en": "instead",
+    "vi": "thay vì"
+  },
+  {
+    "en": "finally",
+    "vi": "cuối cùng"
+  },
+  {
+    "en": "because",
+    "vi": "bởi vì"
+  },
+  {
+    "en": "since",
+    "vi": "từ khi"
+  },
+  {
+    "en": "though",
+    "vi": "mặc dù"
+  },
+  {
+    "en": "while",
+    "vi": "trong khi"
+  },
+  {
+    "en": "unless",
+    "vi": "trừ khi"
+  },
+  {
+    "en": "until",
+    "vi": "cho đến khi"
+  },
+  {
+    "en": "before",
+    "vi": "trước"
+  },
+  {
+    "en": "after",
+    "vi": "sau"
+  },
+  {
+    "en": "without",
+    "vi": "không có"
+  },
+  {
+    "en": "within",
+    "vi": "trong vòng"
+  },
+  {
+    "en": "during",
+    "vi": "trong suốt"
+  },
+  {
+    "en": "across",
+    "vi": "băng qua"
+  },
+  {
+    "en": "along",
+    "vi": "dọc theo"
+  },
+  {
+    "en": "behind",
+    "vi": "phía sau"
+  },
+  {
+    "en": "beyond",
+    "vi": "vượt ra ngoài"
+  },
+  {
+    "en": "under",
+    "vi": "dưới"
+  },
+  {
+    "en": "over",
+    "vi": "trên, vượt qua"
+  },
+  {
+    "en": "around",
+    "vi": "xung quanh"
+  },
+  {
+    "en": "between",
+    "vi": "giữa"
+  },
+  {
+    "en": "among",
+    "vi": "trong số"
+  },
+  {
+    "en": "learn",
+    "vi": "học"
+  },
+  {
+    "en": "change",
+    "vi": "thay đổi"
+  },
+  {
+    "en": "understand",
+    "vi": "hiểu"
+  },
+  {
+    "en": "watch",
+    "vi": "xem"
+  },
+  {
+    "en": "follow",
+    "vi": "theo dõi"
+  },
+  {
+    "en": "stop",
+    "vi": "dừng lại"
+  },
+  {
+    "en": "create",
+    "vi": "tạo ra"
+  },
+  {
+    "en": "speak",
+    "vi": "nói"
+  },
+  {
+    "en": "read",
+    "vi": "đọc"
+  },
+  {
+    "en": "spend",
+    "vi": "tiêu, dành"
+  },
+  {
+    "en": "grow",
+    "vi": "phát triển, trồng"
+  },
+  {
+    "en": "open",
+    "vi": "mở"
+  },
+  {
+    "en": "walk",
+    "vi": "đi bộ"
+  },
+  {
+    "en": "win",
+    "vi": "chiến thắng"
+  },
+  {
+    "en": "offer",
+    "vi": "đề nghị"
+  },
+  {
+    "en": "remember",
+    "vi": "nhớ"
+  },
+  {
+    "en": "love",
+    "vi": "yêu"
+  },
+  {
+    "en": "consider",
+    "vi": "cân nhắc"
+  },
+  {
+    "en": "appear",
+    "vi": "xuất hiện"
+  },
+  {
+    "en": "buy",
+    "vi": "mua"
+  },
+  {
+    "en": "wait",
+    "vi": "chờ"
+  },
+  {
+    "en": "serve",
+    "vi": "phục vụ"
+  },
+  {
+    "en": "die",
+    "vi": "chết"
+  },
+  {
+    "en": "send",
+    "vi": "gửi"
+  },
+  {
+    "en": "expect",
+    "vi": "mong đợi"
+  },
+  {
+    "en": "build",
+    "vi": "xây dựng"
+  },
+  {
+    "en": "stay",
+    "vi": "ở lại"
+  },
+  {
+    "en": "fall",
+    "vi": "ngã, rơi"
+  },
+  {
+    "en": "cut",
+    "vi": "cắt"
+  },
+  {
+    "en": "reach",
+    "vi": "đạt tới"
+  },
+  {
+    "en": "kill",
+    "vi": "giết"
+  },
+  {
+    "en": "pass",
+    "vi": "vượt qua"
+  },
+  {
+    "en": "vượt qua",
+    "vi": "quyết định"
+  },
+  {
+    "en": "explain",
+    "vi": "giải thích"
+  },
+  {
+    "en": "hope",
+    "vi": "hy vọng"
+  },
+  {
+    "en": "develop",
+    "vi": "phát triển"
+  },
+  {
+    "en": "carry",
+    "vi": "mang"
+  },
+  {
+    "en": "break",
+    "vi": "làm vỡ"
+  },
+  {
+    "en": "receive",
+    "vi": "nhận"
+  },
+  {
+    "en": "agree",
+    "vi": "đồng ý"
+  },
+  {
+    "en": "choose",
+    "vi": "chọn"
+  },
+  {
+    "en": "support",
+    "vi": "ủng hộ"
+  },
+  {
+    "en": "reduce",
+    "vi": "giảm"
+  },
+  {
+    "en": "add",
+    "vi": "thêm"
+  },
+  {
+    "en": "join",
+    "vi": "tham gia"
+  },
+  {
+    "en": "improve",
+    "vi": "cải thiện"
+  },
+  {
+    "en": "design",
+    "vi": "thiết kế"
+  },
+  {
+    "en": "report",
+    "vi": "báo cáo"
+  },
+  {
+    "en": "return",
+    "vi": "trở lại"
+  },
+  {
+    "en": "describe",
+    "vi": "mô tả"
+  },
+  {
+    "en": "moment",
+    "vi": "khoảnh khắc"
+  },
+  {
+    "en": "reason",
+    "vi": "lý do"
+  },
+  {
+    "en": "action",
+    "vi": "hành động"
+  },
+  {
+    "en": "idea",
+    "vi": "ý tưởng"
+  },
+  {
+    "en": "fact",
+    "vi": "sự thật"
+  },
+  {
+    "en": "situation",
+    "vi": "tình huống"
+  },
+  {
+    "en": "community",
+    "vi": "cộng đồng"
+  },
+  {
+    "en": "power",
+    "vi": "sức mạnh"
+  },
+  {
+    "en": "interest",
+    "vi": "sự quan tâm"
+  },
+  {
+    "en": "law",
+    "vi": "luật"
+  },
+  {
+    "en": "car",
+    "vi": "xe hơi"
+  },
+  {
+    "en": "result",
+    "vi": "kết quả"
+  },
+  {
+    "en": "study",
+    "vi": "sự học"
+  },
+  {
+    "en": "name",
+    "vi": "tên"
+  },
+  {
+    "en": "friend",
+    "vi": "bạn"
+  },
+  {
+    "en": "job",
+    "vi": "công việc"
+  },
+  {
+    "en": "office",
+    "vi": "văn phòng"
+  },
+  {
+    "en": "health",
+    "vi": "sức khỏe"
+  },
+  {
+    "en": "change",
+    "vi": "sự thay đổi"
+  },
+  {
+    "en": "decision",
+    "vi": "quyết định"
+  },
+  {
+    "en": "example",
+    "vi": "ví dụ"
+  },
+  {
+    "en": "information",
+    "vi": "thông tin"
+  },
+  {
+    "en": "body",
+    "vi": "cơ thể"
+  },
+  {
+    "en": "price",
+    "vi": "giá cả"
+  },
+  {
+    "en": "question",
+    "vi": "câu hỏi"
+  },
+  {
+    "en": "idea",
+    "vi": "ý tưởng"
+  },
+  {
+    "en": "education",
+    "vi": "giáo dục"
+  },
+  {
+    "en": "history",
+    "vi": "lịch sử"
+  },
+  {
+    "en": "nature",
+    "vi": "thiên nhiên"
+  },
+  {
+    "en": "reason",
+    "vi": "lý do"
+  },
+  {
+    "en": "research",
+    "vi": "nghiên cứu"
+  },
+  {
+    "en": "experience",
+    "vi": "kinh nghiệm"
+  },
+  {
+    "en": "order",
+    "vi": "đơn hàng / trật tự"
+  },
+  {
+    "en": "position",
+    "vi": "vị trí"
+  },
+  {
+    "en": "effect",
+    "vi": "hiệu ứng"
+  },
+  {
+    "en": "heart",
+    "vi": "trái tim"
+  },
+  {
+    "en": "purpose",
+    "vi": "mục đích"
+  },
+  {
+    "en": "goal",
+    "vi": "mục tiêu"
+  },
+  {
+    "en": "attention",
+    "vi": "sự chú ý"
+  },
+  {
+    "en": "chance",
+    "vi": "cơ hội"
+  },
+  {
+    "en": "hope",
+    "vi": "hi vọng"
+  },
+  {
+    "en": "success",
+    "vi": "thành công"
+  },
+  {
+    "en": "failure",
+    "vi": "thất bại"
+  },
+  {
+    "en": "feeling",
+    "vi": "cảm giác"
+  },
+  {
+    "en": "truth",
+    "vi": "sự thật"
+  },
+  {
+    "en": "difference",
+    "vi": "sự khác biệt"
+  },
+  {
+    "en": "happy",
+    "vi": "vui"
+  },
+  {
+    "en": "sad",
+    "vi": "buồn"
+  },
+  {
+    "en": "angry",
+    "vi": "tức giận"
+  },
+  {
+    "en": "afraid",
+    "vi": "sợ"
+  },
+  {
+    "en": "busy",
+    "vi": "bận rộn"
+  },
+  {
+    "en": "tired",
+    "vi": "mệt"
+  },
+  {
+    "en": "sure",
+    "vi": "chắc chắn"
+  },
+  {
+    "en": "clear",
+    "vi": "rõ ràng"
+  },
+  {
+    "en": "possible",
+    "vi": "có thể"
+  },
+  {
+    "en": "simple",
+    "vi": "đơn giản"
+  },
+  {
+    "en": "serious",
+    "vi": "nghiêm túc"
+  },
+  {
+    "en": "popular",
+    "vi": "phổ biến"
+  },
+  {
+    "en": "interesting",
+    "vi": "thú vị"
+  },
+  {
+    "en": "common",
+    "vi": "thông thường"
+  },
+  {
+    "en": "real",
+    "vi": "thật"
+  },
+  {
+    "en": "major",
+    "vi": "chính, lớn"
+  },
+  {
+    "en": "necessary",
+    "vi": "cần thiết"
+  },
+  {
+    "en": "private",
+    "vi": "riêng tư"
+  },
+  {
+    "en": "public",
+    "vi": "công cộng"
+  },
+  {
+    "en": "similar",
+    "vi": "tương tự"
+  },
+  {
+    "en": "traditional",
+    "vi": "truyền thống"
+  },
+  {
+    "en": "modern",
+    "vi": "hiện đại"
+  },
+  {
+    "en": "wrong",
+    "vi": "sai"
+  },
+  {
+    "en": "afraid",
+    "vi": "sợ"
+  },
+  {
+    "en": "available",
+    "vi": "có sẵn"
+  },
+  {
+    "en": "likely",
+    "vi": "có khả năng"
+  },
+  {
+    "en": "normal",
+    "vi": "bình thường"
+  },
+  {
+    "en": "take care",
+    "vi": "chăm sóc"
+  },
+  {
+    "en": "take part in",
+    "vi": "tham gia"
+  },
+  {
+    "en": "take a break",
+    "vi": "nghỉ ngơi"
+  },
+  {
+    "en": "take time",
+    "vi": "mất thời gian"
+  },
+  {
+    "en": "make sure",
+    "vi": "đảm bảo"
+  },
+  {
+    "en": "make sense",
+    "vi": "có ý nghĩa"
+  },
+  {
+    "en": "make a decision",
+    "vi": "đưa ra quyết định"
+  },
+  {
+    "en": "make a mistake",
+    "vi": "mắc lỗi"
+  },
+  {
+    "en": "get up",
+    "vi": "thức dậy"
+  },
+  {
+    "en": "get along with",
+    "vi": "hòa hợp với"
+  },
+  {
+    "en": "get ready",
+    "vi": "chuẩn bị sẵn sàng"
+  },
+  {
+    "en": "get back",
+    "vi": "quay lại"
+  },
+  {
+    "en": "go on",
+    "vi": "tiếp tục"
+  },
+  {
+    "en": "go out",
+    "vi": "ra ngoài"
+  },
+  {
+    "en": "go ahead",
+    "vi": "tiến lên, làm đi"
+  },
+  {
+    "en": "go back",
+    "vi": "quay về"
+  },
+  {
+    "en": "look at",
+    "vi": "nhìn vào"
+  },
+  {
+    "en": "look for",
+    "vi": "tìm kiếm"
+  },
+  {
+    "en": "look after",
+    "vi": "chăm sóc"
+  },
+  {
+    "en": "look like",
+    "vi": "trông giống"
+  },
+  {
+    "en": "look forward to",
+    "vi": "mong chờ"
+  },
+  {
+    "en": "come from",
+    "vi": "đến từ"
+  },
+  {
+    "en": "come back",
+    "vi": "trở lại"
+  },
+  {
+    "en": "come in",
+    "vi": "đi vào"
+  },
+  {
+    "en": "put on",
+    "vi": "mặc vào"
+  },
+  {
+    "en": "take off",
+    "vi": "cởi ra / cất cánh"
+  },
+  {
+    "en": "give up",
+    "vi": "từ bỏ"
+  },
+  {
+    "en": "give back",
+    "vi": "give back"
+  },
+  {
+    "en": "find out",
+    "vi": "phát hiện ra"
+  },
+  {
+    "en": "turn on",
+    "vi": "bật"
+  },
+  {
+    "en": "turn off",
+    "vi": "tắt"
+  },
+  {
+    "en": "turn up",
+    "vi": "xuất hiện"
+  },
+  {
+    "en": "turn down",
+    "vi": "từ chối"
+  },
+  {
+    "en": "pick up",
+    "vi": "nhặt lên / đón"
+  },
+  {
+    "en": "set up",
+    "vi": "thiết lập"
+  },
+  {
+    "en": "show up",
+    "vi": "xuất hiện"
+  },
+  {
+    "en": "work out",
+    "vi": "tập thể dục / giải quyết"
+  },
+  {
+    "en": "point out",
+    "vi": "chỉ ra"
+  },
+  {
+    "en": "depend on",
+    "vi": "phụ thuộc vào"
+  },
+  {
+    "en": "focus on",
+    "vi": "tập trung vào"
+  },
+  {
+    "en": "pay attention to",
+    "vi": "chú ý đến"
+  },
+  {
+    "en": "fall in love",
+    "vi": "yêu"
+  },
+  {
+    "en": "break up",
+    "vi": "chia tay"
+  },
+  {
+    "en": "therefore",
+    "vi": "vì vậy"
+  },
+  {
+    "en": "however",
+    "vi": "tuy nhiên"
+  },
+  {
+    "en": "although",
+    "vi": "mặc dù"
+  },
+  {
+    "en": "besides",
+    "vi": "ngoài ra"
+  },
+  {
+    "en": "moreover",
+    "vi": "hơn nữa"
+  },
+  {
+    "en": "otherwise",
+    "vi": "nếu không thì"
+  },
+  {
+    "en": "instead of",
+    "vi": "thay vì"
+  },
+  {
+    "en": "such as",
+    "vi": "chẳng hạn như"
+  },
+  {
+    "en": "in order to",
+    "vi": "để mà"
+  },
+  {
+    "en": "as soon as",
+    "vi": "ngay khi"
+  },
+  {
+    "en": "even though",
+    "vi": "dù rằng"
+  },
+  {
+    "en": "because of",
+    "vi": "bởi vì"
+  },
+  {
+    "en": "in case",
+    "vi": "trong trường hợp"
+  },
+  {
+    "en": "according to",
+    "vi": "theo như"
+  },
+  {
+    "en": "at least",
+    "vi": "ít nhất"
+  },
+  {
+    "en": "as well as",
+    "vi": "cũng như"
+  },
+  {
+    "en": "for example",
+    "vi": "ví dụ như"
+  },
+  {
+    "en": "for instance",
+    "vi": "ví dụ"
+  },
+  {
+    "en": "in fact",
+    "vi": "thực ra"
+  },
+  {
+    "en": "on the other hand",
+    "vi": "mặt khác"
+  }
+]
