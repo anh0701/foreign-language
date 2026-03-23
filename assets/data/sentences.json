@@ -610,5 +610,125 @@
     "answer": "help",
     "options": ["help", "assist", "support", "carry"],
     "translation": "Để tôi giúp bạn với việc đó"
+  },
+   {
+    "sentence": "Let me _____ you with that.",
+    "answer": "help",
+    "options": ["help", "assist", "support", "carry"],
+    "translation": "Để tôi giúp bạn với việc đó"
+  },
+  {
+    "sentence": "Can you _____ me a hand?",
+    "answer": "give",
+    "options": ["give", "take", "bring", "hold"],
+    "translation": "Bạn có thể giúp tôi một tay không?"
+  },
+  {
+    "sentence": "I will _____ back to you later.",
+    "answer": "get",
+    "options": ["get", "come", "return", "reply"],
+    "translation": "Tôi sẽ phản hồi lại bạn sau"
+  },
+  {
+    "sentence": "This task is _____ than I expected.",
+    "answer": "harder",
+    "options": ["harder", "easier", "faster", "simpler"],
+    "translation": "Task này khó hơn tôi nghĩ"
+  },
+  {
+    "sentence": "I need more time to _____ this task.",
+    "answer": "complete",
+    "options": ["complete", "do", "make", "finish"],
+    "translation": "Tôi cần thêm thời gian để hoàn thành task này"
+  },
+  {
+    "sentence": "The system is currently _____.",
+    "answer": "down",
+    "options": ["down", "up", "running", "working"],
+    "translation": "Hệ thống hiện đang bị sập"
+  },
+  {
+    "sentence": "Have you _____ the code yet?",
+    "answer": "tested",
+    "options": ["tested", "written", "fixed", "checked"],
+    "translation": "Bạn đã test code chưa?"
+  },
+  {
+    "sentence": "There is a _____ in the program.",
+    "answer": "bug",
+    "options": ["bug", "error", "issue", "problem"],
+    "translation": "Có lỗi trong chương trình"
+  },
+  {
+    "sentence": "I need to _____ this bug quickly.",
+    "answer": "fix",
+    "options": ["fix", "solve", "handle", "resolve"],
+    "translation": "Tôi cần fix bug này nhanh"
+  },
+  {
+    "sentence": "Can you _____ the database connection?",
+    "answer": "check",
+    "options": ["check", "test", "verify", "inspect"],
+    "translation": "Bạn có thể kiểm tra kết nối database không?"
+  },
+  {
+    "sentence": "The server is _____ too much memory.",
+    "answer": "using",
+    "options": ["using", "taking", "consuming", "running"],
+    "translation": "Server đang dùng quá nhiều bộ nhớ"
+  },
+  {
+    "sentence": "I will _____ the changes to Git.",
+    "answer": "commit",
+    "options": ["commit", "push", "save", "upload"],
+    "translation": "Tôi sẽ commit thay đổi lên Git"
+  },
+  {
+    "sentence": "Please _____ the latest code from the repository.",
+    "answer": "pull",
+    "options": ["pull", "push", "clone", "fetch"],
+    "translation": "Hãy pull code mới nhất từ repository"
+  },
+  {
+    "sentence": "We need to _____ this feature before release.",
+    "answer": "test",
+    "options": ["test", "build", "deploy", "design"],
+    "translation": "Chúng ta cần test feature này trước khi release"
+  },
+  {
+    "sentence": "The application failed to _____.",
+    "answer": "start",
+    "options": ["start", "run", "execute", "launch"],
+    "translation": "Ứng dụng không khởi động được"
+  },
+  {
+    "sentence": "I will _____ a meeting at 3 PM.",
+    "answer": "schedule",
+    "options": ["schedule", "make", "create", "set"],
+    "translation": "Tôi sẽ lên lịch họp lúc 3 giờ"
+  },
+  {
+    "sentence": "Can you _____ this issue for me?",
+    "answer": "look into",
+    "options": ["look into", "see", "watch", "check"],
+    "translation": "Bạn có thể xem giúp tôi vấn đề này không?"
+  },
+  {
+    "sentence": "The deployment was _____ successfully.",
+    "answer": "completed",
+    "options": ["completed", "done", "finished", "executed"],
+    "translation": "Việc deploy đã hoàn thành thành công"
+  },
+  {
+    "sentence": "I am _____ on this task right now.",
+    "answer": "working",
+    "options": ["working", "doing", "making", "handling"],
+    "translation": "Tôi đang làm task này"
+  },
+  {
+    "sentence": "Please _____ me if you have any questions.",
+    "answer": "contact",
+    "options": ["contact", "call", "ask", "tell"],
+    "translation": "Hãy liên hệ tôi nếu bạn có câu hỏi"
   }
 ]
