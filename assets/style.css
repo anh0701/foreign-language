@@ -52,3 +52,13 @@ input {
   text-align: center;
 }
 
+.footer{
+  position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: blue;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
