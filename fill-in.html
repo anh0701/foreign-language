@@ -10,20 +10,25 @@
 </head>
 
 <body>
-    <h1>🧠 Điền từ vào câu</h1>
-    <p id="translation"></p>
-    <p id="sentence"></p>
-    <div id="options"></div>
-    <p id="result"></p>
-    
-    <div id="loader" style="display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1000;">
+    <div class="wrapper">
+        <main class="content">
+            <h1>🧠 Điền từ vào câu</h1>
+            <p id="translation"></p>
+            <p id="sentence"></p>
+            <div id="options"></div>
+            <p id="result"></p>
+        </main>
+        <footer class="footer">
+            <button onclick="goHome()">🏠 Home</button>
+            <button id="next">🔄 Câu khác</button>
+        </footer>
+    </div>
+
+    <div id="loader"
+        style="display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1000;">
         <div class="spinner"></div>
     </div>
-    
-    <div class="footer">
-        <button onclick="goHome()">🏠 Home</button>
-        <button id="next">🔄 Câu khác</button>
-    </div>
+
     <script src="assets/fill-in.js" defer></script>
 </body>
 

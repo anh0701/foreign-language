@@ -11,7 +11,7 @@ async function loadWords() {
         const res = await fetch('assets/data/words.json');
         if (!res.ok) throw new Error("Không tìm thấy file data");
         data = await res.json();
-        console.log(loader)
+        // console.log(loader)
     } catch (err) {
         console.error("Lỗi tải dữ liệu:", err);
         alert("Không thể tải danh sách từ vựng!");

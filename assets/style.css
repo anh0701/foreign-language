@@ -1,8 +1,27 @@
-body {
-  font-family: sans-serif;
+@import url("./responsive.css");
+html, body {
+  height: 100%;
+  margin: 0;
+    font-family: sans-serif;
   text-align: center;
   background: #fafafa;
-  margin: 2em;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content {
+  flex: 1; 
+}
+
+.footer {
+  background-color: blue;
+  padding: 20px;
+  color: white;
+  text-align: center;
 }
 
 button {
@@ -49,17 +68,6 @@ input {
   padding: 8px;
   font-size: 16px;
   width: 120px;
-  text-align: center;
-}
-
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: blue;
-  padding: 20px;
-  color: white;
   text-align: center;
 }
 

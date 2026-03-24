@@ -11,21 +11,25 @@
 </head>
 
 <body>
-    <h1>Ghép từ với nghĩa tương ứng</h1>
-    
-    <div class="container">
-        <div class="column" id="col-en"><strong>Tiếng Anh</strong></div>
-        <div class="column" id="col-vi"><strong>Tiếng Việt</strong></div>
+    <div class="wrapper">
+        <main class="content">
+            <h1>Ghép từ với nghĩa tương ứng</h1>
+            
+            <div class="container">
+                <div class="column" id="col-en"><strong>Tiếng Anh</strong></div>
+                <div class="column" id="col-vi"><strong>Tiếng Việt</strong></div>
+            </div>
+        </main>
+        <footer class="footer">
+            <button onclick="goHome()">🏠 Home</button>
+            <button onclick="location.reload()">🔄 Chơi lại</button>
+        </footer>
     </div>
     
     <div id="loader" style="display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1000;">
         <div class="spinner"></div>
     </div>
     
-    <div class="footer">
-        <button onclick="goHome()">🏠 Home</button>
-        <button onclick="location.reload()">🔄 Chơi lại</button>
-    </div>
     <script src="assets/matching.js"></script>
 </body>
 
