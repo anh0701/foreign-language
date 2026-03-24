@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fill in blank</title>
     <link rel="stylesheet" href="assets/style.css">
-    <script src="assets/fill-in.js" defer></script>
     <script src="assets/script.js" defer></script>
 </head>
 
@@ -16,11 +15,16 @@
     <p id="sentence"></p>
     <div id="options"></div>
     <p id="result"></p>
-
+    
+    <div id="loader" style="display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1000;">
+        <div class="spinner"></div>
+    </div>
+    
     <div class="footer">
         <button onclick="goHome()">🏠 Home</button>
         <button id="next">🔄 Câu khác</button>
     </div>
+    <script src="assets/fill-in.js" defer></script>
 </body>
 
 </html>

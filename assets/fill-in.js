@@ -2,10 +2,18 @@ let sentences = [];
 let current = null;
 
 async function loadSentences() {
-  const res = await fetch('assets/data/sentences.json');
-  sentences = await res.json();
-  newRound();
-  console.debug(sentences);
+  const loader = document.getElementById('loader');
+  try {
+    if (loader) loader.style.display = 'block';
+    const res = await fetch('assets/data/sentences.json');
+    sentences = await res.json();
+    newRound();
+    // console.debug(sentences);
+  } catch (error) {
+    alert("Không thể tải dữ liệu!");
+  } finally {
+    if (loader) loader.style.display = 'none';
+  }
 }
 
 function newRound() {

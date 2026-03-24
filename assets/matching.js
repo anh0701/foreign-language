@@ -5,13 +5,18 @@ let selectedVi = null;
 let matchedCount = 0;
 
 async function loadWords() {
+    const loader = document.getElementById('loader');
     try {
+        if (loader) loader.style.display = 'block';
         const res = await fetch('assets/data/words.json');
         if (!res.ok) throw new Error("Không tìm thấy file data");
         data = await res.json();
+        console.log(loader)
     } catch (err) {
         console.error("Lỗi tải dữ liệu:", err);
         alert("Không thể tải danh sách từ vựng!");
+    }finally{
+        if (loader) loader.style.display = 'none';
     }
 }
 

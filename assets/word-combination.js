@@ -3,9 +3,17 @@ let currentWord = null;
 let currentAnswer = '';
 
 async function loadWords() {
-  const res = await fetch('assets/data/words.json');
-  words = await res.json();
-  newRound();
+  const loader = document.getElementById('loader');
+  try {
+    if (loader) loader.style.display = 'block';
+    const res = await fetch('assets/data/words.json');
+    words = await res.json();
+    newRound();
+  } catch (error) {
+    alert("Không thể tải dữ liệu!");
+  } finally {
+    if (loader) loader.style.display = 'none';
+  }
 }
 
 function shuffle(word) {
