@@ -1,8 +1,10 @@
 @import url("./responsive.css");
-html, body {
+
+html,
+body {
   height: 100%;
   margin: 0;
-    font-family: sans-serif;
+  font-family: sans-serif;
   text-align: center;
   background: #fafafa;
 }
@@ -10,11 +12,11 @@ html, body {
 .wrapper {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  min-height: 100dvh;
 }
 
 .content {
-  flex: 1; 
+  flex: 1;
 }
 
 .footer {
