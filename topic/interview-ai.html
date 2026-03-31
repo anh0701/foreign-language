@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interview AI Engineer</title>
+    <link rel="stylesheet" href="../assets/style.css">
+    <link rel="stylesheet" href="../assets/interview-ai.css">
+    <script src="../assets/script.js"></script>
+</head>
+
+<body>
+    <div class="wrapper">
+        <main class="content">
+            <h1>Interview AI Engineer</h1>
+            <div class="container">
+                <article class="flashcard">
+                    <div class="card">
+                        <div class="front"></div>
+                        <div class="back"></div>
+                    </div>
+                </article>
+            </div>
+        </main>
+        <footer class="footer">
+            <button id="prev">Back</button>
+            <!-- <button id="flip">Flip</button> -->
+            <button onclick="goHome()">🏠 Home</button>
+            <button id="next">Next</button>
+        </footer>
+    </div>
+    <div id="loader"
+        style="display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1000;">
+        <div class="spinner"></div>
+    </div>
+    <script src="../assets/interview-ai.js"></script>
+</body>
+
+</html>

@@ -1,5 +1,5 @@
 function goHome() {
-  window.location.href = 'index.html';
+  window.location.href = '/index.html';
 }
 
 function saveScore(game, delta) {
