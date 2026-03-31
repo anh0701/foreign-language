@@ -3,7 +3,7 @@
   { "front": "Preprocessing", "back": "Tiền xử lý (làm sạch, chuẩn hóa dữ liệu)" },
   { "front": "Feature Extraction", "back": "Trích xuất đặc trưng" },
   { "front": "Model Training / Fine-tuning", "back":"Huấn luyện / Tinh chỉnh mô hình" },
-  { "front": "Object Detection", "back":"Phát hiện đối tượng (như bài toán YOLOv8 bạn đang làm)" },
+  { "front": "Object Detection", "back":"Phát hiện đối tượng" },
   { "front": "Inference", "back":"Quá trình dự đoán/suy luận của mô hình sau khi huấn luyện" },
   { "front": "Defect Detection", "back":"Phát hiện lỗi/khuyết tật (trong sản xuất)" },
   { "front": "Scalability", "back":"Khả năng mở rộng hệ thống" },
