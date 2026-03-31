@@ -1,6 +1,5 @@
 function goHome() {
-  const path = window.location.pathname.split('/')[1];
-  window.location.href = '/' + path + '/index.html';
+  window.location.href = 'index.html';
 }
 
 function saveScore(game, delta) {
