@@ -4,17 +4,25 @@ let currentIndex = 0;
 const front = document.querySelector(".front");
 const back = document.querySelector(".back");
 const card = document.querySelector(".card");
+const titleElement = document.getElementById("topic-title");
+
+const urlParams = new URLSearchParams(window.location.search);
+const topic = urlParams.get('topic'); // Ví dụ: 'interview-ai'
+const title = urlParams.get('title'); // Ví dụ: 'Interview AI Engineer'
 
 async function loadWords() {
     const loader = document.getElementById('loader');
     try {
         if (loader) loader.style.display = 'block';
-        const res = await fetch('../assets/data/interview-ai.json');
+
+        titleElement.textContent = title || "Flashcards";
+        const res = await fetch(`assets/data/${topic}.json`);
         if (!res.ok) throw new Error("Không tìm thấy file data");
         data = await res.json();
         // console.log(loader)
     } catch (err) {
         console.error("Lỗi tải dữ liệu:", err);
+        titleElement.textContent = "Lỗi tải dữ liệu";
         alert("Không thể tải danh sách từ vựng!");
     }finally{
         if (loader) loader.style.display = 'none';
