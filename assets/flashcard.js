@@ -20,7 +20,7 @@ async function loadWords() {
         const icon = document.createElement("i");
         icon.className = "fa-solid fa-layer-group";
 
-        const text = document.createTextNode(title || "Flashcards");
+        const text = document.createTextNode(" " + title || " Flashcards");
 
         titleElement.appendChild(icon);
         titleElement.appendChild(text);
