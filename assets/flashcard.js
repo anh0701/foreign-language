@@ -15,7 +15,15 @@ async function loadWords() {
     try {
         if (loader) loader.style.display = 'block';
 
-        titleElement.textContent = title || "Flashcards";
+        titleElement.innerHTML = "";
+
+        const icon = document.createElement("i");
+        icon.className = "fa-solid fa-layer-group";
+
+        const text = document.createTextNode(title || "Flashcards");
+
+        titleElement.appendChild(icon);
+        titleElement.appendChild(text);
         const res = await fetch(`assets/data/${topic}.json`);
         if (!res.ok) throw new Error("Không tìm thấy file data");
         data = await res.json();
