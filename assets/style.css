@@ -20,10 +20,11 @@ body {
 }
 
 .footer {
-  background-color: blue;
+  background-color: #f3f4f6;
   padding: 20px;
   color: white;
   text-align: center;
+  border-top: 1px solid #e5e7eb;
 }
 
 button {
@@ -53,6 +54,11 @@ button:hover {
 
 .btn:hover {
   background: #0056b3;
+}
+
+.btn i {
+  color: white;
+  font-size: 18px;
 }
 
 
@@ -90,4 +96,14 @@ input {
   100% {
     transform: rotate(360deg);
   }
+}
+
+.title i {
+  /* font-size: 28px; */
+  color: #f59e0b;
+  transition: transform 0.2s ease;
+}
+
+.title:hover i {
+  transform: rotate(10deg) scale(1.1);
 }

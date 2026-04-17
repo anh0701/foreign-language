@@ -9,12 +9,15 @@
     <link rel="stylesheet" href="assets/matching.css">
     <script src="assets/script.js"></script>
     <base href="/foreign-language/">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+    integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 
 <body>
     <div class="wrapper">
         <main class="content">
-            <h1>Ghép từ với nghĩa tương ứng</h1>
+            <h1 class="title"><i class="fa-solid fa-shapes"></i> Ghép từ với nghĩa tương ứng</h1>
             
             <div class="container">
                 <div class="column" id="col-en"><strong>Tiếng Anh</strong></div>
@@ -22,8 +25,8 @@
             </div>
         </main>
         <footer class="footer">
-            <button onclick="goHome()">🏠 Home</button>
-            <button onclick="location.reload()">🔄 Chơi lại</button>
+            <button onclick="goHome()" class="btn"><i class="fa-solid fa-house"></i> Home</button>
+            <button onclick="location.reload()" class="btn"><i class="fa-solid fa-rotate"></i> Chơi lại</button>
         </footer>
     </div>
     

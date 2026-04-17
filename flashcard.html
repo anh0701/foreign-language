@@ -9,12 +9,15 @@
     <link rel="stylesheet" href="assets/flashcard.css">
     <script src="assets/script.js"></script>
     <base href="/foreign-language/">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+    integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 
 <body>
     <div class="wrapper">
         <main class="content">
-            <h1 id="topic-title">Loading...</h1>
+            <h1 class="title" id="topic-title"><i class="fa-solid fa-layer-group"></i> Loading...</h1>
             <div class="container">
                 <article class="flashcard">
                     <div class="card">
@@ -25,10 +28,10 @@
             </div>
         </main>
         <footer class="footer">
-            <button id="prev">Back</button>
+            <button id="prev" class="btn">Back</button>
             <!-- <button id="flip">Flip</button> -->
-            <button onclick="goHome()">🏠 Home</button>
-            <button id="next">Next</button>
+            <button onclick="goHome()" class="btn"><i class="fa-solid fa-house"></i> Home</button>
+            <button id="next" class="btn">Next</button>
         </footer>
     </div>
     <div id="loader"
