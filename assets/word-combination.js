@@ -34,6 +34,7 @@ function newRound() {
   shuffle(currentWord).forEach(ch => {
     const btn = document.createElement('button');
     btn.textContent = ch;
+    btn.style.color = 'royalblue';
     btn.onclick = () => chooseLetter(ch, btn);
     lettersDiv.appendChild(btn);
   });
