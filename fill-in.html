@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fill in blank</title>
     <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="assets/fill-in.css">
     <script src="assets/script.js" defer></script>
     <base href="/foreign-language/">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
@@ -17,10 +18,12 @@
     <div class="wrapper">
         <main class="content">
             <h1 class="title"><i class="fa-solid fa-brain"></i> Điền từ vào câu</h1>
-            <p id="translation"></p>
-            <p id="sentence"></p>
-            <div id="options"></div>
-            <p id="result"></p>
+            <div class="fill-in">
+                <p id="translation"></p>
+                <p id="sentence"></p>
+                <div id="options"></div>
+                <p id="result"></p>
+            </div>
         </main>
         <footer class="footer">
             <button onclick="goHome()" class="btn">

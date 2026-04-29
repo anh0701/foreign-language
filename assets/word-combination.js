@@ -40,16 +40,26 @@ function newRound() {
     lettersDiv.appendChild(btn);
   });
 
-  document.getElementById('answer').textContent = '';
+  const answerDiv = document.getElementById('answer');
+  answerDiv.innerHTML = '';
+
+  for (let i = 0; i < currentWord.length; i++) {
+    const box = document.createElement('div');
+    box.className = 'answer-box';
+    answerDiv.appendChild(box);
+  }
 }
 
 function chooseLetter(ch, btn) {
   currentAnswer += ch;
   btn.disabled = true;
-  document.getElementById('answer').textContent = currentAnswer;
+
+  const boxes = document.querySelectorAll('.answer-box');
+  boxes[currentAnswer.length - 1].textContent = ch;
 
   if (currentAnswer.length === currentWord.length) {
     const result = document.getElementById('result');
+
     if (currentAnswer === currentWord) {
       result.textContent = '✅ Chính xác!';
       result.style.color = 'green';

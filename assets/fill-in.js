@@ -21,20 +21,31 @@ function newRound() {
 
   current = sentences[Math.floor(Math.random() * sentences.length)];
   document.getElementById('translation').textContent = current.translation;
-  document.getElementById('sentence').textContent = current.sentence;
+  // document.getElementById('sentence').textContent = current.sentence;
+
+  document.getElementById('sentence').innerHTML =
+    current.sentence.replace(
+      "_____",
+      `<span id="blank" class="blank">_____</span>`
+    );
 
   const optionsDiv = document.getElementById('options');
   optionsDiv.innerHTML = '';
   current.options.sort(() => Math.random() - 0.5).forEach(opt => {
     const btn = document.createElement('button');
     btn.textContent = opt;
-    btn.onclick = () => checkAnswer(opt, btn);
+    btn.onclick = () => fillBlank(opt, btn);
     optionsDiv.appendChild(btn);
   });
 }
 
-function checkAnswer(choice, btn) {
+function fillBlank(choice, btn) {
+  const blank = document.getElementById('blank');
   const result = document.getElementById('result');
+
+  // điền từ vào chỗ trống
+  blank.textContent = choice;
+
   if (choice === current.answer) {
     result.textContent = '✅ Chính xác!';
     result.style.color = 'green';
@@ -43,7 +54,9 @@ function checkAnswer(choice, btn) {
     result.textContent = `❌ Sai! Đáp án đúng là "${current.answer}"`;
     result.style.color = 'red';
   }
-  document.querySelectorAll('#options button').forEach(b => b.disabled = true);
+
+  document.querySelectorAll('#options button')
+    .forEach(b => b.disabled = true);
 }
 
 document.getElementById('next').onclick = newRound;
