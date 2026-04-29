@@ -26,27 +26,33 @@
       "name": "Other Runners",
       "role": "support_character",
       "gender": "neutral"
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "role": "narration",
+      "gender": "neutral"
     }
   ],
 
   "dialogues": [
     {
       "order": 1,
-      "speakerId": "barber",
+      "speakerId": "narrator",
       "type": "narration",
       "english": "A local barber surprised everyone by joining the city marathon.",
       "translation": "Một người thợ cắt tóc địa phương đã khiến mọi người bất ngờ khi tham gia cuộc marathon của thành phố."
     },
     {
       "order": 2,
-      "speakerId": "runners",
+      "speakerId": "narrator",
       "type": "narration",
       "english": "Most people laughed because they thought he would get tired quickly.",
       "translation": "Hầu hết mọi người cười vì họ nghĩ anh ấy sẽ nhanh chóng mệt."
     },
     {
       "order": 3,
-      "speakerId": "barber",
+      "speakerId": "narrator",
       "type": "narration",
       "english": "But somehow, he crossed the finish line first.",
       "translation": "Nhưng bằng cách nào đó, anh ấy đã cán đích đầu tiên."
@@ -81,7 +87,7 @@
     },
     {
       "order": 8,
-      "speakerId": "reporter",
+      "speakerId": "narrator",
       "type": "narration",
       "english": "The crowd laughed, and even the other runners could not stay angry.",
       "translation": "Đám đông bật cười, và ngay cả những người chạy khác cũng không thể giận được."

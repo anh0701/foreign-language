@@ -5,7 +5,7 @@ body {
   height: 100%;
   margin: 0;
   font-family: sans-serif;
-  text-align: center;
+  /* text-align: center; */
   background: #fafafa;
 }
 
@@ -107,6 +107,10 @@ input {
   }
 }
 
+.title{
+  text-align: center;
+}
+
 .title i {
   /* font-size: 28px; */
   color: #f59e0b;
@@ -121,7 +125,7 @@ input {
   margin-top: 30px;
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  gap: 5px;
   max-width: 500px;
   margin-left: auto;
   margin-right: auto;
@@ -152,4 +156,8 @@ input {
 .menu .btn i {
   font-size: 20px;
   color: #444;
+}
+
+h1 + p {
+  text-align: center;
 }

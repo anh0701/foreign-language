@@ -26,27 +26,33 @@
       "name": "Waiter",
       "role": "support_character",
       "gender": "male"
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "role": "narration",
+      "gender": "neutral"
     }
   ],
 
   "dialogues": [
     {
       "order": 1,
-      "speakerId": "friend1",
+      "speakerId": "narrator",
       "type": "narration",
       "english": "Jack and Bob were sitting in a café, talking very seriously for almost three hours.",
       "translation": "Jack và Bob đang ngồi trong quán cà phê, nói chuyện rất nghiêm túc suốt gần ba tiếng."
     },
     {
       "order": 2,
-      "speakerId": "friend2",
+      "speakerId": "narrator",
       "type": "narration",
       "english": "They ordered coffee, sandwiches, and later two large chocolate cakes.",
       "translation": "Họ gọi cà phê, bánh mì kẹp, và sau đó là hai chiếc bánh sô-cô-la lớn."
     },
     {
       "order": 3,
-      "speakerId": "waiter",
+      "speakerId": "narrator",
       "type": "narration",
       "english": "The waiter watched them and became curious.",
       "translation": "Người phục vụ quan sát họ và trở nên tò mò."

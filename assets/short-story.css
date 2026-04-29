@@ -41,7 +41,7 @@ body {
 }
 
 .story-summary {
-    text-align: center;
+    text-align: justify;
     max-width: 700px;
     margin: 0 auto 42px;
     font-size: 17px;
@@ -71,19 +71,21 @@ body {
 
 .speaker {
     display: flex;
-    justify-content: center;
+    justify-content: start;
     align-items: center;
     gap: 8px;
     font-size: 15px;
     font-weight: 600;
     color: #6b7280;
     margin-bottom: 14px;
+    margin-left: 2%;
 }
 
 .english {
     font-size: 18px;
     font-weight: 500;
     color: #111;
+    margin-left: 2%;
 }
 
 .translation-popup {

@@ -26,20 +26,26 @@
       "name": "Math Book",
       "role": "support_character",
       "gender": "neutral"
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "role": "narration",
+      "gender": "neutral"
     }
   ],
 
   "dialogues": [
     {
       "order": 1,
-      "speakerId": "student",
+      "speakerId": "narrator",
       "type": "narration",
       "english": "One morning, a student saw his math book sitting alone on the desk.",
       "translation": "Một buổi sáng, một học sinh thấy quyển sách toán của mình nằm cô đơn trên bàn."
     },
     {
       "order": 2,
-      "speakerId": "student",
+      "speakerId": "narrator",
       "type": "narration",
       "english": "It looked sad, as if it had been crying all night.",
       "translation": "Nó trông buồn bã như thể đã khóc suốt đêm."
@@ -74,7 +80,7 @@
     },
     {
       "order": 7,
-      "speakerId": "student",
+      "speakerId": "narrator",
       "type": "narration",
       "english": "The student suddenly understood why math looked so dangerous.",
       "translation": "Cậu học sinh bỗng hiểu vì sao môn toán trông đáng sợ như vậy."

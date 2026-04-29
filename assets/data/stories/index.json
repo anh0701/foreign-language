@@ -61,5 +61,14 @@
     "topic": "funny_joke",
     "thumbnail": "/images/funny_joke.jpg",
     "estimatedReadingTime": 1
+  },
+  {
+    "id": 8,
+    "slug": "breakfast-for-a-friend",
+    "title": "Breakfast for a Friend",
+    "level": "beginner",
+    "topic": "school_life",
+    "thumbnail": "/images/school_life.jpg",
+    "estimatedReadingTime": 4
   }
 ]

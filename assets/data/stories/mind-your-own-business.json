@@ -26,27 +26,33 @@
       "name": "Passengers",
       "role": "support_character",
       "gender": "neutral"
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "role": "narration",
+      "gender": "neutral"
     }
   ],
 
   "dialogues": [
     {
       "order": 1,
-      "speakerId": "boy",
+      "speakerId": "narrator",
       "type": "narration",
       "english": "A little boy was sitting on a crowded bus, happily eating chocolate.",
       "translation": "Một cậu bé đang ngồi trên chiếc xe buýt đông người, vui vẻ ăn sô-cô-la."
     },
     {
       "order": 2,
-      "speakerId": "boy",
+      "speakerId": "narrator",
       "type": "narration",
       "english": "He finished one bar, then opened another one, and then another.",
       "translation": "Cậu ăn hết một thanh, rồi mở thanh khác, rồi thêm một thanh nữa."
     },
     {
       "order": 3,
-      "speakerId": "man",
+      "speakerId": "narrator",
       "type": "narration",
       "english": "An old man sitting next to him watched nervously for a while.",
       "translation": "Một ông lão ngồi bên cạnh lo lắng nhìn cậu bé một lúc."
@@ -88,7 +94,7 @@
     },
     {
       "order": 9,
-      "speakerId": "passengers",
+      "speakerId": "narrator",
       "type": "narration",
       "english": "Suddenly, the whole bus became very quiet.",
       "translation": "Đột nhiên, cả chiếc xe buýt trở nên im lặng."

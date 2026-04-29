@@ -26,34 +26,40 @@
       "name": "Butcher",
       "role": "support_character",
       "gender": "male"
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "role": "narration",
+      "gender": "neutral"
     }
   ],
 
   "dialogues": [
     {
       "order": 1,
-      "speakerId": "woman",
+      "speakerId": "narrator",
       "type": "narration",
       "english": "A woman bought a clever parrot from a second-hand pet shop.",
       "translation": "Một người phụ nữ mua một con vẹt thông minh từ một cửa hàng thú cưng cũ."
     },
     {
       "order": 2,
-      "speakerId": "parrot",
+      "speakerId": "narrator",
       "type": "narration",
       "english": "The shop owner said the bird could remember everything.",
       "translation": "Chủ cửa hàng nói rằng con chim có thể nhớ mọi thứ."
     },
     {
       "order": 3,
-      "speakerId": "woman",
+      "speakerId": "narrator",
       "type": "narration",
       "english": "One afternoon, the woman went out to buy vegetables.",
       "translation": "Một buổi chiều, người phụ nữ ra ngoài mua rau."
     },
     {
       "order": 4,
-      "speakerId": "butcher",
+      "speakerId": "narrator",
       "type": "narration",
       "english": "At that moment, the butcher came to deliver some fresh meat.",
       "translation": "Đúng lúc đó, người bán thịt đến giao thịt tươi."
@@ -102,14 +108,14 @@
     },
     {
       "order": 11,
-      "speakerId": "butcher",
+      "speakerId": "narrator",
       "type": "narration",
       "english": "He shouted so much that he suddenly had a heart attack and fell to the floor.",
       "translation": "Ông ấy hét quá nhiều đến mức bất ngờ lên cơn đau tim và ngã xuống sàn."
     },
     {
       "order": 12,
-      "speakerId": "woman",
+      "speakerId": "narrator",
       "type": "narration",
       "english": "When the woman came home, she saw the butcher lying there in shock.",
       "translation": "Khi người phụ nữ về nhà, cô sốc khi thấy người bán thịt nằm đó."
