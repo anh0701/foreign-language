@@ -25,7 +25,7 @@ function newRound() {
 
   document.getElementById('sentence').innerHTML =
     current.sentence.replace(
-      "_____",
+      "___",
       `<span id="blank" class="blank">_____</span>`
     );
 

@@ -530,7 +530,7 @@
     "translation": "Mình cần học để chuẩn bị cho kỳ thi tuần tới"
   },
   {
-    "sentence": "Do you have any _____ from last class? I missed it.",
+    "sentence": "Do you have any ___ from last class? I missed it.",
     "answer": "notes",
     "options": [
       "notes",
@@ -541,7 +541,7 @@
     "translation": "Bạn có ghi chú của buổi học trước không? Mình đã vắng mặt buổi đó"
   },
   {
-    "sentence": "Where is the _____, and what are its opening hours?",
+    "sentence": "Where is the ___, and what are its opening hours?",
     "answer": "library",
     "options": [
       "library",
@@ -552,7 +552,7 @@
     "translation": "Thư viện ở đâu và giờ mở cửa như thế nào?"
   },
   {
-    "sentence": "Let’s meet in the _____ during lunch break.",
+    "sentence": "Let’s meet in the ___ during lunch break.",
     "answer": "cafeteria",
     "options": [
       "cafeteria",
@@ -563,7 +563,7 @@
     "translation": "Hẹn gặp nhau ở căng tin vào giờ nghỉ trưa nhé"
   },
   {
-    "sentence": "What’s your _____, and how do you like it so far?",
+    "sentence": "What’s your ___, and how do you like it so far?",
     "answer": "major",
     "options": [
       "major",
@@ -574,7 +574,7 @@
     "translation": "Chuyên ngành của bạn là gì, bạn cảm thấy thế nào về nó?"
   },
   {
-    "sentence": "Can you recommend any good _____ for this course?",
+    "sentence": "Can you recommend any good ___ for this course?",
     "answer": "books",
     "options": [
       "books",
@@ -585,7 +585,7 @@
     "translation": "Bạn có thể giới thiệu cuốn sách nào hay cho khóa học này không?"
   },
   {
-    "sentence": "How many _____ are there in your family?",
+    "sentence": "How many ___ are there in your family?",
     "answer": "people",
     "options": [
       "people",
@@ -596,7 +596,7 @@
     "translation": "Gia đình bạn có bao nhiêu người?"
   },
   {
-    "sentence": "I have a younger _____ and an older sister.",
+    "sentence": "I have a younger ___ and an older sister.",
     "answer": "brother",
     "options": [
       "brother",
@@ -607,7 +607,7 @@
     "translation": "Tôi có một em trai và một chị gái"
   },
   {
-    "sentence": "Do you _____ with your parents?",
+    "sentence": "Do you ___ with your parents?",
     "answer": "live",
     "options": [
       "live",
@@ -618,7 +618,7 @@
     "translation": "Bạn có sống cùng bố mẹ không?"
   },
   {
-    "sentence": "We always have a family _____ on weekends.",
+    "sentence": "We always have a family ___ on weekends.",
     "answer": "dinner",
     "options": [
       "dinner",
@@ -629,7 +629,7 @@
     "translation": "Gia đình chúng tôi luôn dùng bữa tối cùng nhau vào cuối tuần"
   },
   {
-    "sentence": "Do you have any _____?",
+    "sentence": "Do you have any ___?",
     "answer": "siblings",
     "options": [
       "siblings",
@@ -640,7 +640,7 @@
     "translation": "Bạn có anh chị em không?"
   },
   {
-    "sentence": "I’m very close to my _____, we grew up together.",
+    "sentence": "I’m very close to my ___, we grew up together.",
     "answer": "cousins",
     "options": [
       "cousins",
@@ -651,7 +651,7 @@
     "translation": "Tôi rất thân với các anh chị em họ, chúng tôi lớn lên cùng nhau"
   },
   {
-    "sentence": "My family _____ me in everything I do.",
+    "sentence": "My family ___ me in everything I do.",
     "answer": "supports",
     "options": [
       "supports",
@@ -662,7 +662,7 @@
     "translation": "Gia đình luôn ủng hộ mọi việc tôi làm"
   },
   {
-    "sentence": "Family _____ are important to us.",
+    "sentence": "Family ___ are important to us.",
     "answer": "gatherings",
     "options": [
       "gatherings",
@@ -673,7 +673,7 @@
     "translation": "Các buổi sum họp gia đình rất quan trọng với chúng tôi"
   },
   {
-    "sentence": "Do you spend a lot of _____ with your family?",
+    "sentence": "Do you spend a lot of ___ with your family?",
     "answer": "time",
     "options": [
       "time",
@@ -684,7 +684,7 @@
     "translation": "Bạn có dành nhiều thời gian cho gia đình không?"
   },
   {
-    "sentence": "I love going on _____ with my family.",
+    "sentence": "I love going on ___ with my family.",
     "answer": "vacations",
     "options": [
       "vacations",
@@ -695,7 +695,7 @@
     "translation": "Tôi thích đi du lịch cùng gia đình"
   },
   {
-    "sentence": "My parents always _____ me to follow my dreams.",
+    "sentence": "My parents always ___ me to follow my dreams.",
     "answer": "encourage",
     "options": [
       "encourage",
@@ -706,7 +706,7 @@
     "translation": "Bố mẹ luôn khuyến khích tôi theo đuổi ước mơ của mình"
   },
   {
-    "sentence": "We celebrate _____ and holidays together.",
+    "sentence": "We celebrate ___ and holidays together.",
     "answer": "birthdays",
     "options": [
       "birthdays",
@@ -717,7 +717,7 @@
     "translation": "Chúng tôi tổ chức sinh nhật và các ngày lễ cùng nhau"
   },
   {
-    "sentence": "I have a strong _____ with my family.",
+    "sentence": "I have a strong ___ with my family.",
     "answer": "bond",
     "options": [
       "bond",
@@ -728,7 +728,7 @@
     "translation": "Tôi có mối quan hệ gắn kết chặt chẽ với gia đình"
   },
   {
-    "sentence": "How much does this _____?",
+    "sentence": "How much does this ___?",
     "answer": "cost",
     "options": [
       "cost",
@@ -739,7 +739,7 @@
     "translation": "Sản phẩm này giá bao nhiêu?"
   },
   {
-    "sentence": "Do you have this in a different _____?",
+    "sentence": "Do you have this in a different ___?",
     "answer": "size",
     "options": [
       "size",
@@ -750,7 +750,7 @@
     "translation": "Bạn có cái này với kích cỡ khác không?"
   },
   {
-    "sentence": "Can I try this _____?",
+    "sentence": "Can I try this ___?",
     "answer": "on",
     "options": [
       "on",
@@ -761,7 +761,7 @@
     "translation": "Tôi có thể thử cái này không?"
   },
   {
-    "sentence": "Is this on _____?",
+    "sentence": "Is this on ___?",
     "answer": "sale",
     "options": [
       "sale",
@@ -772,7 +772,7 @@
     "translation": "Cái này có đang giảm giá không?"
   },
   {
-    "sentence": "Where is the _____ room?",
+    "sentence": "Where is the ___ room?",
     "answer": "fitting",
     "options": [
       "fitting",
@@ -783,7 +783,7 @@
     "translation": "Phòng thử đồ ở đâu?"
   },
   {
-    "sentence": "Do you accept _____ cards?",
+    "sentence": "Do you accept ___ cards?",
     "answer": "credit",
     "options": [
       "credit",
@@ -794,7 +794,7 @@
     "translation": "Bạn có chấp nhận thẻ tín dụng không?"
   },
   {
-    "sentence": "Can I get a _____ if I don’t like it?",
+    "sentence": "Can I get a ___ if I don’t like it?",
     "answer": "refund",
     "options": [
       "refund",
@@ -805,7 +805,7 @@
     "translation": "Tôi có được hoàn tiền nếu không thích không?"
   },
   {
-    "sentence": "Excuse me, do you have this item in _____?",
+    "sentence": "Excuse me, do you have this item in ___?",
     "answer": "stock",
     "options": [
       "stock",
@@ -816,7 +816,7 @@
     "translation": "Xin lỗi, sản phẩm này còn hàng không?"
   },
   {
-    "sentence": "I’m just _____, thank you.",
+    "sentence": "I’m just ___, thank you.",
     "answer": "looking",
     "options": [
       "looking",
@@ -827,7 +827,7 @@
     "translation": "Tôi chỉ xem thôi, cảm ơn"
   },
   {
-    "sentence": "What time does the store _____?",
+    "sentence": "What time does the store ___?",
     "answer": "close",
     "options": [
       "close",
@@ -838,7 +838,7 @@
     "translation": "Cửa hàng đóng cửa lúc mấy giờ?"
   },
   {
-    "sentence": "Do you have any _____ for this product?",
+    "sentence": "Do you have any ___ for this product?",
     "answer": "discounts",
     "options": [
       "discounts",
@@ -849,7 +849,7 @@
     "translation": "Bạn có giảm giá cho sản phẩm này không?"
   },
   {
-    "sentence": "Can you show me something _____ to this?",
+    "sentence": "Can you show me something ___ to this?",
     "answer": "similar",
     "options": [
       "similar",
@@ -860,7 +860,7 @@
     "translation": "Bạn có thể cho tôi xem thứ gì đó tương tự không?"
   },
   {
-    "sentence": "Excuse me, can you tell me how to get to the _____?",
+    "sentence": "Excuse me, can you tell me how to get to the ___?",
     "answer": "place",
     "options": [
       "place",
@@ -871,7 +871,7 @@
     "translation": "Xin lỗi, bạn có thể chỉ cho tôi cách đến địa điểm này không?"
   },
   {
-    "sentence": "Can you show me the way to the nearest _____ stop?",
+    "sentence": "Can you show me the way to the nearest ___ stop?",
     "answer": "bus",
     "options": [
       "bus",
@@ -882,7 +882,7 @@
     "translation": "Bạn có thể chỉ cho tôi đường đến trạm xe buýt gần nhất không?"
   },
   {
-    "sentence": "Is this the right way to the _____?",
+    "sentence": "Is this the right way to the ___?",
     "answer": "destination",
     "options": [
       "destination",
@@ -893,7 +893,7 @@
     "translation": "Đây có phải đường đúng để đến điểm đến không?"
   },
   {
-    "sentence": "Which way should I go to get to the city _____?",
+    "sentence": "Which way should I go to get to the city ___?",
     "answer": "center",
     "options": [
       "center",
@@ -904,7 +904,7 @@
     "translation": "Tôi nên đi đường nào để đến trung tâm thành phố?"
   },
   {
-    "sentence": "Excuse me, where is the nearest _____?",
+    "sentence": "Excuse me, where is the nearest ___?",
     "answer": "ATM",
     "options": [
       "ATM",
@@ -915,7 +915,7 @@
     "translation": "Xin lỗi, cây ATM gần nhất ở đâu?"
   },
   {
-    "sentence": "How long does it take to _____ to a place?",
+    "sentence": "How long does it take to ___ to a place?",
     "answer": "walk",
     "options": [
       "walk",
@@ -926,7 +926,7 @@
     "translation": "Đi bộ đến địa điểm đó mất bao lâu?"
   },
   {
-    "sentence": "Can I get there by _____, or should I take a taxi?",
+    "sentence": "Can I get there by ___, or should I take a taxi?",
     "answer": "bus",
     "options": [
       "bus",
@@ -937,7 +937,7 @@
     "translation": "Tôi có thể đến đó bằng xe buýt không, hay nên đi taxi?"
   },
   {
-    "sentence": "Do you know if there is a _____ station nearby?",
+    "sentence": "Do you know if there is a ___ station nearby?",
     "answer": "subway",
     "options": [
       "subway",
@@ -948,7 +948,7 @@
     "translation": "Bạn có biết có ga tàu điện ngầm nào gần đây không?"
   },
   {
-    "sentence": "Is it better to walk or take public _____?",
+    "sentence": "Is it better to walk or take public ___?",
     "answer": "transport",
     "options": [
       "transport",
@@ -959,7 +959,7 @@
     "translation": "Đi bộ hay đi phương tiện công cộng thì tiện hơn?"
   },
   {
-    "sentence": "Excuse me, is there a _____ around here?",
+    "sentence": "Excuse me, is there a ___ around here?",
     "answer": "pharmacy",
     "options": [
       "pharmacy",
@@ -970,7 +970,7 @@
     "translation": "Xin lỗi, có nhà thuốc nào quanh đây không?"
   },
   {
-    "sentence": "Can I _____ you with anything?",
+    "sentence": "Can I ___ you with anything?",
     "answer": "help",
     "options": [
       "help",
@@ -981,7 +981,7 @@
     "translation": "Tôi có thể giúp bạn việc gì không?"
   },
   {
-    "sentence": "Do you need any _____?",
+    "sentence": "Do you need any ___?",
     "answer": "help",
     "options": [
       "help",
@@ -992,7 +992,7 @@
     "translation": "Bạn có cần giúp đỡ không?"
   },
   {
-    "sentence": "Would you like me to give you a _____?",
+    "sentence": "Would you like me to give you a ___?",
     "answer": "hand",
     "options": [
       "hand",
@@ -1003,7 +1003,7 @@
     "translation": "Bạn có muốn tôi giúp một tay không?"
   },
   {
-    "sentence": "Is there anything I can do to _____ you?",
+    "sentence": "Is there anything I can do to ___ you?",
     "answer": "assist",
     "options": [
       "assist",
@@ -1014,7 +1014,7 @@
     "translation": "Tôi có thể làm hỗ trợ bạn việc gì không?"
   },
   {
-    "sentence": "Let me know if you need any _____.",
+    "sentence": "Let me know if you need any ___.",
     "answer": "help",
     "options": [
       "help",
@@ -1025,7 +1025,7 @@
     "translation": "Hãy cho tôi biết nếu bạn cần sự giúp đỡ"
   },
   {
-    "sentence": "Would you like me to _____ that for you?",
+    "sentence": "Would you like me to ___ that for you?",
     "answer": "carry",
     "options": [
       "carry",
@@ -1036,7 +1036,7 @@
     "translation": "Bạn có muốn tôi mang cái đó giúp bạn không?"
   },
   {
-    "sentence": "Do you want me to _____ you with that?",
+    "sentence": "Do you want me to ___ you with that?",
     "answer": "help",
     "options": [
       "help",
@@ -1047,7 +1047,7 @@
     "translation": "Bạn có muốn tôi giúp bạn việc đó không?"
   },
   {
-    "sentence": "Can I do anything to make it _____ for you?",
+    "sentence": "Can I do anything to make it ___ for you?",
     "answer": "easier",
     "options": [
       "easier",
@@ -1058,7 +1058,7 @@
     "translation": "Tôi có thể làm gì để giúp việc này trở nên dễ dàng hơn cho bạn không?"
   },
   {
-    "sentence": "Let me _____ you with that.",
+    "sentence": "Let me ___ you with that.",
     "answer": "help",
     "options": [
       "help",
@@ -1069,7 +1069,7 @@
     "translation": "Để tôi giúp bạn với việc đó"
   },
   {
-    "sentence": "Let me _____ you with that.",
+    "sentence": "Let me ___ you with that.",
     "answer": "help",
     "options": [
       "help",
@@ -1080,7 +1080,7 @@
     "translation": "Để tôi giúp bạn với việc đó"
   },
   {
-    "sentence": "Can you _____ me a hand?",
+    "sentence": "Can you ___ me a hand?",
     "answer": "give",
     "options": [
       "give",
@@ -1091,7 +1091,7 @@
     "translation": "Bạn có thể giúp tôi một tay không?"
   },
   {
-    "sentence": "I will _____ back to you later.",
+    "sentence": "I will ___ back to you later.",
     "answer": "get",
     "options": [
       "get",
@@ -1102,7 +1102,7 @@
     "translation": "Tôi sẽ phản hồi lại bạn sau"
   },
   {
-    "sentence": "This task is _____ than I expected.",
+    "sentence": "This task is ___ than I expected.",
     "answer": "harder",
     "options": [
       "harder",
@@ -1113,7 +1113,7 @@
     "translation": "Task này khó hơn tôi nghĩ"
   },
   {
-    "sentence": "I need more time to _____ this task.",
+    "sentence": "I need more time to ___ this task.",
     "answer": "complete",
     "options": [
       "complete",
@@ -1124,7 +1124,7 @@
     "translation": "Tôi cần thêm thời gian để hoàn thành task này"
   },
   {
-    "sentence": "The system is currently _____.",
+    "sentence": "The system is currently ___.",
     "answer": "down",
     "options": [
       "down",
@@ -1135,7 +1135,7 @@
     "translation": "Hệ thống hiện đang bị sập"
   },
   {
-    "sentence": "Have you _____ the code yet?",
+    "sentence": "Have you ___ the code yet?",
     "answer": "tested",
     "options": [
       "tested",
@@ -1146,7 +1146,7 @@
     "translation": "Bạn đã test code chưa?"
   },
   {
-    "sentence": "There is a _____ in the program.",
+    "sentence": "There is a ___ in the program.",
     "answer": "bug",
     "options": [
       "bug",
@@ -1157,7 +1157,7 @@
     "translation": "Có lỗi trong chương trình"
   },
   {
-    "sentence": "I need to _____ this bug quickly.",
+    "sentence": "I need to ___ this bug quickly.",
     "answer": "fix",
     "options": [
       "fix",
@@ -1168,7 +1168,7 @@
     "translation": "Tôi cần fix bug này nhanh"
   },
   {
-    "sentence": "Can you _____ the database connection?",
+    "sentence": "Can you ___ the database connection?",
     "answer": "check",
     "options": [
       "check",
@@ -1179,7 +1179,7 @@
     "translation": "Bạn có thể kiểm tra kết nối database không?"
   },
   {
-    "sentence": "The server is _____ too much memory.",
+    "sentence": "The server is ___ too much memory.",
     "answer": "using",
     "options": [
       "using",
@@ -1190,7 +1190,7 @@
     "translation": "Server đang dùng quá nhiều bộ nhớ"
   },
   {
-    "sentence": "I will _____ the changes to Git.",
+    "sentence": "I will ___ the changes to Git.",
     "answer": "commit",
     "options": [
       "commit",
@@ -1201,7 +1201,7 @@
     "translation": "Tôi sẽ commit thay đổi lên Git"
   },
   {
-    "sentence": "Please _____ the latest code from the repository.",
+    "sentence": "Please ___ the latest code from the repository.",
     "answer": "pull",
     "options": [
       "pull",
@@ -1212,7 +1212,7 @@
     "translation": "Hãy pull code mới nhất từ repository"
   },
   {
-    "sentence": "We need to _____ this feature before release.",
+    "sentence": "We need to ___ this feature before release.",
     "answer": "test",
     "options": [
       "test",
@@ -1223,7 +1223,7 @@
     "translation": "Chúng ta cần test feature này trước khi release"
   },
   {
-    "sentence": "The application failed to _____.",
+    "sentence": "The application failed to ___.",
     "answer": "start",
     "options": [
       "start",
@@ -1234,7 +1234,7 @@
     "translation": "Ứng dụng không khởi động được"
   },
   {
-    "sentence": "I will _____ a meeting at 3 PM.",
+    "sentence": "I will ___ a meeting at 3 PM.",
     "answer": "schedule",
     "options": [
       "schedule",
@@ -1245,7 +1245,7 @@
     "translation": "Tôi sẽ lên lịch họp lúc 3 giờ"
   },
   {
-    "sentence": "Can you _____ this issue for me?",
+    "sentence": "Can you ___ this issue for me?",
     "answer": "look into",
     "options": [
       "look into",
@@ -1256,7 +1256,7 @@
     "translation": "Bạn có thể xem giúp tôi vấn đề này không?"
   },
   {
-    "sentence": "The deployment was _____ successfully.",
+    "sentence": "The deployment was ___ successfully.",
     "answer": "completed",
     "options": [
       "completed",
@@ -1267,7 +1267,7 @@
     "translation": "Việc deploy đã hoàn thành thành công"
   },
   {
-    "sentence": "I am _____ on this task right now.",
+    "sentence": "I am ___ on this task right now.",
     "answer": "working",
     "options": [
       "working",
@@ -1278,7 +1278,7 @@
     "translation": "Tôi đang làm task này"
   },
   {
-    "sentence": "Please _____ me if you have any questions.",
+    "sentence": "Please ___ me if you have any questions.",
     "answer": "contact",
     "options": [
       "contact",
@@ -1289,7 +1289,7 @@
     "translation": "Hãy liên hệ tôi nếu bạn có câu hỏi"
   },
   {
-    "sentence": "Can you _____ me?",
+    "sentence": "Can you ___ me?",
     "answer": "help",
     "options": [
       "help",
@@ -1300,7 +1300,7 @@
     "translation": "Bạn có thể giúp tôi không?"
   },
   {
-    "sentence": "I _____ tired today.",
+    "sentence": "I ___ tired today.",
     "answer": "am",
     "options": [
       "am",
@@ -1311,7 +1311,7 @@
     "translation": "Hôm nay tôi mệt"
   },
   {
-    "sentence": "Please _____ the door.",
+    "sentence": "Please ___ the door.",
     "answer": "open",
     "options": [
       "open",
@@ -1322,7 +1322,7 @@
     "translation": "Làm ơn mở cửa"
   },
   {
-    "sentence": "I _____ coffee every morning.",
+    "sentence": "I ___ coffee every morning.",
     "answer": "drink",
     "options": [
       "drink",
@@ -1333,7 +1333,7 @@
     "translation": "Tôi uống cà phê mỗi sáng"
   },
   {
-    "sentence": "I will _____ you later.",
+    "sentence": "I will ___ you later.",
     "answer": "call",
     "options": [
       "call",
@@ -1344,7 +1344,7 @@
     "translation": "Tôi sẽ gọi cho bạn sau"
   },
   {
-    "sentence": "Can you _____ me a hand?",
+    "sentence": "Can you ___ me a hand?",
     "answer": "give",
     "options": [
       "give",
@@ -1355,7 +1355,7 @@
     "translation": "Bạn có thể giúp tôi một tay không?"
   },
   {
-    "sentence": "I need to _____ this work today.",
+    "sentence": "I need to ___ this work today.",
     "answer": "finish",
     "options": [
       "finish",
@@ -1366,7 +1366,7 @@
     "translation": "Tôi cần hoàn thành công việc này hôm nay"
   },
   {
-    "sentence": "She is _____ TV now.",
+    "sentence": "She is ___ TV now.",
     "answer": "watching",
     "options": [
       "watching",
@@ -1377,7 +1377,7 @@
     "translation": "Cô ấy đang xem TV"
   },
   {
-    "sentence": "I will _____ back to you soon.",
+    "sentence": "I will ___ back to you soon.",
     "answer": "get",
     "options": [
       "get",
@@ -1388,7 +1388,7 @@
     "translation": "Tôi sẽ phản hồi lại bạn sớm"
   },
   {
-    "sentence": "This task is _____ than expected.",
+    "sentence": "This task is ___ than expected.",
     "answer": "harder",
     "options": [
       "harder",
@@ -1399,7 +1399,7 @@
     "translation": "Task này khó hơn dự kiến"
   },
   {
-    "sentence": "I am _____ on this project right now.",
+    "sentence": "I am ___ on this project right now.",
     "answer": "working",
     "options": [
       "working",
@@ -1410,7 +1410,7 @@
     "translation": "Tôi đang làm project này"
   },
   {
-    "sentence": "We need to _____ this issue quickly.",
+    "sentence": "We need to ___ this issue quickly.",
     "answer": "resolve",
     "options": [
       "resolve",
@@ -1421,7 +1421,7 @@
     "translation": "Chúng ta cần xử lý vấn đề này nhanh"
   },
   {
-    "sentence": "Can you _____ this issue for me?",
+    "sentence": "Can you ___ this issue for me?",
     "answer": "look into",
     "options": [
       "look into",
@@ -1432,7 +1432,7 @@
     "translation": "Bạn có thể xem xét vấn đề này giúp tôi không?"
   },
   {
-    "sentence": "The system is currently _____.",
+    "sentence": "The system is currently ___.",
     "answer": "down",
     "options": [
       "down",
@@ -1443,7 +1443,7 @@
     "translation": "Hệ thống hiện đang bị sập"
   },
   {
-    "sentence": "We need to _____ the new feature before release.",
+    "sentence": "We need to ___ the new feature before release.",
     "answer": "test",
     "options": [
       "test",
@@ -1454,7 +1454,7 @@
     "translation": "Chúng ta cần test feature mới trước khi release"
   },
   {
-    "sentence": "The server is _____ too many resources.",
+    "sentence": "The server is ___ too many resources.",
     "answer": "consuming",
     "options": [
       "consuming",
