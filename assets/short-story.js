@@ -82,15 +82,17 @@ function renderDialogues(data) {
         `;
 
         // mobile tap show translation
-        if (window.innerWidth <= 768) {
-            dialogueEl.addEventListener("touchstart", (e) => {
-                e.stopPropagation();
+        if (window.matchMedia("(max-width: 768px)").matches) {
+            container.addEventListener("click", (e) => {
+                const clicked = e.target.closest(".dialogue-line");
+
+                if (!clicked) return;
 
                 document.querySelectorAll(".dialogue-line").forEach(item => {
                     item.classList.remove("show-translation");
                 });
 
-                dialogueEl.classList.add("show-translation");
+                clicked.classList.add("show-translation");
             });
         }
 
