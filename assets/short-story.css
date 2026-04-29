@@ -65,10 +65,6 @@ body {
     position: relative;
 }
 
-.dialogue-line:hover {
-    transform: translateY(-2px);
-}
-
 .speaker {
     display: flex;
     justify-content: start;
@@ -103,6 +99,10 @@ body {
     display: block;
 }
 
+.dialogue-line:hover {
+    transform: translateY(-2px);
+}
+
 .show-translation .translation-popup {
     display: block;
 }
@@ -127,7 +127,7 @@ body {
     background: white;
     padding: 20px;
     border-radius: 18px;
-    box-shadow: 0 6px 18px rgba(0,0,0,0.05);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.05);
 }
 
 .word {
@@ -181,5 +181,9 @@ body {
 
     .dialogue-line:hover .translation-popup {
         display: none;
+    }
+
+    .dialogue-line:hover {
+        transform: none;
     }
 }

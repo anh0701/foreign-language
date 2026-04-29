@@ -82,9 +82,16 @@ function renderDialogues(data) {
         `;
 
         // mobile tap show translation
-        dialogueEl.addEventListener("click", () => {
-            dialogueEl.classList.toggle("show-translation");
-        });
+        if (window.innerWidth <= 768) {
+            dialogueEl.addEventListener("click", () => {
+                document.querySelectorAll(".dialogue-line").forEach(item => {
+                    item.classList.remove("show-translation");
+                });
+
+                dialogueEl.classList.add("show-translation");
+                // console.log("click!!!!!!!!!!!!!")
+            });
+        }
 
         container.appendChild(dialogueEl);
     });
