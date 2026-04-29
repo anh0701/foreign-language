@@ -93,6 +93,7 @@ body {
     border-radius: 12px;
     font-size: 15px;
     color: #333;
+    pointer-events: none;
 }
 
 .dialogue-line:hover .translation-popup {
@@ -101,10 +102,6 @@ body {
 
 .dialogue-line:hover {
     transform: translateY(-2px);
-}
-
-.show-translation .translation-popup {
-    display: block;
 }
 
 .vocabulary {
@@ -180,10 +177,14 @@ body {
     }
 
     .dialogue-line:hover .translation-popup {
-        display: none;
+        display: none !important;
     }
 
     .dialogue-line:hover {
-        transform: none;
+        transform: none !important;
+    }
+
+    .show-translation .translation-popup {
+        display: block;
     }
 }

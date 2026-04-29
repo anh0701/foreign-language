@@ -83,13 +83,14 @@ function renderDialogues(data) {
 
         // mobile tap show translation
         if (window.innerWidth <= 768) {
-            dialogueEl.addEventListener("click", () => {
+            dialogueEl.addEventListener("touchstart", (e) => {
+                e.stopPropagation();
+
                 document.querySelectorAll(".dialogue-line").forEach(item => {
                     item.classList.remove("show-translation");
                 });
 
                 dialogueEl.classList.add("show-translation");
-                // console.log("click!!!!!!!!!!!!!")
             });
         }
 
