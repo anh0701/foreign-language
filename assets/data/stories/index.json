@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "slug": "the-lost-cat",
+    "title": "The Lost Cat",
+    "level": "beginner",
+    "topic": "daily_life",
+    "thumbnail": "/images/cat.jpg",
+    "estimatedReadingTime": 2
+  },
+  {
+    "id": 2,
+    "slug": "a-good-friend",
+    "title": "A Good Friend",
+    "level": "beginner",
+    "topic": "friendship",
+    "thumbnail": "/images/friend.jpg",
+    "estimatedReadingTime": 3
+  }
+]

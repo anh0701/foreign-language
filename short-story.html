@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="assets/short-story.css">
+    <base href="/foreign-language/">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+        integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <div class="wrapper">
+        <main class="content">
+            <section class="story-header">
+                <h1 class="title" id="topic-title">
+                    <i class="fas fa-book"></i> Loading...
+                </h1>
+
+                <div class="story-meta" id="story-meta"></div>
+
+                <p class="story-summary" id="story-summary"></p>
+            </section>
+
+            <section class="story-dialogues" id="story-container">
+                <!-- JS render here -->
+            </section>
+
+            <section class="vocabulary">
+                <h2>
+                    <i class="fa-solid fa-lightbulb"></i>
+                    Vocabulary
+                </h2>
+
+                <div class="vocab-list" id="vocab-container">
+                    
+                </div>
+            </section>
+        </main>
+        <footer class="footer">
+            <button onclick="goBackToList()" class="btn">
+                <i class="fa-solid fa-arrow-left"></i>
+                Back
+            </button>
+            <!-- <button id="flip">Flip</button> -->
+            <button onclick="goHome()" class="btn"><i class="fa-solid fa-house"></i> Home</button>
+            <!-- <button id="next" class="btn">Next</button> -->
+        </footer>
+    </div>
+    <div id="loader"
+        style="display: none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1000;">
+        <div class="spinner"></div>
+    </div>
+    <script src="assets/short-story.js"></script>
+</body>
+
+</html>
