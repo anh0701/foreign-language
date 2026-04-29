@@ -1,20 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Short Story</title>
     <link rel="stylesheet" href="assets/style.css">
-    <!-- <base href="/foreign-language/"> -->
+    <base href="/foreign-language/">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
-    integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
-    crossorigin="anonymous" referrerpolicy="no-referrer" />
+        integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
+
 <body>
     <h1 class="title"><i class="fas fa-book"></i> Short Story</h1>
     <p>Chọn mẩu chuyện ngắn bạn muốn đọc</p>
-    <div class="menu">
-        <a href="short-story.html?topic=the-lost-cat&title=The Lost Cat" class="btn"><i class="fas fa-book"></i> The Lost Cat</a>
-    </div>
+    <div class="menu" id="storyMenu"></div>
+
+    <script>
+        async function loadStories() {
+            try {
+                const response = await fetch("assets/data/stories/index.json");
+
+                if (!response.ok) {
+                    throw new Error("Cannot load JSON file");
+                }
+
+                const data = await response.json();
+                renderStories(data);
+
+            } catch (error) {
+                console.error(error);
+                showError("Cannot load story");
+            }
+        }
+
+        function renderStories(stories) {
+            const menu = document.getElementById("storyMenu");
+
+            menu.innerHTML = stories.map(story => `
+                <a 
+                    href="short-story.html?topic=${encodeURIComponent(story.slug)}&title=${encodeURIComponent(story.title)}" 
+                    class="btn"
+                >
+                    <i class="fas fa-book"></i> ${story.title}
+                </a>
+            `).join("");
+        }
+
+        function showError(message) {
+            document.getElementById("storyMenu").innerHTML = `
+                <p style="color: red;">${message}</p>
+            `;
+        }
+
+        loadStories();
+    </script>
 </body>
+
 </html>

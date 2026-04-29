@@ -1,0 +1,128 @@
+{
+  "id": 6,
+  "slug": "a-heavy-discussion",
+  "title": "A Heavy Discussion",
+  "level": "beginner",
+  "topic": "funny_joke",
+  "estimatedReadingTime": 1,
+
+  "summary": "Two overweight friends sit in a café and talk seriously for hours. A waiter gives their long conversation a very funny name.",
+
+  "characters": [
+    {
+      "id": "friend1",
+      "name": "Jack",
+      "role": "main_character",
+      "gender": "male"
+    },
+    {
+      "id": "friend2",
+      "name": "Bob",
+      "role": "main_character",
+      "gender": "male"
+    },
+    {
+      "id": "waiter",
+      "name": "Waiter",
+      "role": "support_character",
+      "gender": "male"
+    }
+  ],
+
+  "dialogues": [
+    {
+      "order": 1,
+      "speakerId": "friend1",
+      "type": "narration",
+      "english": "Jack and Bob were sitting in a café, talking very seriously for almost three hours.",
+      "translation": "Jack và Bob đang ngồi trong quán cà phê, nói chuyện rất nghiêm túc suốt gần ba tiếng."
+    },
+    {
+      "order": 2,
+      "speakerId": "friend2",
+      "type": "narration",
+      "english": "They ordered coffee, sandwiches, and later two large chocolate cakes.",
+      "translation": "Họ gọi cà phê, bánh mì kẹp, và sau đó là hai chiếc bánh sô-cô-la lớn."
+    },
+    {
+      "order": 3,
+      "speakerId": "waiter",
+      "type": "narration",
+      "english": "The waiter watched them and became curious.",
+      "translation": "Người phục vụ quan sát họ và trở nên tò mò."
+    },
+    {
+      "order": 4,
+      "speakerId": "waiter",
+      "type": "dialogue",
+      "english": "Excuse me, are you discussing something important?",
+      "translation": "Xin lỗi, hai anh đang thảo luận chuyện quan trọng à?"
+    },
+    {
+      "order": 5,
+      "speakerId": "friend1",
+      "type": "dialogue",
+      "english": "Yes, we are talking about life, dreams, and diet plans.",
+      "translation": "Đúng vậy, chúng tôi đang nói về cuộc sống, ước mơ và kế hoạch giảm cân."
+    },
+    {
+      "order": 6,
+      "speakerId": "waiter",
+      "type": "dialogue",
+      "english": "Ah, I see. That is truly a heavy discussion.",
+      "translation": "À, tôi hiểu rồi. Đúng là một cuộc thảo luận nặng ký."
+    },
+    {
+      "order": 7,
+      "speakerId": "friend2",
+      "type": "dialogue",
+      "english": "Especially after the second cake.",
+      "translation": "Đặc biệt là sau chiếc bánh thứ hai."
+    }
+  ],
+
+  "vocabulary": [
+    {
+      "word": "discussion",
+      "meaning": "cuộc thảo luận",
+      "example": "We had a long discussion about work."
+    },
+    {
+      "word": "diet",
+      "meaning": "chế độ ăn kiêng",
+      "example": "She started a new diet last week."
+    },
+    {
+      "word": "especially",
+      "meaning": "đặc biệt là",
+      "example": "I like fruit, especially mangoes."
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "Why did the waiter call it a heavy discussion?",
+      "options": [
+        "Because they were angry",
+        "Because they talked loudly",
+        "Because both men were overweight",
+        "Because the table was heavy"
+      ],
+      "answer": "Because both men were overweight"
+    }
+  ],
+
+  "tags": [
+    "funny",
+    "cafe",
+    "joke",
+    "beginner"
+  ],
+
+  "thumbnail": "/images/a-heavy-discussion.jpg",
+
+  "published": true,
+
+  "createdAt": "2026-04-29T10:00:00Z",
+  "updatedAt": "2026-04-29T10:00:00Z"
+}

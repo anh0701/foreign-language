@@ -1,0 +1,149 @@
+{
+  "id": 2,
+  "slug": "the-perfect-son",
+  "title": "The Perfect Son",
+  "level": "beginner",
+  "topic": "family",
+  "estimatedReadingTime": 2,
+
+  "summary": "A father proudly says he has the perfect son, but the surprising reason is that his son is only six months old.",
+
+  "characters": [
+    {
+      "id": "father",
+      "name": "Father",
+      "role": "main_character",
+      "gender": "male"
+    },
+    {
+      "id": "friend",
+      "name": "Friend",
+      "role": "support_character",
+      "gender": "male"
+    },
+    {
+      "id": "baby",
+      "name": "Baby Son",
+      "role": "support_character",
+      "gender": "male"
+    }
+  ],
+
+  "dialogues": [
+    {
+      "order": 1,
+      "speakerId": "father",
+      "type": "dialogue",
+      "english": "I have the perfect son.",
+      "translation": "Tôi có một đứa con trai hoàn hảo."
+    },
+    {
+      "order": 2,
+      "speakerId": "friend",
+      "type": "dialogue",
+      "english": "Really? Every parent says that. Does he smoke?",
+      "translation": "Thật sao? Cha mẹ nào cũng nói vậy. Nó có hút thuốc không?"
+    },
+    {
+      "order": 3,
+      "speakerId": "father",
+      "type": "dialogue",
+      "english": "No, he doesn't.",
+      "translation": "Không, nó không hút."
+    },
+    {
+      "order": 4,
+      "speakerId": "friend",
+      "type": "dialogue",
+      "english": "Does he drink whiskey with his friends?",
+      "translation": "Nó có uống rượu whiskey với bạn bè không?"
+    },
+    {
+      "order": 5,
+      "speakerId": "father",
+      "type": "dialogue",
+      "english": "No, he doesn't.",
+      "translation": "Không, nó không uống."
+    },
+    {
+      "order": 6,
+      "speakerId": "friend",
+      "type": "dialogue",
+      "english": "Does he come home late at night?",
+      "translation": "Nó có thường về nhà muộn vào ban đêm không?"
+    },
+    {
+      "order": 7,
+      "speakerId": "father",
+      "type": "dialogue",
+      "english": "No, he doesn't.",
+      "translation": "Không, nó không làm vậy."
+    },
+    {
+      "order": 8,
+      "speakerId": "friend",
+      "type": "dialogue",
+      "english": "Amazing! How old is your perfect son?",
+      "translation": "Tuyệt thật! Đứa con hoàn hảo đó bao nhiêu tuổi rồi?"
+    },
+    {
+      "order": 9,
+      "speakerId": "father",
+      "type": "dialogue",
+      "english": "He will be six months old next Wednesday.",
+      "translation": "Thứ Tư tuần sau nó sẽ tròn sáu tháng tuổi."
+    },
+    {
+      "order": 10,
+      "speakerId": "friend",
+      "type": "dialogue",
+      "english": "...Now I understand.",
+      "translation": "...Giờ thì tôi hiểu rồi."
+    }
+  ],
+
+  "vocabulary": [
+    {
+      "word": "perfect",
+      "meaning": "hoàn hảo",
+      "example": "She wants a perfect birthday party."
+    },
+    {
+      "word": "whiskey",
+      "meaning": "rượu whiskey",
+      "example": "He ordered a glass of whiskey."
+    },
+    {
+      "word": "amazing",
+      "meaning": "đáng kinh ngạc",
+      "example": "That is an amazing story."
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "How old was the perfect son?",
+      "options": [
+        "Six years old",
+        "Six months old",
+        "Ten years old",
+        "One month old"
+      ],
+      "answer": "Six months old"
+    }
+  ],
+
+  "tags": [
+    "family",
+    "funny",
+    "beginner",
+    "conversation"
+  ],
+
+  "thumbnail": "/images/the-perfect-son.jpg",
+
+  "published": true,
+
+  "createdAt": "2026-04-29T10:00:00Z",
+  "updatedAt": "2026-04-29T10:00:00Z"
+}

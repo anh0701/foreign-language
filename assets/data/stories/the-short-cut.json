@@ -1,0 +1,135 @@
+{
+  "id": 7,
+  "slug": "the-short-cut",
+  "title": "The Short Cut",
+  "level": "beginner",
+  "topic": "funny_joke",
+  "estimatedReadingTime": 1,
+
+  "summary": "A barber joins a city race and surprisingly wins. Everyone wants to know his secret, but the answer is a perfect barber joke.",
+
+  "characters": [
+    {
+      "id": "barber",
+      "name": "Barber",
+      "role": "main_character",
+      "gender": "male"
+    },
+    {
+      "id": "reporter",
+      "name": "Reporter",
+      "role": "support_character",
+      "gender": "female"
+    },
+    {
+      "id": "runners",
+      "name": "Other Runners",
+      "role": "support_character",
+      "gender": "neutral"
+    }
+  ],
+
+  "dialogues": [
+    {
+      "order": 1,
+      "speakerId": "barber",
+      "type": "narration",
+      "english": "A local barber surprised everyone by joining the city marathon.",
+      "translation": "Một người thợ cắt tóc địa phương đã khiến mọi người bất ngờ khi tham gia cuộc marathon của thành phố."
+    },
+    {
+      "order": 2,
+      "speakerId": "runners",
+      "type": "narration",
+      "english": "Most people laughed because they thought he would get tired quickly.",
+      "translation": "Hầu hết mọi người cười vì họ nghĩ anh ấy sẽ nhanh chóng mệt."
+    },
+    {
+      "order": 3,
+      "speakerId": "barber",
+      "type": "narration",
+      "english": "But somehow, he crossed the finish line first.",
+      "translation": "Nhưng bằng cách nào đó, anh ấy đã cán đích đầu tiên."
+    },
+    {
+      "order": 4,
+      "speakerId": "reporter",
+      "type": "dialogue",
+      "english": "Congratulations! How did you win the race?",
+      "translation": "Xin chúc mừng! Anh đã thắng cuộc đua bằng cách nào?"
+    },
+    {
+      "order": 5,
+      "speakerId": "barber",
+      "type": "dialogue",
+      "english": "It was easy. I took a short cut.",
+      "translation": "Dễ thôi. Tôi đã đi đường tắt."
+    },
+    {
+      "order": 6,
+      "speakerId": "reporter",
+      "type": "dialogue",
+      "english": "Do you mean a secret road?",
+      "translation": "Ý anh là một con đường bí mật sao?"
+    },
+    {
+      "order": 7,
+      "speakerId": "barber",
+      "type": "dialogue",
+      "english": "No, I am a barber. I always know where to make the best short cut.",
+      "translation": "Không, tôi là thợ cắt tóc. Tôi luôn biết nơi tạo ra đường cắt ngắn tốt nhất."
+    },
+    {
+      "order": 8,
+      "speakerId": "reporter",
+      "type": "narration",
+      "english": "The crowd laughed, and even the other runners could not stay angry.",
+      "translation": "Đám đông bật cười, và ngay cả những người chạy khác cũng không thể giận được."
+    }
+  ],
+
+  "vocabulary": [
+    {
+      "word": "marathon",
+      "meaning": "cuộc đua marathon",
+      "example": "She trained for the city marathon."
+    },
+    {
+      "word": "finish line",
+      "meaning": "vạch đích",
+      "example": "He crossed the finish line first."
+    },
+    {
+      "word": "short cut",
+      "meaning": "đường tắt / kiểu tóc ngắn (chơi chữ)",
+      "example": "He took a short cut to save time."
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "Why did the barber say he won the race?",
+      "options": [
+        "Because he ran faster",
+        "Because he trained every day",
+        "Because he took a short cut",
+        "Because others stopped running"
+      ],
+      "answer": "Because he took a short cut"
+    }
+  ],
+
+  "tags": [
+    "funny",
+    "sports",
+    "joke",
+    "beginner"
+  ],
+
+  "thumbnail": "/images/the-short-cut.jpg",
+
+  "published": true,
+
+  "createdAt": "2026-04-29T10:00:00Z",
+  "updatedAt": "2026-04-29T10:00:00Z"
+}

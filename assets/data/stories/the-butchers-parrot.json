@@ -1,0 +1,170 @@
+{
+  "id": 3,
+  "slug": "the-butchers-parrot",
+  "title": "The Butcher's Parrot",
+  "level": "beginner",
+  "topic": "funny_story",
+  "estimatedReadingTime": 3,
+
+  "summary": "A woman buys a very clever parrot, but its endless question makes the butcher so angry that he collapses. The ending becomes even funnier when the parrot calmly explains everything.",
+
+  "characters": [
+    {
+      "id": "woman",
+      "name": "Woman",
+      "role": "main_character",
+      "gender": "female"
+    },
+    {
+      "id": "parrot",
+      "name": "Parrot",
+      "role": "main_character",
+      "gender": "neutral"
+    },
+    {
+      "id": "butcher",
+      "name": "Butcher",
+      "role": "support_character",
+      "gender": "male"
+    }
+  ],
+
+  "dialogues": [
+    {
+      "order": 1,
+      "speakerId": "woman",
+      "type": "narration",
+      "english": "A woman bought a clever parrot from a second-hand pet shop.",
+      "translation": "Một người phụ nữ mua một con vẹt thông minh từ một cửa hàng thú cưng cũ."
+    },
+    {
+      "order": 2,
+      "speakerId": "parrot",
+      "type": "narration",
+      "english": "The shop owner said the bird could remember everything.",
+      "translation": "Chủ cửa hàng nói rằng con chim có thể nhớ mọi thứ."
+    },
+    {
+      "order": 3,
+      "speakerId": "woman",
+      "type": "narration",
+      "english": "One afternoon, the woman went out to buy vegetables.",
+      "translation": "Một buổi chiều, người phụ nữ ra ngoài mua rau."
+    },
+    {
+      "order": 4,
+      "speakerId": "butcher",
+      "type": "narration",
+      "english": "At that moment, the butcher came to deliver some fresh meat.",
+      "translation": "Đúng lúc đó, người bán thịt đến giao thịt tươi."
+    },
+    {
+      "order": 5,
+      "speakerId": "parrot",
+      "type": "dialogue",
+      "english": "Who is it?",
+      "translation": "Ai đó?"
+    },
+    {
+      "order": 6,
+      "speakerId": "butcher",
+      "type": "dialogue",
+      "english": "It's the butcher!",
+      "translation": "Là người bán thịt đây!"
+    },
+    {
+      "order": 7,
+      "speakerId": "parrot",
+      "type": "dialogue",
+      "english": "Who is it?",
+      "translation": "Ai đó?"
+    },
+    {
+      "order": 8,
+      "speakerId": "butcher",
+      "type": "dialogue",
+      "english": "It's the butcher!",
+      "translation": "Là người bán thịt!"
+    },
+    {
+      "order": 9,
+      "speakerId": "parrot",
+      "type": "dialogue",
+      "english": "Who is it?",
+      "translation": "Ai đó?"
+    },
+    {
+      "order": 10,
+      "speakerId": "butcher",
+      "type": "dialogue",
+      "english": "It's the butcher! The butcher! THE BUTCHER!",
+      "translation": "Là người bán thịt! Người bán thịt! NGƯỜI BÁN THỊT!"
+    },
+    {
+      "order": 11,
+      "speakerId": "butcher",
+      "type": "narration",
+      "english": "He shouted so much that he suddenly had a heart attack and fell to the floor.",
+      "translation": "Ông ấy hét quá nhiều đến mức bất ngờ lên cơn đau tim và ngã xuống sàn."
+    },
+    {
+      "order": 12,
+      "speakerId": "woman",
+      "type": "narration",
+      "english": "When the woman came home, she saw the butcher lying there in shock.",
+      "translation": "Khi người phụ nữ về nhà, cô sốc khi thấy người bán thịt nằm đó."
+    },
+    {
+      "order": 13,
+      "speakerId": "parrot",
+      "type": "dialogue",
+      "english": "It's the butcher!",
+      "translation": "Là người bán thịt đó!"
+    }
+  ],
+
+  "vocabulary": [
+    {
+      "word": "clever",
+      "meaning": "thông minh",
+      "example": "The parrot is very clever."
+    },
+    {
+      "word": "deliver",
+      "meaning": "giao hàng",
+      "example": "He delivers meat every morning."
+    },
+    {
+      "word": "shock",
+      "meaning": "sốc, kinh ngạc",
+      "example": "She was in shock after seeing the accident."
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "Why did the butcher fall to the floor?",
+      "options": [
+        "He slipped on water",
+        "He had a heart attack",
+        "The parrot pushed him",
+        "He was sleeping"
+      ],
+      "answer": "He had a heart attack"
+    }
+  ],
+
+  "tags": [
+    "funny",
+    "animals",
+    "conversation",
+    "beginner"
+  ],
+
+  "thumbnail": "/images/the-butchers-parrot.jpg",
+
+  "published": true,
+
+  "createdAt": "2026-04-29T10:00:00Z",
+  "updatedAt": "2026-04-29T10:00:00Z"
+}
