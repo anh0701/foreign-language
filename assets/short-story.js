@@ -124,7 +124,7 @@ function showError(message) {
 }
 
 function goBackToList() {
-    window.location.href = "/short-stories.html";
+    window.location.href = "short-stories.html";
 }
 
 loadStory();

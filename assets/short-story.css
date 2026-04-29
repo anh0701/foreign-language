@@ -11,6 +11,13 @@ body {
     line-height: 1.6;
 }
 
+.content {
+    width: 100%;
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 48px 20px 120px;
+}
+
 .story-header {
     margin-bottom: 40px;
 }
@@ -99,7 +106,7 @@ body {
 }
 
 .vocabulary {
-    margin-bottom: 60px;
+    /* margin-bottom: 60px; */
     margin-top: 60px;
 }
 
@@ -163,11 +170,6 @@ body {
 
     .english {
         font-size: 16px;
-    }
-
-    .footer {
-        padding: 14px;
-        gap: 10px;
     }
 
     .btn {
