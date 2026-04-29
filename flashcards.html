@@ -15,12 +15,47 @@
 <body>
     <h1 class="title"><i class="fa-solid fa-layer-group"></i> Flashcards</h1>
     <p>Chọn chủ đề bạn muốn học từ mới</p>
-    <div class="menu">
-        <a href="flashcard.html?topic=interview-ai&title=AI Engineer" class="btn"><i class="fa-solid fa-layer-group"></i> AI Engineer</a>
-        <a href="flashcard.html?topic=backend-java&title=Backend Developer (Java)" class="btn"><i class="fa-solid fa-layer-group"></i> Backend Developer (Java)</a>
-        <!-- <a href="flashcard.html?topic=devops&title=DevOps Fresher" class="btn">DevOps Fresher</a> -->
-        <a href="flashcard.html?topic=fast-api&title=FastAPI" class="btn"><i class="fa-solid fa-layer-group"></i> FastAPI</a>
-    </div>
+    <div class="menu" id="flashcardMenu"></div>
+
+    <script>
+        async function loadStories() {
+            try {
+                const response = await fetch("assets/data/flashcards/index.json");
+
+                if (!response.ok) {
+                    throw new Error("Cannot load JSON file");
+                }
+
+                const data = await response.json();
+                renderStories(data);
+
+            } catch (error) {
+                console.error(error);
+                showError("Cannot load story");
+            }
+        }
+
+        function renderStories(stories) {
+            const menu = document.getElementById("flashcardMenu");
+
+            menu.innerHTML = stories.map(story => `
+                <a 
+                    href="flashcard.html?topic=${encodeURIComponent(story.slug)}&title=${encodeURIComponent(story.title)}" 
+                    class="btn"
+                >
+                    <i class="fas fa-book"></i> ${story.title}
+                </a>
+            `).join("");
+        }
+
+        function showError(message) {
+            document.getElementById("flashcardMenu").innerHTML = `
+                <p style="color: red;">${message}</p>
+            `;
+        }
+
+        loadStories();
+    </script>
 </body>
 
 </html>

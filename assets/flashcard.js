@@ -24,7 +24,7 @@ async function loadWords() {
 
         titleElement.appendChild(icon);
         titleElement.appendChild(text);
-        const res = await fetch(`assets/data/${topic}.json`);
+        const res = await fetch(`assets/data/flashcards/${topic}.json`);
         if (!res.ok) throw new Error("Không tìm thấy file data");
         data = await res.json();
         // console.log(loader)
