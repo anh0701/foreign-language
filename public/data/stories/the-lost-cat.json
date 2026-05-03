@@ -1,0 +1,128 @@
+{
+  "id": 1,
+  "slug": "the-lost-cat",
+  "title": "The Lost Cat",
+  "level": "beginner",
+  "topic": "daily_life",
+  "estimatedReadingTime": 2,
+
+  "summary": "Tom loses his white cat and looks for it everywhere before finally finding it under the bed.",
+
+  "characters": [
+    {
+      "id": "tom",
+      "name": "Tom",
+      "role": "main_character",
+      "gender": "male"
+    },
+    {
+      "id": "mother",
+      "name": "Mother",
+      "role": "support_character",
+      "gender": "female"
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "role": "narration",
+      "gender": "neutral"
+    }
+  ],
+
+  "dialogues": [
+    {
+      "order": 1,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "Tom had a small white cat.",
+      "translation": "Tom có một con mèo trắng nhỏ."
+    },
+    {
+      "order": 2,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "One day, the cat was missing.",
+      "translation": "Một ngày nọ, con mèo biến mất."
+    },
+    {
+      "order": 3,
+      "speakerId": "tom",
+      "type": "dialogue",
+      "english": "Mom, I can't find my cat!",
+      "translation": "Mẹ ơi, con không thể tìm thấy con mèo của mình!"
+    },
+    {
+      "order": 4,
+      "speakerId": "mother",
+      "type": "dialogue",
+      "english": "Don't worry, Tom. Let's look for it together.",
+      "translation": "Đừng lo, Tom. Chúng ta cùng tìm nó nhé."
+    },
+    {
+      "order": 5,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "He looked for it everywhere in the house.",
+      "translation": "Cậu ấy tìm nó khắp nơi trong nhà."
+    },
+    {
+      "order": 6,
+      "speakerId": "tom",
+      "type": "dialogue",
+      "english": "Oh! There you are!",
+      "translation": "Ồ! Mày ở đây rồi!"
+    },
+    {
+      "order": 7,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "Finally, he found it under the bed.",
+      "translation": "Cuối cùng, cậu tìm thấy nó dưới gầm giường."
+    }
+  ],
+
+  "vocabulary": [
+    {
+      "word": "missing",
+      "meaning": "mất tích / biến mất",
+      "example": "My phone is missing."
+    },
+    {
+      "word": "look for",
+      "meaning": "tìm kiếm",
+      "example": "She is looking for her keys."
+    },
+    {
+      "word": "under",
+      "meaning": "bên dưới",
+      "example": "The shoes are under the table."
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "Where was the cat finally found?",
+      "options": [
+        "In the kitchen",
+        "Under the bed",
+        "In the garden",
+        "On the roof"
+      ],
+      "answer": "Under the bed"
+    }
+  ],
+
+  "tags": [
+    "animals",
+    "daily_life",
+    "beginner",
+    "conversation"
+  ],
+
+  "thumbnail": "/images/the-lost-cat.jpg",
+
+  "published": true,
+
+  "createdAt": "2026-04-29T10:00:00Z",
+  "updatedAt": "2026-04-29T10:00:00Z"
+}

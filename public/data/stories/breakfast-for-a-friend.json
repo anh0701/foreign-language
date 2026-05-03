@@ -1,0 +1,323 @@
+{
+  "id": 8,
+  "slug": "breakfast-for-a-friend",
+  "title": "Breakfast for a Friend",
+  "level": "beginner",
+  "topic": "school_life",
+  "estimatedReadingTime": 4,
+
+  "summary": "Anna feels tired because she stayed up late studying for exams. Tom secretly brings breakfast and medicine for her because her parents are away on a business trip. Anna slowly realizes Tom is the one who cooked for her and quietly takes care of her every day.",
+
+  "characters": [
+    {
+      "id": "anna",
+      "name": "Anna",
+      "role": "main_character",
+      "gender": "female"
+    },
+    {
+      "id": "tom",
+      "name": "Tom",
+      "role": "main_character",
+      "gender": "male"
+    },
+    {
+      "id": "tom_mother",
+      "name": "Tom's Mother",
+      "role": "support_character",
+      "gender": "female"
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "role": "narration",
+      "gender": "neutral"
+    }
+  ],
+
+  "dialogues": [
+    {
+      "order": 1,
+      "speakerId": "tom",
+      "type": "dialogue",
+      "english": "Good morning, Anna.",
+      "translation": "Chào buổi sáng, Anna."
+    },
+    {
+      "order": 2,
+      "speakerId": "anna",
+      "type": "dialogue",
+      "english": "Good morning, Tom. I feel so tired today.",
+      "translation": "Chào buổi sáng, Tom. Hôm nay mình cảm thấy rất mệt."
+    },
+    {
+      "order": 3,
+      "speakerId": "tom",
+      "type": "dialogue",
+      "english": "Tired? Are you sick again, or did you stay up late to study?",
+      "translation": "Mệt sao? Cậu lại bị ốm hay thức khuya để học vậy?"
+    },
+    {
+      "order": 4,
+      "speakerId": "anna",
+      "type": "dialogue",
+      "english": "I stayed up late last night to study. I have many exams soon, so I must study a lot.",
+      "translation": "Tối qua mình thức khuya để học. Sắp tới mình có nhiều kỳ thi nên phải học rất nhiều."
+    },
+    {
+      "order": 5,
+      "speakerId": "tom",
+      "type": "dialogue",
+      "english": "I know exams are important, but you must take care of your health too.",
+      "translation": "Mình biết thi cử rất quan trọng, nhưng cậu cũng phải chăm sóc sức khỏe nữa."
+    },
+    {
+      "order": 6,
+      "speakerId": "anna",
+      "type": "dialogue",
+      "english": "I know, don't worry. You should also study more, not only care about me.",
+      "translation": "Mình biết rồi, đừng lo. Cậu cũng nên học nhiều hơn chứ đừng chỉ lo cho mình."
+    },
+    {
+      "order": 7,
+      "speakerId": "tom",
+      "type": "dialogue",
+      "english": "Did you eat anything this morning? Did you have breakfast?",
+      "translation": "Sáng nay cậu đã ăn gì chưa? Cậu có ăn sáng không?"
+    },
+    {
+      "order": 8,
+      "speakerId": "anna",
+      "type": "dialogue",
+      "english": "No. I woke up late, so I came to school right away. My parents are on a business trip, so there is nothing at home.",
+      "translation": "Chưa. Mình dậy muộn nên đến trường luôn. Bố mẹ mình đang đi công tác nên ở nhà chẳng có gì cả."
+    },
+    {
+      "order": 9,
+      "speakerId": "tom",
+      "type": "dialogue",
+      "english": "I knew it. My mom told me to bring breakfast for you. Here, eat this.",
+      "translation": "Mình biết ngay mà. Mẹ mình bảo mang bữa sáng cho cậu. Đây, ăn đi."
+    },
+    {
+      "order": 10,
+      "speakerId": "anna",
+      "type": "dialogue",
+      "english": "Again? You brought food for me yesterday too.",
+      "translation": "Lại nữa à? Hôm qua cậu cũng mang đồ ăn cho mình rồi."
+    },
+    {
+      "order": 11,
+      "speakerId": "tom",
+      "type": "dialogue",
+      "english": "Yeah. My mom knows your parents are not at home, so she thinks you don't eat well. She cooked extra food and told me to bring it to you so you have energy to study.",
+      "translation": "Ừ. Mẹ mình biết bố mẹ cậu không ở nhà nên nghĩ rằng cậu ăn uống không đầy đủ. Mẹ nấu thêm đồ ăn và bảo mình mang cho cậu để cậu có sức học."
+    },
+    {
+      "order": 12,
+      "speakerId": "anna",
+      "type": "dialogue",
+      "english": "Really? Your mom said that? She has never even met me. Are you lying?",
+      "translation": "Thật sao? Mẹ cậu nói vậy à? Cô ấy còn chưa từng gặp mình nữa. Cậu đang nói dối đúng không?"
+    },
+    {
+      "order": 13,
+      "speakerId": "tom",
+      "type": "dialogue",
+      "english": "Well, she hasn't met you, but I told her we are close friends, so she likes you too.",
+      "translation": "Ừm, mẹ chưa gặp cậu, nhưng mình đã nói rằng chúng ta là bạn thân nên mẹ cũng quý cậu."
+    },
+    {
+      "order": 14,
+      "speakerId": "anna",
+      "type": "dialogue",
+      "english": "Your mom is so kind, and the food is very good. After school, I will go to your house to say thank you to her.",
+      "translation": "Mẹ cậu thật tốt bụng, và đồ ăn rất ngon. Sau giờ học mình sẽ đến nhà cậu để cảm ơn cô ấy."
+    },
+    {
+      "order": 15,
+      "speakerId": "tom",
+      "type": "dialogue",
+      "english": "No, no. You don't need to. My mom is very busy, and it's just food. No need to say thanks.",
+      "translation": "Không, không cần đâu. Mẹ mình rất bận, và chỉ là chút đồ ăn thôi. Không cần cảm ơn đâu."
+    },
+    {
+      "order": 16,
+      "speakerId": "anna",
+      "type": "dialogue",
+      "english": "No, I must. If she cooks for me, I should say thank you.",
+      "translation": "Không, mình phải làm vậy. Nếu cô ấy nấu cho mình thì mình nên cảm ơn."
+    },
+    {
+      "order": 17,
+      "speakerId": "tom",
+      "type": "dialogue",
+      "english": "Really, it's okay. You need to go home early, rest, and study more.",
+      "translation": "Thật sự không sao đâu. Cậu nên về nhà sớm, nghỉ ngơi và học thêm."
+    },
+    {
+      "order": 18,
+      "speakerId": "anna",
+      "type": "dialogue",
+      "english": "Why don't you let me meet your mom? Is there something you are hiding?",
+      "translation": "Sao cậu không cho mình gặp mẹ cậu? Có chuyện gì cậu đang giấu à?"
+    },
+    {
+      "order": 19,
+      "speakerId": "tom",
+      "type": "dialogue",
+      "english": "No, nothing. My mom is just busy, and you are busy too.",
+      "translation": "Không, không có gì cả. Mẹ mình chỉ là bận thôi, và cậu cũng bận nữa."
+    },
+    {
+      "order": 20,
+      "speakerId": "anna",
+      "type": "dialogue",
+      "english": "I am not busy... or this food is not from your mom, right? Did you buy it?",
+      "translation": "Mình không bận... hay là đồ ăn này không phải mẹ cậu làm đúng không? Cậu mua nó à?"
+    },
+    {
+      "order": 21,
+      "speakerId": "tom",
+      "type": "dialogue",
+      "english": "No, I didn't buy it.",
+      "translation": "Không, mình không mua."
+    },
+    {
+      "order": 22,
+      "speakerId": "anna",
+      "type": "dialogue",
+      "english": "Then who made it? This is too good. If you don't let me meet your mom, then it is not her cooking. You are hiding something. Tell me, did you buy it from a restaurant?",
+      "translation": "Vậy ai làm nó? Nó ngon quá. Nếu cậu không cho mình gặp mẹ cậu thì chắc chắn không phải cô ấy nấu. Cậu đang giấu gì đó. Nói thật đi, cậu mua ở nhà hàng đúng không?"
+    },
+    {
+      "order": 23,
+      "speakerId": "tom",
+      "type": "dialogue",
+      "english": "I said I did not buy it.",
+      "translation": "Mình đã nói là mình không mua mà."
+    },
+    {
+      "order": 24,
+      "speakerId": "anna",
+      "type": "dialogue",
+      "english": "Then where is it from? It is not from your mom, and it cannot be you.",
+      "translation": "Vậy thì nó từ đâu ra? Không phải mẹ cậu, mà cũng không thể là cậu được."
+    },
+    {
+      "order": 25,
+      "speakerId": "tom",
+      "type": "dialogue",
+      "english": "Why can't it be me?",
+      "translation": "Tại sao lại không thể là mình?"
+    },
+    {
+      "order": 26,
+      "speakerId": "anna",
+      "type": "dialogue",
+      "english": "Because you cannot cook like this. I have never seen you cook before, and why would you cook for me?",
+      "translation": "Vì cậu không thể nấu ngon như thế này. Mình chưa bao giờ thấy cậu nấu ăn cả, và tại sao cậu lại nấu cho mình chứ?"
+    },
+    {
+      "order": 27,
+      "speakerId": "tom",
+      "type": "dialogue",
+      "english": "What if I really made it?",
+      "translation": "Nếu thật sự là mình làm thì sao?"
+    },
+    {
+      "order": 28,
+      "speakerId": "anna",
+      "type": "dialogue",
+      "english": "I don't believe you. You would not wake up early, buy food, cook, and bring it for me. And all the dishes are my favorite. You are not that caring. Tell me the truth.",
+      "translation": "Mình không tin. Cậu sẽ không dậy sớm, mua đồ, nấu ăn rồi mang cho mình đâu. Hơn nữa tất cả món đều là món mình thích. Cậu không chu đáo đến thế. Nói thật đi."
+    },
+    {
+      "order": 29,
+      "speakerId": "tom",
+      "type": "dialogue",
+      "english": "Just eat. You talk too much. It doesn't matter who made it. Just eat quickly. Class will start soon, and after you eat, take this medicine. It will help your headache.",
+      "translation": "Cứ ăn đi. Cậu nói nhiều quá. Ai làm không quan trọng. Mau ăn đi, sắp vào lớp rồi, và sau khi ăn thì uống thuốc này nhé. Nó sẽ giúp cậu đỡ đau đầu."
+    },
+    {
+      "order": 30,
+      "speakerId": "anna",
+      "type": "dialogue",
+      "english": "Wait. How do you know I have a headache?",
+      "translation": "Khoan đã. Sao cậu biết mình bị đau đầu?"
+    },
+    {
+      "order": 31,
+      "speakerId": "tom",
+      "type": "dialogue",
+      "english": "Of course. You always stay up late to study and wake up early. Of course you have a headache, and you are very stubborn. You never take care of yourself. So I bought medicine for my mom this morning, and I bought some for you too.",
+      "translation": "Tất nhiên rồi. Cậu lúc nào cũng thức khuya học bài rồi lại dậy sớm. Đương nhiên là cậu bị đau đầu, và cậu rất bướng bỉnh. Cậu chẳng bao giờ tự chăm sóc bản thân. Sáng nay mình mua thuốc cho mẹ, và cũng mua luôn cho cậu."
+    },
+    {
+      "order": 32,
+      "speakerId": "anna",
+      "type": "dialogue",
+      "english": "Wow, you are so nice. Thank you so much. I really don't know what I would do without you.",
+      "translation": "Wow, cậu thật tốt. Cảm ơn cậu rất nhiều. Mình thật sự không biết sẽ làm gì nếu không có cậu."
+    },
+    {
+      "order": 33,
+      "speakerId": "tom",
+      "type": "dialogue",
+      "english": "Then you should value me more.",
+      "translation": "Vậy thì cậu nên trân trọng mình hơn đấy."
+    },
+    {
+      "order": 34,
+      "speakerId": "anna",
+      "type": "dialogue",
+      "english": "Of course. Today after school, I will definitely thank you properly.",
+      "translation": "Tất nhiên rồi. Hôm nay sau giờ học mình nhất định sẽ cảm ơn cậu thật đàng hoàng."
+    }
+  ],
+
+  "vocabulary": [
+    {
+      "word": "business trip",
+      "meaning": "chuyến công tác",
+      "example": "My parents are on a business trip this week."
+    },
+    {
+      "word": "stubborn",
+      "meaning": "bướng bỉnh",
+      "example": "She is very stubborn and never listens to advice."
+    },
+    {
+      "word": "headache",
+      "meaning": "đau đầu",
+      "example": "I have a headache because I studied too late."
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "Who actually cooked the breakfast for Anna?",
+      "options": [
+        "Tom's mother",
+        "A restaurant",
+        "Tom",
+        "Anna's parents"
+      ],
+      "answer": "Tom"
+    }
+  ],
+
+  "tags": [
+    "friendship",
+    "school",
+    "care",
+    "beginner"
+  ],
+
+  "thumbnail": "/images/breakfast-for-a-friend.jpg",
+
+  "published": true,
+
+  "createdAt": "2026-04-29T10:00:00Z",
+  "updatedAt": "2026-04-29T10:00:00Z"
+}
