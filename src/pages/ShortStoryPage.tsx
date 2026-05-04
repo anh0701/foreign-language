@@ -1,14 +1,14 @@
 import React from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import { useShortStory } from '../hooks/useShortStory';
-import { 
-  BookOpen, 
+import {
+  BookOpen,
   // User, 
-  Lightbulb, 
-  House, 
-  ArrowLeft, 
-  Clock, 
-  ChevronDown,
+  Lightbulb,
+  House,
+  ArrowLeft,
+  Clock,
+  // ChevronDown,
   MessageCircle
 } from 'lucide-react';
 
@@ -16,14 +16,14 @@ const ShortStoryPage: React.FC = () => {
   const navigate = useNavigate();
   const [searchParams] = useSearchParams();
   const topicSlug = searchParams.get('topic');
-  
-  const { 
-    storyList, 
-    story, 
-    loading, 
-    error, 
-    activeDialogue, 
-    toggleTranslation 
+
+  const {
+    storyList,
+    story,
+    loading,
+    error,
+    activeDialogue,
+    toggleTranslation
   } = useShortStory(topicSlug);
 
   if (loading) {
@@ -82,28 +82,28 @@ const ShortStoryPage: React.FC = () => {
           ))}
         </div>
 
-      <button 
-        onClick={() => navigate('/')}
-        className="fixed bottom-8 bg-white/90 backdrop-blur-xl p-4 rounded-full shadow-2xl border border-white text-slate-800 hover:scale-110 transition-transform active:scale-95"
-      >
-        <House size={28} />
-      </button>
+        <button
+          onClick={() => navigate('/')}
+          className="fixed bottom-8 bg-white/90 backdrop-blur-xl p-4 rounded-full shadow-2xl border border-white text-slate-800 hover:scale-110 transition-transform active:scale-95"
+        >
+          <House size={28} />
+        </button>
       </div>
     );
   }
 
-//   chi tiet chuyen
+  //   chi tiet chuyen
 
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col items-center pb-24">
       <header className="w-full max-w-3xl bg-white p-8 md:p-14 shadow-sm border-b border-slate-100">
-        <button 
-          onClick={() => navigate('/stories')} 
+        <button
+          onClick={() => navigate('/stories')}
           className="flex items-center gap-2 text-slate-400 hover:text-sky-600 mb-8 font-bold transition-colors text-sm uppercase tracking-wider"
         >
           <ArrowLeft size={16} /> Back to Library
         </button>
-        
+
         <h1 className="text-4xl font-black text-slate-900 leading-tight mb-6">
           {story?.title}
         </h1>
@@ -129,43 +129,62 @@ const ShortStoryPage: React.FC = () => {
       <section className="w-full max-w-3xl p-6 md:p-10 space-y-6">
         {story?.dialogues.map((line, index) => {
           const character = story.characters.find(c => c.id === line.speakerId);
-          const isNarrator = !line.speakerId || line.speakerId.toLowerCase() === 'narrator';
+
+          const side = character?.chatSide || 'center';
 
           return (
-            <div 
-              key={index} 
+            <div
+              key={index}
               onClick={() => toggleTranslation(index)}
               className="w-full animate-in fade-in slide-in-from-bottom-4 duration-500"
             >
-              <div className={`group relative p-6 rounded-[2rem] transition-all duration-300 border cursor-pointer
-                ${isNarrator 
-                  ? 'bg-slate-100/50 border-dashed border-slate-300 mx-auto max-w-[92%]' 
-                  : 'bg-white border-slate-100 shadow-sm hover:shadow-md hover:border-sky-200'}
-              `}>
-                
 
-                {!isNarrator && (
-                  <div className="flex items-center justify-between mb-3">
-                    <span className="text-[10px] font-black uppercase tracking-[0.2em] text-sky-500 bg-sky-50 px-3 py-1 rounded-full">
-                      {character?.name || line.speakerId}
-                    </span>
-                    <ChevronDown size={14} className={`text-slate-300 transition-transform ${activeDialogue === index ? 'rotate-180' : ''}`} />
-                  </div>
-                )}
-
-
-                <p className={`text-xl leading-relaxed ${isNarrator ? 'text-slate-500 italic text-center font-medium' : 'text-slate-800 font-semibold'}`}>
+              {/*  NARRATOR  */}
+              {side === 'center' ? (
+                <div className="mx-auto max-w-[80%] text-center italic text-slate-400 text-sm leading-relaxed px-4 py-1">
                   {line.english}
-                </p>
-                
-                <div className={`overflow-hidden transition-all duration-500 
-                  ${activeDialogue === index ? 'max-h-40 mt-4 pt-4 border-t border-slate-100 opacity-100' : 'max-h-0 opacity-0'}`}
-                >
-                  <p className="text-base text-slate-500 italic font-medium">
-                    {line.translation}
-                  </p>
+
+                  {activeDialogue === index && (
+                    <p className="mt-3 text-sm text-slate-400">
+                      {line.translation}
+                    </p>
+                  )}
                 </div>
-              </div>
+              ) : (
+
+                /*  CHAT  */
+                <div className={`flex ${side === 'left' ? 'justify-start' : 'justify-end'}`}>
+
+                  <div
+                    className={`max-w-[75%] px-5 py-4 rounded-3xl shadow-sm cursor-pointer transition-all
+              ${side === 'left'
+                        ? 'bg-white border border-slate-200 rounded-bl-sm'
+                        : 'bg-sky-500 text-white rounded-br-sm'}
+            `}
+                  >
+
+                    <p className={`text-xs mb-1 font-bold 
+              ${side === 'left' ? 'text-sky-500' : 'text-white/80'}
+            `}>
+                      {character?.name || 'Unknown'}
+                    </p>
+
+                    <p className="text-base font-medium leading-relaxed">
+                      {line.english}
+                    </p>
+
+                    {/* TRANSLATION */}
+                    {activeDialogue === index && (
+                      <p className={`mt-2 text-sm italic 
+                ${side === 'left' ? 'text-slate-500' : 'text-white/80'}
+              `}>
+                        {line.translation}
+                      </p>
+                    )}
+                  </div>
+
+                </div>
+              )}
             </div>
           );
         })}
@@ -195,7 +214,7 @@ const ShortStoryPage: React.FC = () => {
         </div>
       </section>
 
-      <button 
+      <button
         onClick={() => navigate('/short-stories')}
         className="fixed bottom-8 bg-white/90 backdrop-blur-xl p-4 rounded-full shadow-2xl border border-white text-slate-800 hover:scale-110 transition-transform active:scale-95"
       >

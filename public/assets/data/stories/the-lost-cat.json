@@ -13,19 +13,22 @@
       "id": "tom",
       "name": "Tom",
       "role": "main_character",
-      "gender": "male"
+      "gender": "male",
+      "chatSide": "left"
     },
     {
       "id": "mother",
       "name": "Mother",
       "role": "support_character",
-      "gender": "female"
+      "gender": "female",
+      "chatSide": "right"
     },
     {
       "id": "narrator",
       "name": "Narrator",
       "role": "narration",
-      "gender": "neutral"
+      "gender": "neutral",
+      "chatSide": "center"
     }
   ],
 

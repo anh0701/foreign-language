@@ -13,25 +13,29 @@
       "id": "barber",
       "name": "Barber",
       "role": "main_character",
-      "gender": "male"
+      "gender": "male",
+      "chatSide": "right"
     },
     {
       "id": "reporter",
       "name": "Reporter",
       "role": "support_character",
-      "gender": "female"
+      "gender": "female",
+      "chatSide": "left"
     },
     {
       "id": "runners",
       "name": "Other Runners",
       "role": "support_character",
-      "gender": "neutral"
+      "gender": "neutral",
+      "chatSide": "left"
     },
     {
       "id": "narrator",
       "name": "Narrator",
       "role": "narration",
-      "gender": "neutral"
+      "gender": "neutral",
+      "chatSide": "center"
     }
   ],
 

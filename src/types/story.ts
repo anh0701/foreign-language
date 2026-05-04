@@ -2,12 +2,14 @@ export interface Character {
   id: string;
   name: string;
   avatar?: string;
+  chatSide: 'left' | 'right' | 'center';
 }
 
 export interface Dialogue {
   speakerId: string;
   english: string;
   translation: string;
+  type?: 'dialogue' | 'narration';
 }
 
 export interface Vocabulary {
