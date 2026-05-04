@@ -1,0 +1,152 @@
+{
+  "id": 9,
+  "slug": "driving-lesson-choice",
+  "title": "The Driving Lesson Choice",
+  "level": "beginner",
+  "topic": "daily_life",
+  "estimatedReadingTime": 2,
+
+  "summary": "During a driving lesson, a student gives a surprising answer to a tricky situation, but the instructor reminds him of the most important rule: brake.",
+
+  "characters": [
+    {
+      "id": "student",
+      "name": "Student",
+      "role": "main_character",
+      "gender": "male",
+      "chatSide": "left"
+    },
+    {
+      "id": "instructor",
+      "name": "Instructor",
+      "role": "support_character",
+      "gender": "male",
+      "chatSide": "right"
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "role": "narration",
+      "gender": "neutral",
+      "chatSide": "center"
+    }
+  ],
+
+  "dialogues": [
+    {
+      "order": 1,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "A nervous student was having his first driving lesson.",
+      "translation": "Một học viên lo lắng đang có buổi học lái xe đầu tiên."
+    },
+    {
+      "order": 2,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "His instructor decided to test his thinking.",
+      "translation": "Thầy giáo của anh ấy quyết định kiểm tra cách suy nghĩ của anh."
+    },
+    {
+      "order": 3,
+      "speakerId": "instructor",
+      "type": "dialogue",
+      "english": "Imagine this. You are driving on a narrow road.",
+      "translation": "Hãy tưởng tượng. Em đang lái xe trên một con đường hẹp."
+    },
+    {
+      "order": 4,
+      "speakerId": "instructor",
+      "type": "dialogue",
+      "english": "In front of you, there are your best friend and your ex.",
+      "translation": "Trước mặt em là bạn thân và người yêu cũ."
+    },
+    {
+      "order": 5,
+      "speakerId": "instructor",
+      "type": "dialogue",
+      "english": "What would you do?",
+      "translation": "Em sẽ làm gì?"
+    },
+    {
+      "order": 6,
+      "speakerId": "student",
+      "type": "dialogue",
+      "english": "If I have to choose, I will hit my ex.",
+      "translation": "Nếu phải chọn, em sẽ đâm người yêu cũ."
+    },
+    {
+      "order": 7,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "The instructor looked shocked.",
+      "translation": "Thầy giáo trông rất sốc."
+    },
+    {
+      "order": 8,
+      "speakerId": "instructor",
+      "type": "dialogue",
+      "english": "No! You press the brake!",
+      "translation": "Không! Em phải đạp phanh!"
+    },
+    {
+      "order": 9,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "The student suddenly understood.",
+      "translation": "Học viên chợt hiểu ra."
+    },
+    {
+      "order": 10,
+      "speakerId": "student",
+      "type": "dialogue",
+      "english": "Oh... right. That makes sense.",
+      "translation": "Ồ... đúng rồi. Hợp lý thật."
+    }
+  ],
+
+  "vocabulary": [
+    {
+      "word": "narrow",
+      "meaning": "hẹp",
+      "example": "This is a narrow street."
+    },
+    {
+      "word": "imagine",
+      "meaning": "tưởng tượng",
+      "example": "Imagine you are a pilot."
+    },
+    {
+      "word": "brake",
+      "meaning": "phanh",
+      "example": "Press the brake to stop the car."
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "What should the student do in that situation?",
+      "options": [
+        "Hit his ex",
+        "Hit his best friend",
+        "Press the brake",
+        "Close his eyes"
+      ],
+      "answer": "Press the brake"
+    }
+  ],
+
+  "tags": [
+    "daily_life",
+    "humor",
+    "beginner",
+    "conversation"
+  ],
+
+  "thumbnail": "/images/driving-lesson-choice.jpg",
+
+  "published": true,
+
+  "createdAt": "2026-05-04T14:10:00Z",
+  "updatedAt": "2026-05-04T14:10:00Z"
+}
