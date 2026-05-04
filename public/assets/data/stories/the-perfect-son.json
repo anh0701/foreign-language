@@ -13,19 +13,22 @@
       "id": "father",
       "name": "Father",
       "role": "main_character",
-      "gender": "male"
+      "gender": "male",
+      "chatSide": "left"
     },
     {
       "id": "friend",
       "name": "Friend",
       "role": "support_character",
-      "gender": "male"
+      "gender": "male",
+      "chatSide": "right"
     },
     {
       "id": "baby",
       "name": "Baby Son",
       "role": "support_character",
-      "gender": "male"
+      "gender": "male",
+      "chatSide": "left"
     }
   ],
 

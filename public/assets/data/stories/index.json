@@ -70,5 +70,14 @@
     "topic": "school_life",
     "thumbnail": "/images/school_life.jpg",
     "estimatedReadingTime": 4
+  },
+  {
+    "id": 9,
+    "slug": "driving-lesson-choice",
+    "title": "The Driving Lesson Choice",
+    "level": "beginner",
+    "topic": "daily_life",
+    "thumbnail": "/images/school_life.jpg",
+    "estimatedReadingTime": 2
   }
 ]

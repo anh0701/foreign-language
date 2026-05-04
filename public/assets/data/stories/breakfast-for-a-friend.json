@@ -13,25 +13,29 @@
       "id": "anna",
       "name": "Anna",
       "role": "main_character",
-      "gender": "female"
+      "gender": "female",
+      "chatSide": "right"
     },
     {
       "id": "tom",
       "name": "Tom",
       "role": "main_character",
-      "gender": "male"
+      "gender": "male",
+      "chatSide": "left"
     },
     {
       "id": "tom_mother",
       "name": "Tom's Mother",
       "role": "support_character",
-      "gender": "female"
+      "gender": "female",
+      "chatSide": "left"
     },
     {
       "id": "narrator",
       "name": "Narrator",
       "role": "narration",
-      "gender": "neutral"
+      "gender": "neutral",
+      "chatSide": "center"
     }
   ],
 

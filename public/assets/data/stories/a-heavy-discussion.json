@@ -13,25 +13,29 @@
       "id": "friend1",
       "name": "Jack",
       "role": "main_character",
-      "gender": "male"
+      "gender": "male",
+      "chatSide": "right"
     },
     {
       "id": "friend2",
       "name": "Bob",
       "role": "main_character",
-      "gender": "male"
+      "gender": "male",
+      "chatSide": "left"
     },
     {
       "id": "waiter",
       "name": "Waiter",
       "role": "support_character",
-      "gender": "male"
+      "gender": "male",
+      "chatSide": "left"
     },
     {
       "id": "narrator",
       "name": "Narrator",
       "role": "narration",
-      "gender": "neutral"
+      "gender": "neutral",
+      "chatSide": "center"
     }
   ],
 
