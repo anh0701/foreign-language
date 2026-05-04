@@ -86,7 +86,7 @@ const FlashcardPage: React.FC = () => {
             <ChevronLeft size={20} /> Trước
           </button>
           <button onClick={() => navigate('/flashcards')} className="bg-white px-6 rounded-2xl shadow-sm border border-slate-200 flex items-center justify-center text-slate-400 hover:text-emerald-600">
-            <House size={20} />
+            <Layers size={20} />
           </button>
           <button onClick={handleNext} className="flex-1 bg-emerald-600 py-4 rounded-2xl font-bold text-white shadow-lg shadow-emerald-200 flex items-center justify-center gap-2 hover:bg-emerald-700">
             Tiếp theo <ChevronRight size={20} />
