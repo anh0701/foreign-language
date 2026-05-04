@@ -126,7 +126,7 @@ const ShortStoryPage: React.FC = () => {
       </header>
 
 
-      <section className="w-full max-w-3xl p-6 md:p-10 space-y-6">
+      <section className="w-full max-w-3xl p-6 md:p-10 space-y-4">
         {story?.dialogues.map((line, index) => {
           const character = story.characters.find(c => c.id === line.speakerId);
 
@@ -141,7 +141,7 @@ const ShortStoryPage: React.FC = () => {
 
               {/*  NARRATOR  */}
               {side === 'center' ? (
-                <div className="mx-auto max-w-[80%] text-center italic text-slate-400 text-sm leading-relaxed px-4 py-1">
+                <div className="cursor-pointer mx-auto max-w-[80%] text-center italic text-slate-400 text-sm leading-relaxed px-4 py-1">
                   {line.english}
 
                   {activeDialogue === index && (
