@@ -15,6 +15,17 @@ export default function WordGamePage() {
 
     <div className="p-4 max-w-md mx-auto min-h-screen flex flex-col">
 
+      <div className="pt-4 pb-2 text-center">
+        <h1 className="text-3xl font-black uppercase tracking-tighter italic">
+          <span className="inline-block px-1 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 via-blue-500 to-indigo-600">
+            Ghép chữ cái
+          </span>
+          <span className="block text-sm font-bold tracking-[0.2em] text-slate-400 not-italic mt-1">
+            THÀNH TỪ VỰNG
+          </span>
+        </h1>
+      </div>
+
       <div className="flex-grow flex flex-col justify-center">
         <h2 className="text-xl font-bold text-center mb-6">{currentWord?.vi}</h2>
 
