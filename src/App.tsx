@@ -1,14 +1,23 @@
-import './App.css'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import HomePage from './pages/HomePage';
+import WordGamePage from './pages/WordGamePage'; 
 
 function App() {
+  // Thay 'foreign-language' bằng tên repository của bạn trên GitHub
+  const repoName = "/foreign-language";
 
   return (
-    <>
-      <h1 className="text-3xl font-bold text-blue-500 text-center">
-        Hello Tailwind!
-      </h1>
-    </>
-  )
+    <Router basename={repoName}>
+      <div className="min-h-screen bg-slate-50 font-sans antialiased text-slate-900">
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/word-combination" element={<WordGamePage />} />
+          
+          <Route path="*" element={<HomePage />} />
+        </Routes>
+      </div>
+    </Router>
+  );
 }
 
-export default App
+export default App;
