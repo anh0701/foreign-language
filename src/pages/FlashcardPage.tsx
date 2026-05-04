@@ -9,7 +9,7 @@ const FlashcardPage: React.FC = () => {
   const topicSlug = searchParams.get('topic');
   const topicTitle = searchParams.get('title');
   
-  const { topics, cards, currentIndex, loading, next, prev } = useFlashcard(topicSlug);
+  const { topics, cards, currentIndex, next, prev } = useFlashcard(topicSlug);
   const [isFlipped, setIsFlipped] = useState(false);
 
   const handleNext = () => { setIsFlipped(false); setTimeout(next, 150); };

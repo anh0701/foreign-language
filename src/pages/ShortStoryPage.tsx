@@ -3,7 +3,7 @@ import { useNavigate, useSearchParams } from 'react-router-dom';
 import { useShortStory } from '../hooks/useShortStory';
 import { 
   BookOpen, 
-  User, 
+  // User, 
   Lightbulb, 
   House, 
   ArrowLeft, 

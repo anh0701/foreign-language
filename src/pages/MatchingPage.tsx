@@ -12,7 +12,7 @@ const MatchingPage: React.FC = () => {
 
   if (loading) return <div className="flex justify-center items-center h-screen italic text-slate-500">Đang chuẩn bị các cặp từ...</div>;
 
-  const getItemClass = (word: string, type: 'en' | 'vi') => {
+  const getItemClass = (word: string) => {
     const isSelected = selectedEn === word || selectedVi === word;
     const isMatched = matchedPairs.includes(word);
     const isWrong = wrongPair && (wrongPair.en === word || wrongPair.vi === word);
@@ -48,7 +48,7 @@ const MatchingPage: React.FC = () => {
             {enColumn.map(word => (
               <button 
                 key={word} 
-                className={getItemClass(word, 'en')}
+                className={getItemClass(word)}
                 onClick={() => handleSelect(word, 'en')}
                 disabled={matchedPairs.includes(word)}
               >
@@ -62,7 +62,7 @@ const MatchingPage: React.FC = () => {
             {viColumn.map(word => (
               <button 
                 key={word} 
-                className={getItemClass(word, 'vi')}
+                className={getItemClass(word)}
                 onClick={() => handleSelect(word, 'vi')}
                 disabled={matchedPairs.includes(word)}
               >

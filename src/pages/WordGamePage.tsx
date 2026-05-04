@@ -1,4 +1,4 @@
-import { CircleArrowRight, House, Target, CheckCircle2, XCircle, RotateCcw } from 'lucide-react';
+import { House, Target, CheckCircle2, XCircle, RotateCcw } from 'lucide-react';
 import { useWordGame } from '../hooks/useWordGame';
 import { useNavigate } from 'react-router-dom';
 
