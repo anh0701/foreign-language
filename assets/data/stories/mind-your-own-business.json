@@ -13,25 +13,29 @@
       "id": "boy",
       "name": "Little Boy",
       "role": "main_character",
-      "gender": "male"
+      "gender": "male",
+      "chatSide": "right"
     },
     {
       "id": "man",
       "name": "Old Man",
       "role": "support_character",
-      "gender": "male"
+      "gender": "male",
+      "chatSide": "left"
     },
     {
       "id": "passengers",
       "name": "Passengers",
       "role": "support_character",
-      "gender": "neutral"
+      "gender": "neutral",
+      "chatSide": "left"
     },
     {
       "id": "narrator",
       "name": "Narrator",
       "role": "narration",
-      "gender": "neutral"
+      "gender": "neutral",
+      "chatSide": "center"
     }
   ],
 

@@ -13,25 +13,29 @@
       "id": "student",
       "name": "Student",
       "role": "main_character",
-      "gender": "male"
+      "gender": "male",
+      "chatSide": "left"
     },
     {
       "id": "teacher",
       "name": "Teacher",
       "role": "support_character",
-      "gender": "female"
+      "gender": "female",
+      "chatSide": "right"
     },
     {
       "id": "mathbook",
       "name": "Math Book",
       "role": "support_character",
-      "gender": "neutral"
+      "gender": "neutral",
+      "chatSide": "left"
     },
     {
       "id": "narrator",
       "name": "Narrator",
       "role": "narration",
-      "gender": "neutral"
+      "gender": "neutral",
+      "chatSide": "center"
     }
   ],
 

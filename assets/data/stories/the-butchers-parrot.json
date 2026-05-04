@@ -13,25 +13,29 @@
       "id": "woman",
       "name": "Woman",
       "role": "main_character",
-      "gender": "female"
+      "gender": "female",
+      "chatSide": "left"
     },
     {
       "id": "parrot",
       "name": "Parrot",
       "role": "main_character",
-      "gender": "neutral"
+      "gender": "neutral",
+      "chatSide": "left"
     },
     {
       "id": "butcher",
       "name": "Butcher",
       "role": "support_character",
-      "gender": "male"
+      "gender": "male",
+      "chatSide": "right"
     },
     {
       "id": "narrator",
       "name": "Narrator",
       "role": "narration",
-      "gender": "neutral"
+      "gender": "neutral",
+      "chatSide": "center"
     }
   ],
 
