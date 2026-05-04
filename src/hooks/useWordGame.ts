@@ -82,7 +82,7 @@ export const useWordGame = (jsonPath: string) => {
         if (newSelected.length === currentWord.en.length) {
             const isCorrect = newSelected.join('') === currentWord.en.toLowerCase();
             setResult({
-                text: isCorrect ? "✅ Chính xác!" : `❌ Sai rồi! Đáp án là: ${currentWord.en.toUpperCase()}`,
+                text: isCorrect ? "Chính xác!" : `Sai rồi! Đáp án là: ${currentWord.en.toUpperCase()}`,
                 isError: !isCorrect,
             });
         }

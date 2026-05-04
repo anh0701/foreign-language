@@ -1,4 +1,4 @@
-import { CircleArrowRight, House } from 'lucide-react';
+import { CircleArrowRight, House, Target, CheckCircle2, XCircle, RotateCcw } from 'lucide-react';
 import { useWordGame } from '../hooks/useWordGame';
 import { useNavigate } from 'react-router-dom';
 
@@ -9,74 +9,93 @@ export default function WordGamePage() {
     result, loading, chooseLetter, nextRound
   } = useWordGame('assets/data/words.json');
 
-  if (loading) return <div className="text-center p-10">Đang tải...</div>;
+  if (loading) return (
+    <div className="flex justify-center items-center h-screen italic text-slate-500">
+      Đang tải dữ liệu...
+    </div>
+  );
 
   return (
+    <div className="min-h-screen bg-slate-50 flex flex-col items-center p-6">
 
-    <div className="p-4 max-w-md mx-auto min-h-screen flex flex-col">
+      <main className="w-full max-w-2xl bg-white mt-10 rounded-[2.5rem] p-8 md:p-12 shadow-xl shadow-slate-200/50 flex flex-col">
 
-      <div className="pt-4 pb-2 text-center">
-        <h1 className="text-3xl font-black uppercase tracking-tighter italic">
-          <span className="inline-block px-1 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 via-blue-500 to-indigo-600">
+
+        <div className="mb-10">
+          <h1 className="text-2xl font-black text-slate-800 flex items-center gap-3">
+            <Target className="text-blue-600" size={32} />
             Ghép chữ cái
-          </span>
-          <span className="block text-sm font-bold tracking-[0.2em] text-slate-400 not-italic mt-1">
-            THÀNH TỪ VỰNG
-          </span>
-        </h1>
-      </div>
-
-      <div className="flex-grow flex flex-col justify-center">
-        <h2 className="text-xl font-bold text-center mb-6">{currentWord?.vi}</h2>
-
-        <div className="flex gap-2 justify-center mb-10">
-          {currentWord?.en.split('').map((_, i) => (
-            <div key={i} className="w-8 h-10 border-b-2 border-blue-500 flex items-center justify-center text-xl font-bold">
-              {selectedLetters[i] || ""}
-            </div>
-          ))}
+          </h1>
+          <p className="text-slate-400 text-xs font-bold tracking-widest uppercase mt-1 ml-[44px]">
+            Thành từ vựng đúng
+          </p>
         </div>
 
-        <div className="flex flex-wrap gap-2 justify-center">
-          {shuffledLetters.map((l) => (
-            <button
-              key={l.id}
-              disabled={l.isUsed}
-              onClick={() => chooseLetter(l.id)}
-              className={`w-10 h-10 rounded shadow font-bold ${l.isUsed ? 'bg-gray-300' : 'bg-blue-600 text-white hover:bg-blue-700'}`}
-            >
-              {l.char.toUpperCase()}
-            </button>
-          ))}
-        </div>
+        <div className="flex-grow flex flex-col items-center">
 
-        {result && (
-          <div className="mt-8 text-center">
-            <p className={`mb-4 font-bold ${result.isError ? 'text-red-500' : 'text-green-500'}`}>{result.text}</p>
+          <h2 className="text-xl text-slate-500 italic mb-8 text-center underline decoration-blue-200 underline-offset-8">
+            "{currentWord?.vi}"
+          </h2>
+
+
+          <div className="flex flex-wrap gap-2 justify-center mb-12">
+            {currentWord?.en.split('').map((char, i) => (
+              <div
+                key={i}
+                className={`w-10 h-12 md:w-12 md:h-14 border-b-4 flex items-center justify-center text-2xl font-black transition-all duration-300 ${selectedLetters[i]
+                    ? 'border-blue-500 text-slate-800'
+                    : 'border-slate-100 bg-slate-50/50 text-transparent'
+                  }`}
+              >
+
+                {char === ' ' ? ' ' : (selectedLetters[i] || "")}
+              </div>
+            ))}
           </div>
-        )}
-      </div>
 
-      <footer className="py-6 flex gap-4 mt-auto">
+          <div className="flex flex-wrap gap-3 justify-center max-w-md">
+            {shuffledLetters.map((l) => (
+              <button
+                key={l.id}
+                disabled={l.isUsed || !!result}
+                onClick={() => chooseLetter(l.id)}
+                className={`w-12 h-12 md:w-14 md:h-14 rounded-2xl font-bold text-xl transition-all transform active:scale-90 border-2
+                  ${l.isUsed
+                    ? 'bg-slate-100 border-transparent text-slate-300 opacity-50 scale-95'
+                    : 'bg-white border-slate-100 text-blue-600 shadow-sm hover:border-blue-400 hover:shadow-md hover:-translate-y-1'
+                  }`}
+              >
+                {l.char.toUpperCase()}
+              </button>
+            ))}
+          </div>
+
+          <div className="h-16 mt-8 flex items-center justify-center w-full">
+            {result && (
+              <div className={`flex items-center gap-2 font-bold text-lg animate-in fade-in slide-in-from-top-4 duration-500 ${result.isError ? 'text-rose-500' : 'text-emerald-600'
+                }`}>
+                {result.isError ? <XCircle /> : <CheckCircle2 />}
+                {result.text}
+              </div>
+            )}
+          </div>
+        </div>
+      </main>
+
+      <footer className="w-full max-w-2xl mt-8 flex gap-4">
         <button
           onClick={() => navigate('/')}
-          className="flex-1 py-3 px-4 bg-white border border-slate-300 rounded-xl font-semibold text-slate-700 hover:bg-slate-50 flex items-center justify-center gap-2"
+          className="flex-1 bg-white py-4 rounded-2xl font-bold text-slate-600 shadow-sm border border-slate-200 flex items-center justify-center gap-2 hover:bg-slate-50 transition-colors"
         >
-          <div className="flex flex-col items-center justify-center text-blue-400">
-            <House size={32} strokeWidth={2} />
-            <span className="text-xs">Trang chủ</span>
-          </div>
+          <House size={20} /> Home
         </button>
         <button
           onClick={nextRound}
-          className="flex-1 py-3 px-4 bg-white border border-slate-300 rounded-xl font-semibold text-slate-700 hover:bg-slate-50 flex items-center justify-center gap-2"
+          className="flex-[2] bg-purple-600 py-4 rounded-2xl font-bold text-white shadow-lg shadow-purple-200 flex items-center justify-center gap-2 hover:bg-purple-700 transition-all"
         >
-          <div className="flex flex-col items-center justify-center text-orange-500">
-            <CircleArrowRight size={32} strokeWidth={2} />
-            <span className="text-xs">Từ khác</span>
-          </div>
+          <RotateCcw size={20} /> Câu khác
         </button>
       </footer>
     </div>
   );
-};
+}
