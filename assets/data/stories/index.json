@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "slug": "the-lost-cat",
+    "title": "The Lost Cat",
+    "level": "beginner",
+    "topic": "daily_life",
+    "thumbnail": "/images/cat.jpg",
+    "estimatedReadingTime": 2
+  },
+  {
+    "id": 2,
+    "slug": "the-perfect-son",
+    "title": "The Perfect Son",
+    "level": "beginner",
+    "topic": "family",
+    "thumbnail": "/images/family.jpg",
+    "estimatedReadingTime": 3
+  },
+  {
+    "id": 3,
+    "slug": "the-butchers-parrot",
+    "title": "The Butcher's Parrot",
+    "level": "beginner",
+    "topic": "funny_story",
+    "thumbnail": "/images/funny_story.jpg",
+    "estimatedReadingTime": 3
+  },
+  {
+    "id": 4,
+    "slug": "mind-your-own-business",
+    "title": "Mind Your Own Business",
+    "level": "beginner",
+    "topic": "funny_conversation",
+    "thumbnail": "/images/funny_conversation.jpg",
+    "estimatedReadingTime": 3
+  },
+  {
+    "id": 5,
+    "slug": "too-many-problems",
+    "title": "Too Many Problems",
+    "level": "beginner",
+    "topic": "school_life",
+    "thumbnail": "/images/school_life.jpg",
+    "estimatedReadingTime": 1
+  },
+  {
+    "id": 6,
+    "slug": "a-heavy-discussion",
+    "title": "A Heavy Discussion",
+    "level": "beginner",
+    "topic": "funny_joke",
+    "thumbnail": "/images/funny_joke.jpg",
+    "estimatedReadingTime": 1
+  },
+  {
+    "id": 7,
+    "slug": "the-short-cut",
+    "title": "The Short Cut",
+    "level": "beginner",
+    "topic": "funny_joke",
+    "thumbnail": "/images/funny_joke.jpg",
+    "estimatedReadingTime": 1
+  },
+  {
+    "id": 8,
+    "slug": "breakfast-for-a-friend",
+    "title": "Breakfast for a Friend",
+    "level": "beginner",
+    "topic": "school_life",
+    "thumbnail": "/images/school_life.jpg",
+    "estimatedReadingTime": 4
+  }
+]
