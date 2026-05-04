@@ -20,7 +20,6 @@ export default function WordGamePage() {
 
       <main className="w-full max-w-2xl bg-white mt-10 rounded-[2.5rem] p-8 md:p-12 shadow-xl shadow-slate-200/50 flex flex-col">
 
-
         <div className="mb-10">
           <h1 className="text-2xl font-black text-slate-800 flex items-center gap-3">
             <Target className="text-blue-600" size={32} />
@@ -37,20 +36,33 @@ export default function WordGamePage() {
             "{currentWord?.vi}"
           </h2>
 
-
           <div className="flex flex-wrap gap-2 justify-center mb-12">
-            {currentWord?.en.split('').map((char, i) => (
-              <div
-                key={i}
-                className={`w-10 h-12 md:w-12 md:h-14 border-b-4 flex items-center justify-center text-2xl font-black transition-all duration-300 ${selectedLetters[i]
-                    ? 'border-blue-500 text-slate-800'
-                    : 'border-slate-100 bg-slate-50/50 text-transparent'
-                  }`}
-              >
+            {(() => {
+              let letterIndex = 0;
 
-                {char === ' ' ? ' ' : (selectedLetters[i] || "")}
-              </div>
-            ))}
+              return currentWord?.en.split('').map((char, i) => {
+                // 👉 nếu là space → chỉ render khoảng cách
+                if (char === ' ') {
+                  return <div key={i} className="w-4 md:w-6" />;
+                }
+
+                const selected = selectedLetters[letterIndex];
+                letterIndex++;
+
+                return (
+                  <div
+                    key={i}
+                    className={`w-10 h-12 md:w-12 md:h-14 border-b-4 flex items-center justify-center text-2xl font-black transition-all duration-300
+                      ${selected
+                        ? 'border-blue-500 text-slate-800'
+                        : 'border-slate-100 bg-slate-50/50 text-transparent'
+                      }`}
+                  >
+                    {selected || ""}
+                  </div>
+                );
+              });
+            })()}
           </div>
 
           <div className="flex flex-wrap gap-3 justify-center max-w-md">
@@ -93,7 +105,7 @@ export default function WordGamePage() {
           onClick={nextRound}
           className="flex-[2] bg-purple-600 py-4 rounded-2xl font-bold text-white shadow-lg shadow-purple-200 flex items-center justify-center gap-2 hover:bg-purple-700 transition-all"
         >
-          <RotateCcw size={20} /> Câu khác
+          <RotateCcw size={20} /> Từ khác
         </button>
       </footer>
     </div>

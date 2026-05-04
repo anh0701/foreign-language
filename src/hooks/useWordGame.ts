@@ -79,10 +79,15 @@ export const useWordGame = (jsonPath: string) => {
         const newSelected = [...selectedLetters, char];
         setSelectedLetters(newSelected);
 
-        if (newSelected.length === currentWord.en.length) {
-            const isCorrect = newSelected.join('') === currentWord.en.toLowerCase();
+        const cleanWord = currentWord.en.replace(/\s/g, '').toLowerCase();
+
+        if (newSelected.length === cleanWord.length) {
+            const isCorrect = newSelected.join('') === cleanWord;
+
             setResult({
-                text: isCorrect ? "Chính xác!" : `Sai rồi! Đáp án là: ${currentWord.en.toUpperCase()}`,
+                text: isCorrect
+                    ? "Chính xác!"
+                    : `Sai rồi! Đáp án là: ${currentWord.en.toUpperCase()}`,
                 isError: !isCorrect,
             });
         }
