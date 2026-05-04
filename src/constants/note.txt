@@ -1,0 +1,1 @@
+Các biến hằng số, config, enum
