@@ -1,1467 +1,866 @@
 [
   {
+    "sentence": "Matt ___ while we were having dinner.",
+    "answer": "phoned",
+    "options": ["phoned","was phoning", "has phoned"],
+    "translation": "Matt gọi điện thoại trong lúc chúng tôi đang ăn tối."
+  },
+  {
+    "sentence": "It was a boring weekend. ___ anything.",
+    "answer": "I didn’t do",
+    "options": ["I didn’t","I don’t do", "I didn’t do"],
+    "translation": "Cuối tuần thật nhàm chán. Tôi chẳng làm gì cả."
+  },
+  {
+    "sentence": "How ___ now? Better than before?",
+    "answer": "do you feel/are you feeling",
+    "options": ["you are feeling","do you feel", "are you feeling", "do you feel/are you feeling"],
+    "translation": "Bạn cảm thấy thế nào rồi? Tốt hơn trước chưa?"
+  },
+  {
+    "sentence": "Robert ___ away two or three times a year.",
+    "answer": "usually goes",
+    "options": ["is going usually","is usually going", "usually goes", "goes usually"],
+    "translation": "Robert thường đi vắng hai hoặc ba lần một năm."
+  },
+  {
+    "sentence": "I don’t understand this sentence. What ___ ?",
+    "answer": "does this word mean",
+    "options": ["does mean this word","does this word mean", "means this word"],
+    "translation": "Tôi không hiểu câu này. Từ này có nghĩa là gì?"
+  },
+  {
+    "sentence": "At first I didn’t like my job, but ___ to enjoy it now.",
+    "answer": "I’m starting",
+    "options": ["I’m starting","I start"],
+    "translation": "Lúc đầu tôi không thích công việc của mình, nhưng giờ tôi bắt đầu thấy thích nó rồi."
+  },
+  {
     "sentence": "I ___ an apple every morning.",
     "answer": "eat",
-    "options": [
-      "eat",
-      "drink",
-      "bought"
-    ],
+    "options": ["eat","drink","bought"],
     "translation": "Tôi ăn một quả táo mỗi sáng."
   },
   {
     "sentence": "She ___ to school by bike.",
     "answer": "goes",
-    "options": [
-      "goes",
-      "go",
-      "going"
-    ],
+    "options": ["goes","go","going"],
     "translation": "Cô ấy đi học bằng xe đạp."
   },
   {
     "sentence": "There are more ___ buying at this time of the year so prices are high.",
     "answer": "people",
-    "options": [
-      "eat",
-      "apple",
-      "people"
-    ],
+    "options": ["eat","apple","people"],
     "translation": "Vào thời điểm này trong năm, có nhiều người mua hơn nên giá cả cũng cao hơn."
   },
   {
     "sentence": "The company was set up to ___ and sell shares on behalf of investors.",
     "answer": "buy",
-    "options": [
-      "buy",
-      "bought",
-      "purchase"
-    ],
+    "options": ["buy","bought","purchase"],
     "translation": "Công ty được thành lập để mua và bán cổ phiếu thay mặt cho các nhà đầu tư."
   },
   {
     "sentence": "I bought my ___ from a friend of mine.",
     "answer": "camera",
-    "options": [
-      "apple",
-      "camera",
-      "android"
-    ],
+    "options": ["apple","camera","android"],
     "translation": "Tôi mua máy ảnh từ một người bạn."
   },
   {
     "sentence": "___! How’s it going?",
     "answer": "Hi",
-    "options": [
-      "Hi",
-      "android",
-      "go"
-    ],
+    "options": ["Hi","android","go"],
     "translation": "Chào! Mọi việc thế nào rồi?"
   },
   {
     "sentence": "Good morning! How are you ___ today?",
     "answer": "doing",
-    "options": [
-      "do",
-      "does",
-      "doing"
-    ],
+    "options": ["do","does","doing"],
     "translation": "Chào buổi sáng! Hôm nay bạn thế nào?"
   },
   {
     "sentence": "Good ___! How’s everything?",
     "answer": "afternoon",
-    "options": [
-      "afternoon",
-      "morning",
-      "today"
-    ],
+    "options": ["afternoon","morning","today"],
     "translation": "Chào buổi chiều! Mọi thứ ổn chứ?"
   },
   {
     "sentence": "Good evening! How have you ___?",
     "answer": "been",
-    "options": [
-      "be",
-      "been",
-      "are"
-    ],
+    "options": ["be","been","are"],
     "translation": "Chào buổi tối! Dạo này bạn thế nào?"
   },
   {
     "sentence": "It’s a pleasure to ___ you",
     "answer": "meet",
-    "options": [
-      "meet",
-      "get",
-      "go"
-    ],
+    "options": ["meet","get","go"],
     "translation": "Rất hân hạnh được gặp bạn"
   },
   {
     "sentence": "How do you ___?",
     "answer": "do",
-    "options": [
-      "does",
-      "do",
-      "did"
-    ],
+    "options": ["does","do","did"],
     "translation": "Bạn khỏe chứ?"
   },
   {
     "sentence": "Long time ___ see!",
     "answer": "no",
-    "options": [
-      "no",
-      "not",
-      "don't"
-    ],
+    "options": ["no","not","don't"],
     "translation": "Lâu rồi không gặp!"
   },
   {
     "sentence": "What’s ___?",
     "answer": "new",
-    "options": [
-      "news",
-      "new",
-      "name"
-    ],
+    "options": ["news","new","name"],
     "translation": "Có gì mới không?"
   },
   {
     "sentence": "How’s life ___ you?",
     "answer": "treating",
-    "options": [
-      "treating",
-      "treat",
-      "of"
-    ],
+    "options": ["treating","treat","of"],
     "translation": "Cuộc sống dạo này thế nào?"
   },
   {
     "sentence": "How ___ things?",
     "answer": "are",
-    "options": [
-      "are",
-      "is",
-      "was"
-    ],
+    "options": ["are","is","was"],
     "translation": "Mọi thứ thế nào rồi?"
   },
   {
     "sentence": "How ___ you been?",
     "answer": "have",
-    "options": [
-      "have",
-      "has",
-      "had"
-    ],
+    "options": ["have","has","had"],
     "translation": "Bạn dạo này thế nào rồi?"
   },
   {
     "sentence": "Are you doing ___?",
     "answer": "well",
-    "options": [
-      "good",
-      "well",
-      "done"
-    ],
+    "options": ["good","well","done"],
     "translation": "Bạn vẫn ổn chứ?"
   },
   {
     "sentence": "___ have you been up to?",
     "answer": "What",
-    "options": [
-      "How",
-      "What",
-      "When"
-    ],
+    "options": ["How","What","When"],
     "translation": "Bạn đã làm gì dạo này?"
   },
   {
     "sentence": "Everything going ___ with you?",
     "answer": "okay",
-    "options": [
-      "okay",
-      "oke",
-      "well"
-    ],
+    "options": ["okay","oke","well"],
     "translation": "Mọi thứ với bạn vẫn ổn chứ?"
   },
   {
     "sentence": "How’s your ___ been so far?",
     "answer": "day",
-    "options": [
-      "day",
-      "days",
-      "monday"
-    ],
+    "options": ["day","days","monday"],
     "translation": "Ngày hôm nay của bạn thế nào rồi?"
   },
   {
     "sentence": "I’m doing well, ___ you! How about you?",
     "answer": "thank",
-    "options": [
-      "thanks",
-      "thank",
-      "well"
-    ],
+    "options": ["thanks","thank","well"],
     "translation": "Tôi ổn, cảm ơn! Còn bạn thì sao?"
   },
   {
     "sentence": "Not too bad, thanks. How about ___?",
     "answer": "yourself",
-    "options": [
-      "yourself",
-      "himself",
-      "herself"
-    ],
+    "options": ["yourself","himself","herself"],
     "translation": "Cũng không tệ lắm, cảm ơn. Còn bạn thì sao?"
   },
   {
     "sentence": "I’ve ___ great, thanks! And you?",
     "answer": "been",
-    "options": [
-      "be",
-      "been",
-      "was"
-    ],
+    "options": ["be","been","was"],
     "translation": "Tôi đã rất tốt, cảm ơn! Còn bạn?"
   },
   {
     "sentence": "Couldn’t be ___! How about you?",
     "answer": "better",
-    "options": [
-      "better",
-      "best",
-      "well"
-    ],
+    "options": ["better","best","well"],
     "translation": "Không thể tốt hơn! Còn bạn thì sao?"
   },
   {
     "sentence": "I’m ___, thanks. How about you?",
     "answer": "alright",
-    "options": [
-      "alright",
-      "good",
-      "bad"
-    ],
+    "options": ["alright","good","bad"],
     "translation": "Tôi ổn, cảm ơn. Còn bạn thì sao?"
   },
   {
     "sentence": "Goodbye! ___ a great day!",
     "answer": "Have",
-    "options": [
-      "Do",
-      "Have",
-      "Had"
-    ],
+    "options": ["Do","Have","Had"],
     "translation": "Tạm biệt! Chúc bạn có một ngày tuyệt vời!"
   },
   {
     "sentence": "Take ___!",
     "answer": "care",
-    "options": [
-      "carefull",
-      "care",
-      "carefully"
-    ],
+    "options": ["carefull","care","carefully"],
     "translation": "Bảo trọng nhé!"
   },
   {
     "sentence": "___ you later!",
     "answer": "See",
-    "options": [
-      "See",
-      "Saw",
-      "Seen"
-    ],
+    "options": ["See","Saw","Seen"],
     "translation": "Hẹn gặp lại!"
   },
   {
     "sentence": "It was nice ___ to you",
     "answer": "talking",
-    "options": [
-      "talking",
-      "tell",
-      "talk"
-    ],
+    "options": ["talking","tell","talk"],
     "translation": "Rất vui được trò chuyện với bạn"
   },
   {
     "sentence": "Talk to you ___!",
     "answer": "soon",
-    "options": [
-      "after",
-      "soon",
-      "sooner"
-    ],
+    "options": ["after","soon","sooner"],
     "translation": "Hẹn sớm gặp lại!"
   },
   {
     "sentence": "___ you later!",
     "answer": "Catch",
-    "options": [
-      "Catch",
-      "Could",
-      "Do"
-    ],
+    "options": ["Catch","Could","Do"],
     "translation": "Gặp lại bạn sau nhé!"
   },
   {
     "sentence": "See ___ around!",
     "answer": "you",
-    "options": [
-      "you",
-      "he",
-      "she"
-    ],
+    "options": ["you","he","she"],
     "translation": "Gặp bạn sau nhé!"
   },
   {
     "sentence": "Have a good ___!",
     "answer": "one",
-    "options": [
-      "one",
-      "once",
-      "first"
-    ],
+    "options": ["one","once","first"],
     "translation": "Chúc một ngày tốt lành!"
   },
   {
     "sentence": "I’m really ___ for being late",
     "answer": "sorry",
-    "options": [
-      "harry",
-      "sorry",
-      "after"
-    ],
+    "options": ["harry","sorry","after"],
     "translation": "Tôi thật sự xin lỗi vì đã đến muộn"
   },
   {
     "sentence": "Please accept my apologies for the ___",
     "answer": "mistake",
-    "options": [
-      "error",
-      "mistake",
-      "failure"
-    ],
+    "options": ["error","mistake","failure"],
     "translation": "Xin hãy chấp nhận lời xin lỗi của tôi vì sai sót này"
   },
   {
     "sentence": "I apologize for any inconvenience I ___ have caused",
     "answer": "may",
-    "options": [
-      "might",
-      "may",
-      "can"
-    ],
+    "options": ["might","may","can"],
     "translation": "Tôi xin lỗi vì bất kỳ sự bất tiện nào tôi có thể đã gây ra"
   },
   {
     "sentence": "I ___ mean to upset you. I’m sorry",
     "answer": "didn’t",
-    "options": [
-      "don't",
-      "didn’t",
-      "doesn't"
-    ],
+    "options": ["don't","didn’t","doesn't"],
     "translation": "Tôi không có ý làm bạn buồn. Tôi xin lỗi"
   },
   {
     "sentence": "I’m sorry, it ___ completely my fault",
     "answer": "was",
-    "options": [
-      "were",
-      "was",
-      "is"
-    ],
+    "options": ["were","was","is"],
     "translation": "Tôi xin lỗi, hoàn toàn là lỗi của tôi"
   },
   {
     "sentence": "I regret ___ I made such a mistake. Please forgive me",
     "answer": "that",
-    "options": [
-      "because",
-      "that",
-      "it"
-    ],
+    "options": ["because","that","it"],
     "translation": "Tôi hối hận vì đã mắc sai lầm như vậy. Xin hãy tha thứ cho tôi"
   },
   {
     "sentence": "I sincerely apologize ___ hope to make it right",
     "answer": "and",
-    "options": [
-      "and",
-      "or",
-      "howerver"
-    ],
+    "options": ["and","or","howerver"],
     "translation": "Tôi chân thành xin lỗi và hy vọng có thể sửa chữa sai lầm này"
   },
   {
     "sentence": "Thank you so much ___ your help!",
     "answer": "for",
-    "options": [
-      "for",
-      "with",
-      "because"
-    ],
+    "options": ["for","with","because"],
     "translation": "Cảm ơn rất nhiều vì sự giúp đỡ của bạn!"
   },
   {
     "sentence": "I ___ appreciate your support.",
     "answer": "really",
-    "options": [
-      "really",
-      "exactly",
-      "be"
-    ],
+    "options": ["really","exactly","be"],
     "translation": "Tôi thực sự biết ơn sự hỗ trợ của bạn."
   },
   {
     "sentence": "Thanks a lot ___ everything you’ve done!",
     "answer": "for",
-    "options": [
-      "of",
-      "for",
-      "with"
-    ],
+    "options": ["of","for","with"],
     "translation": "Cảm ơn rất nhiều vì tất cả những gì bạn đã làm!"
   },
   {
     "sentence": "I can’t thank you enough ___ your kindness.",
     "answer": "for",
-    "options": [
-      "of",
-      "for",
-      "with"
-    ],
+    "options": ["of","for","with"],
     "translation": "Tôi không thể cảm ơn bạn đủ vì lòng tốt của bạn."
   },
   {
     "sentence": "Thank you for taking the ___ to help me.",
     "answer": "time",
-    "options": [
-      "times",
-      "time",
-      "click"
-    ],
+    "options": ["times","time","click"],
     "translation": "Cảm ơn bạn đã dành thời gian để giúp tôi."
   },
   {
     "sentence": "I’m so ___ for your assistance.",
     "answer": "grateful",
-    "options": [
-      "gratefully",
-      "grateful",
-      "ungrateful"
-    ],
+    "options": ["gratefully","grateful","ungrateful"],
     "translation": "Tôi rất biết ơn vì sự trợ giúp của bạn."
   },
   {
     "sentence": "Thanks for being ___ for me when I needed it.",
     "answer": "there",
-    "options": [
-      "here",
-      "there",
-      "area"
-    ],
+    "options": ["here","there","area"],
     "translation": "Cảm ơn vì đã ở bên tôi khi tôi cần."
   },
   {
     "sentence": "I’m very ___ for your advice.",
     "answer": "thankful",
-    "options": [
-      "thank",
-      "thankful",
-      "thankfully"
-    ],
+    "options": ["thank","thankful","thankfully"],
     "translation": "Tôi rất cảm kích lời khuyên của bạn."
   },
   {
     "sentence": "What ___ are you studying this semester?",
     "answer": "subjects",
-    "options": [
-      "subject",
-      "subjects",
-      "s"
-    ],
+    "options": ["subject","subjects","s"],
     "translation": "Bạn đang học những môn gì trong học kỳ này?"
   },
   {
     "sentence": "Can you help me with ___ math problem?",
     "answer": "this",
-    "options": [
-      "that",
-      "this",
-      "those"
-    ],
+    "options": ["that","this","those"],
     "translation": "Bạn có thể giúp mình bài toán này không?"
   },
   {
     "sentence": "What time ___ the next class start?",
     "answer": "does",
-    "options": [
-      "do",
-      "did",
-      "does"
-    ],
+    "options": ["do","did","does"],
     "translation": "Tiết học tiếp theo bắt đầu lúc mấy giờ?"
   },
   {
     "sentence": "___ is your favorite teacher, and why?",
     "answer": "Who",
-    "options": [
-      "What",
-      "How",
-      "Who"
-    ],
+    "options": ["What","How","Who"],
     "translation": "Giáo viên yêu thích của bạn là ai, tại sao?"
   },
   {
     "sentence": "I need to study for the ___ next week",
     "answer": "exam",
-    "options": [
-      "exam",
-      "course",
-      "homework"
-    ],
+    "options": ["exam","course","homework"],
     "translation": "Mình cần học để chuẩn bị cho kỳ thi tuần tới"
   },
   {
     "sentence": "Do you have any ___ from last class? I missed it.",
     "answer": "notes",
-    "options": [
-      "notes",
-      "books",
-      "assignments",
-      "lectures"
-    ],
+    "options": ["notes","books","assignments","lectures"],
     "translation": "Bạn có ghi chú của buổi học trước không? Mình đã vắng mặt buổi đó"
   },
   {
     "sentence": "Where is the ___, and what are its opening hours?",
     "answer": "library",
-    "options": [
-      "library",
-      "cafeteria",
-      "office",
-      "gym"
-    ],
+    "options": ["library","cafeteria","office","gym"],
     "translation": "Thư viện ở đâu và giờ mở cửa như thế nào?"
   },
   {
     "sentence": "Let’s meet in the ___ during lunch break.",
     "answer": "cafeteria",
-    "options": [
-      "cafeteria",
-      "library",
-      "office",
-      "classroom"
-    ],
+    "options": ["cafeteria","library","office","classroom"],
     "translation": "Hẹn gặp nhau ở căng tin vào giờ nghỉ trưa nhé"
   },
   {
     "sentence": "What’s your ___, and how do you like it so far?",
     "answer": "major",
-    "options": [
-      "major",
-      "subject",
-      "course",
-      "grade"
-    ],
+    "options": ["major","subject","course","grade"],
     "translation": "Chuyên ngành của bạn là gì, bạn cảm thấy thế nào về nó?"
   },
   {
     "sentence": "Can you recommend any good ___ for this course?",
     "answer": "books",
-    "options": [
-      "books",
-      "videos",
-      "teachers",
-      "assignments"
-    ],
+    "options": ["books","videos","teachers","assignments"],
     "translation": "Bạn có thể giới thiệu cuốn sách nào hay cho khóa học này không?"
   },
   {
     "sentence": "How many ___ are there in your family?",
     "answer": "people",
-    "options": [
-      "people",
-      "members",
-      "relatives",
-      "friends"
-    ],
+    "options": ["people","members","relatives","friends"],
     "translation": "Gia đình bạn có bao nhiêu người?"
   },
   {
     "sentence": "I have a younger ___ and an older sister.",
     "answer": "brother",
-    "options": [
-      "brother",
-      "cousin",
-      "uncle",
-      "friend"
-    ],
+    "options": ["brother","cousin","uncle","friend"],
     "translation": "Tôi có một em trai và một chị gái"
   },
   {
     "sentence": "Do you ___ with your parents?",
     "answer": "live",
-    "options": [
-      "live",
-      "stay",
-      "talk",
-      "go"
-    ],
+    "options": ["live","stay","talk","go"],
     "translation": "Bạn có sống cùng bố mẹ không?"
   },
   {
     "sentence": "We always have a family ___ on weekends.",
     "answer": "dinner",
-    "options": [
-      "dinner",
-      "meeting",
-      "party",
-      "trip"
-    ],
+    "options": ["dinner","meeting","party","trip"],
     "translation": "Gia đình chúng tôi luôn dùng bữa tối cùng nhau vào cuối tuần"
   },
   {
     "sentence": "Do you have any ___?",
     "answer": "siblings",
-    "options": [
-      "siblings",
-      "friends",
-      "neighbors",
-      "relatives"
-    ],
+    "options": ["siblings","friends","neighbors","relatives"],
     "translation": "Bạn có anh chị em không?"
   },
   {
     "sentence": "I’m very close to my ___, we grew up together.",
     "answer": "cousins",
-    "options": [
-      "cousins",
-      "friends",
-      "neighbors",
-      "classmates"
-    ],
+    "options": ["cousins","friends","neighbors","classmates"],
     "translation": "Tôi rất thân với các anh chị em họ, chúng tôi lớn lên cùng nhau"
   },
   {
     "sentence": "My family ___ me in everything I do.",
     "answer": "supports",
-    "options": [
-      "supports",
-      "teaches",
-      "helps",
-      "joins"
-    ],
+    "options": ["supports","teaches","helps","joins"],
     "translation": "Gia đình luôn ủng hộ mọi việc tôi làm"
   },
   {
     "sentence": "Family ___ are important to us.",
     "answer": "gatherings",
-    "options": [
-      "gatherings",
-      "trips",
-      "games",
-      "meals"
-    ],
+    "options": ["gatherings","trips","games","meals"],
     "translation": "Các buổi sum họp gia đình rất quan trọng với chúng tôi"
   },
   {
     "sentence": "Do you spend a lot of ___ with your family?",
     "answer": "time",
-    "options": [
-      "time",
-      "money",
-      "effort",
-      "food"
-    ],
+    "options": ["time","money","effort","food"],
     "translation": "Bạn có dành nhiều thời gian cho gia đình không?"
   },
   {
     "sentence": "I love going on ___ with my family.",
     "answer": "vacations",
-    "options": [
-      "vacations",
-      "meetings",
-      "parties",
-      "picnics"
-    ],
+    "options": ["vacations","meetings","parties","picnics"],
     "translation": "Tôi thích đi du lịch cùng gia đình"
   },
   {
     "sentence": "My parents always ___ me to follow my dreams.",
     "answer": "encourage",
-    "options": [
-      "encourage",
-      "tell",
-      "remind",
-      "warn"
-    ],
+    "options": ["encourage","tell","remind","warn"],
     "translation": "Bố mẹ luôn khuyến khích tôi theo đuổi ước mơ của mình"
   },
   {
     "sentence": "We celebrate ___ and holidays together.",
     "answer": "birthdays",
-    "options": [
-      "birthdays",
-      "events",
-      "parties",
-      "meetings"
-    ],
+    "options": ["birthdays","events","parties","meetings"],
     "translation": "Chúng tôi tổ chức sinh nhật và các ngày lễ cùng nhau"
   },
   {
     "sentence": "I have a strong ___ with my family.",
     "answer": "bond",
-    "options": [
-      "bond",
-      "connection",
-      "relationship",
-      "feeling"
-    ],
+    "options": ["bond","connection","relationship","feeling"],
     "translation": "Tôi có mối quan hệ gắn kết chặt chẽ với gia đình"
   },
   {
     "sentence": "How much does this ___?",
     "answer": "cost",
-    "options": [
-      "cost",
-      "weigh",
-      "measure",
-      "fit"
-    ],
+    "options": ["cost","weigh","measure","fit"],
     "translation": "Sản phẩm này giá bao nhiêu?"
   },
   {
     "sentence": "Do you have this in a different ___?",
     "answer": "size",
-    "options": [
-      "size",
-      "color",
-      "style",
-      "model"
-    ],
+    "options": ["size","color","style","model"],
     "translation": "Bạn có cái này với kích cỡ khác không?"
   },
   {
     "sentence": "Can I try this ___?",
     "answer": "on",
-    "options": [
-      "on",
-      "out",
-      "up",
-      "in"
-    ],
+    "options": ["on","out","up","in"],
     "translation": "Tôi có thể thử cái này không?"
   },
   {
     "sentence": "Is this on ___?",
     "answer": "sale",
-    "options": [
-      "sale",
-      "display",
-      "order",
-      "discount"
-    ],
+    "options": ["sale","display","order","discount"],
     "translation": "Cái này có đang giảm giá không?"
   },
   {
     "sentence": "Where is the ___ room?",
     "answer": "fitting",
-    "options": [
-      "fitting",
-      "changing",
-      "locker",
-      "waiting"
-    ],
+    "options": ["fitting","changing","locker","waiting"],
     "translation": "Phòng thử đồ ở đâu?"
   },
   {
     "sentence": "Do you accept ___ cards?",
     "answer": "credit",
-    "options": [
-      "credit",
-      "gift",
-      "cash",
-      "reward"
-    ],
+    "options": ["credit","gift","cash","reward"],
     "translation": "Bạn có chấp nhận thẻ tín dụng không?"
   },
   {
     "sentence": "Can I get a ___ if I don’t like it?",
     "answer": "refund",
-    "options": [
-      "refund",
-      "receipt",
-      "voucher",
-      "replacement"
-    ],
+    "options": ["refund","receipt","voucher","replacement"],
     "translation": "Tôi có được hoàn tiền nếu không thích không?"
   },
   {
     "sentence": "Excuse me, do you have this item in ___?",
     "answer": "stock",
-    "options": [
-      "stock",
-      "store",
-      "order",
-      "display"
-    ],
+    "options": ["stock","store","order","display"],
     "translation": "Xin lỗi, sản phẩm này còn hàng không?"
   },
   {
     "sentence": "I’m just ___, thank you.",
     "answer": "looking",
-    "options": [
-      "looking",
-      "buying",
-      "choosing",
-      "checking"
-    ],
+    "options": ["looking","buying","choosing","checking"],
     "translation": "Tôi chỉ xem thôi, cảm ơn"
   },
   {
     "sentence": "What time does the store ___?",
     "answer": "close",
-    "options": [
-      "close",
-      "open",
-      "start",
-      "lock"
-    ],
+    "options": ["close","open","start","lock"],
     "translation": "Cửa hàng đóng cửa lúc mấy giờ?"
   },
   {
     "sentence": "Do you have any ___ for this product?",
     "answer": "discounts",
-    "options": [
-      "discounts",
-      "offers",
-      "promotions",
-      "gifts"
-    ],
+    "options": ["discounts","offers","promotions","gifts"],
     "translation": "Bạn có giảm giá cho sản phẩm này không?"
   },
   {
     "sentence": "Can you show me something ___ to this?",
     "answer": "similar",
-    "options": [
-      "similar",
-      "close",
-      "related",
-      "equal"
-    ],
+    "options": ["similar","close","related","equal"],
     "translation": "Bạn có thể cho tôi xem thứ gì đó tương tự không?"
   },
   {
     "sentence": "Excuse me, can you tell me how to get to the ___?",
     "answer": "place",
-    "options": [
-      "place",
-      "destination",
-      "spot",
-      "building"
-    ],
+    "options": ["place","destination","spot","building"],
     "translation": "Xin lỗi, bạn có thể chỉ cho tôi cách đến địa điểm này không?"
   },
   {
     "sentence": "Can you show me the way to the nearest ___ stop?",
     "answer": "bus",
-    "options": [
-      "bus",
-      "train",
-      "subway",
-      "tram"
-    ],
+    "options": ["bus","train","subway","tram"],
     "translation": "Bạn có thể chỉ cho tôi đường đến trạm xe buýt gần nhất không?"
   },
   {
     "sentence": "Is this the right way to the ___?",
     "answer": "destination",
-    "options": [
-      "destination",
-      "station",
-      "city",
-      "center"
-    ],
+    "options": ["destination","station","city","center"],
     "translation": "Đây có phải đường đúng để đến điểm đến không?"
   },
   {
     "sentence": "Which way should I go to get to the city ___?",
     "answer": "center",
-    "options": [
-      "center",
-      "hall",
-      "park",
-      "square"
-    ],
+    "options": ["center","hall","park","square"],
     "translation": "Tôi nên đi đường nào để đến trung tâm thành phố?"
   },
   {
     "sentence": "Excuse me, where is the nearest ___?",
     "answer": "ATM",
-    "options": [
-      "ATM",
-      "bank",
-      "exchange",
-      "market"
-    ],
+    "options": ["ATM","bank","exchange","market"],
     "translation": "Xin lỗi, cây ATM gần nhất ở đâu?"
   },
   {
     "sentence": "How long does it take to ___ to a place?",
     "answer": "walk",
-    "options": [
-      "walk",
-      "drive",
-      "run",
-      "go"
-    ],
+    "options": ["walk","drive","run","go"],
     "translation": "Đi bộ đến địa điểm đó mất bao lâu?"
   },
   {
     "sentence": "Can I get there by ___, or should I take a taxi?",
     "answer": "bus",
-    "options": [
-      "bus",
-      "bike",
-      "car",
-      "train"
-    ],
+    "options": ["bus","bike","car","train"],
     "translation": "Tôi có thể đến đó bằng xe buýt không, hay nên đi taxi?"
   },
   {
     "sentence": "Do you know if there is a ___ station nearby?",
     "answer": "subway",
-    "options": [
-      "subway",
-      "bus",
-      "train",
-      "metro"
-    ],
+    "options": ["subway","bus","train","metro"],
     "translation": "Bạn có biết có ga tàu điện ngầm nào gần đây không?"
   },
   {
     "sentence": "Is it better to walk or take public ___?",
     "answer": "transport",
-    "options": [
-      "transport",
-      "bikes",
-      "cars",
-      "rides"
-    ],
+    "options": ["transport","bikes","cars","rides"],
     "translation": "Đi bộ hay đi phương tiện công cộng thì tiện hơn?"
   },
   {
     "sentence": "Excuse me, is there a ___ around here?",
     "answer": "pharmacy",
-    "options": [
-      "pharmacy",
-      "hospital",
-      "clinic",
-      "shop"
-    ],
+    "options": ["pharmacy","hospital","clinic","shop"],
     "translation": "Xin lỗi, có nhà thuốc nào quanh đây không?"
   },
   {
     "sentence": "Can I ___ you with anything?",
     "answer": "help",
-    "options": [
-      "help",
-      "ask",
-      "meet",
-      "call"
-    ],
+    "options": ["help","ask","meet","call"],
     "translation": "Tôi có thể giúp bạn việc gì không?"
   },
   {
     "sentence": "Do you need any ___?",
     "answer": "help",
-    "options": [
-      "help",
-      "money",
-      "support",
-      "tools"
-    ],
+    "options": ["help","money","support","tools"],
     "translation": "Bạn có cần giúp đỡ không?"
   },
   {
     "sentence": "Would you like me to give you a ___?",
     "answer": "hand",
-    "options": [
-      "hand",
-      "gift",
-      "ride",
-      "tip"
-    ],
+    "options": ["hand","gift","ride","tip"],
     "translation": "Bạn có muốn tôi giúp một tay không?"
   },
   {
     "sentence": "Is there anything I can do to ___ you?",
     "answer": "assist",
-    "options": [
-      "assist",
-      "support",
-      "serve",
-      "help"
-    ],
+    "options": ["assist","support","serve","help"],
     "translation": "Tôi có thể làm hỗ trợ bạn việc gì không?"
   },
   {
     "sentence": "Let me know if you need any ___.",
     "answer": "help",
-    "options": [
-      "help",
-      "money",
-      "tools",
-      "advice"
-    ],
+    "options": ["help","money","tools","advice"],
     "translation": "Hãy cho tôi biết nếu bạn cần sự giúp đỡ"
   },
   {
     "sentence": "Would you like me to ___ that for you?",
     "answer": "carry",
-    "options": [
-      "carry",
-      "hold",
-      "move",
-      "take"
-    ],
+    "options": ["carry","hold","move","take"],
     "translation": "Bạn có muốn tôi mang cái đó giúp bạn không?"
   },
   {
     "sentence": "Do you want me to ___ you with that?",
     "answer": "help",
-    "options": [
-      "help",
-      "assist",
-      "support",
-      "guide"
-    ],
+    "options": ["help","assist","support","guide"],
     "translation": "Bạn có muốn tôi giúp bạn việc đó không?"
   },
   {
     "sentence": "Can I do anything to make it ___ for you?",
     "answer": "easier",
-    "options": [
-      "easier",
-      "better",
-      "faster",
-      "safer"
-    ],
+    "options": ["easier","better","faster","safer"],
     "translation": "Tôi có thể làm gì để giúp việc này trở nên dễ dàng hơn cho bạn không?"
   },
   {
     "sentence": "Let me ___ you with that.",
     "answer": "help",
-    "options": [
-      "help",
-      "assist",
-      "support",
-      "carry"
-    ],
+    "options": ["help","assist","support","carry"],
     "translation": "Để tôi giúp bạn với việc đó"
   },
   {
     "sentence": "Let me ___ you with that.",
     "answer": "help",
-    "options": [
-      "help",
-      "assist",
-      "support",
-      "carry"
-    ],
+    "options": ["help","assist","support","carry"],
     "translation": "Để tôi giúp bạn với việc đó"
   },
   {
     "sentence": "Can you ___ me a hand?",
     "answer": "give",
-    "options": [
-      "give",
-      "take",
-      "bring",
-      "hold"
-    ],
+    "options": ["give","take","bring","hold"],
     "translation": "Bạn có thể giúp tôi một tay không?"
   },
   {
     "sentence": "I will ___ back to you later.",
     "answer": "get",
-    "options": [
-      "get",
-      "come",
-      "return",
-      "reply"
-    ],
+    "options": ["get","come","return","reply"],
     "translation": "Tôi sẽ phản hồi lại bạn sau"
   },
   {
     "sentence": "This task is ___ than I expected.",
     "answer": "harder",
-    "options": [
-      "harder",
-      "easier",
-      "faster",
-      "simpler"
-    ],
+    "options": ["harder","easier","faster","simpler"],
     "translation": "Task này khó hơn tôi nghĩ"
   },
   {
     "sentence": "I need more time to ___ this task.",
     "answer": "complete",
-    "options": [
-      "complete",
-      "do",
-      "make",
-      "finish"
-    ],
+    "options": ["complete","do","make","finish"],
     "translation": "Tôi cần thêm thời gian để hoàn thành task này"
   },
   {
     "sentence": "The system is currently ___.",
     "answer": "down",
-    "options": [
-      "down",
-      "up",
-      "running",
-      "working"
-    ],
+    "options": ["down","up","running","working"],
     "translation": "Hệ thống hiện đang bị sập"
   },
   {
     "sentence": "Have you ___ the code yet?",
     "answer": "tested",
-    "options": [
-      "tested",
-      "written",
-      "fixed",
-      "checked"
-    ],
+    "options": ["tested","written","fixed","checked"],
     "translation": "Bạn đã test code chưa?"
   },
   {
     "sentence": "There is a ___ in the program.",
     "answer": "bug",
-    "options": [
-      "bug",
-      "error",
-      "issue",
-      "problem"
-    ],
+    "options": ["bug","error","issue","problem"],
     "translation": "Có lỗi trong chương trình"
   },
   {
     "sentence": "I need to ___ this bug quickly.",
     "answer": "fix",
-    "options": [
-      "fix",
-      "solve",
-      "handle",
-      "resolve"
-    ],
+    "options": ["fix","solve","handle","resolve"],
     "translation": "Tôi cần fix bug này nhanh"
   },
   {
     "sentence": "Can you ___ the database connection?",
     "answer": "check",
-    "options": [
-      "check",
-      "test",
-      "verify",
-      "inspect"
-    ],
+    "options": ["check","test","verify","inspect"],
     "translation": "Bạn có thể kiểm tra kết nối database không?"
   },
   {
     "sentence": "The server is ___ too much memory.",
     "answer": "using",
-    "options": [
-      "using",
-      "taking",
-      "consuming",
-      "running"
-    ],
+    "options": ["using","taking","consuming","running"],
     "translation": "Server đang dùng quá nhiều bộ nhớ"
   },
   {
     "sentence": "I will ___ the changes to Git.",
     "answer": "commit",
-    "options": [
-      "commit",
-      "push",
-      "save",
-      "upload"
-    ],
+    "options": ["commit","push","save","upload"],
     "translation": "Tôi sẽ commit thay đổi lên Git"
   },
   {
     "sentence": "Please ___ the latest code from the repository.",
     "answer": "pull",
-    "options": [
-      "pull",
-      "push",
-      "clone",
-      "fetch"
-    ],
+    "options": ["pull","push","clone","fetch"],
     "translation": "Hãy pull code mới nhất từ repository"
   },
   {
     "sentence": "We need to ___ this feature before release.",
     "answer": "test",
-    "options": [
-      "test",
-      "build",
-      "deploy",
-      "design"
-    ],
+    "options": ["test","build","deploy","design"],
     "translation": "Chúng ta cần test feature này trước khi release"
   },
   {
     "sentence": "The application failed to ___.",
     "answer": "start",
-    "options": [
-      "start",
-      "run",
-      "execute",
-      "launch"
-    ],
+    "options": ["start","run","execute","launch"],
     "translation": "Ứng dụng không khởi động được"
   },
   {
     "sentence": "I will ___ a meeting at 3 PM.",
     "answer": "schedule",
-    "options": [
-      "schedule",
-      "make",
-      "create",
-      "set"
-    ],
+    "options": ["schedule","make","create","set"],
     "translation": "Tôi sẽ lên lịch họp lúc 3 giờ"
   },
   {
     "sentence": "Can you ___ this issue for me?",
     "answer": "look into",
-    "options": [
-      "look into",
-      "see",
-      "watch",
-      "check"
-    ],
+    "options": ["look into","see","watch","check"],
     "translation": "Bạn có thể xem giúp tôi vấn đề này không?"
   },
   {
     "sentence": "The deployment was ___ successfully.",
     "answer": "completed",
-    "options": [
-      "completed",
-      "done",
-      "finished",
-      "executed"
-    ],
+    "options": ["completed","done","finished","executed"],
     "translation": "Việc deploy đã hoàn thành thành công"
   },
   {
     "sentence": "I am ___ on this task right now.",
     "answer": "working",
-    "options": [
-      "working",
-      "doing",
-      "making",
-      "handling"
-    ],
+    "options": ["working","doing","making","handling"],
     "translation": "Tôi đang làm task này"
   },
   {
     "sentence": "Please ___ me if you have any questions.",
     "answer": "contact",
-    "options": [
-      "contact",
-      "call",
-      "ask",
-      "tell"
-    ],
+    "options": ["contact","call","ask","tell"],
     "translation": "Hãy liên hệ tôi nếu bạn có câu hỏi"
   },
   {
     "sentence": "Can you ___ me?",
     "answer": "help",
-    "options": [
-      "help",
-      "give",
-      "take",
-      "make"
-    ],
+    "options": ["help","give","take","make"],
     "translation": "Bạn có thể giúp tôi không?"
   },
   {
     "sentence": "I ___ tired today.",
     "answer": "am",
-    "options": [
-      "am",
-      "is",
-      "are",
-      "be"
-    ],
+    "options": ["am","is","are","be"],
     "translation": "Hôm nay tôi mệt"
   },
   {
     "sentence": "Please ___ the door.",
     "answer": "open",
-    "options": [
-      "open",
-      "close",
-      "lock",
-      "push"
-    ],
+    "options": ["open","close","lock","push"],
     "translation": "Làm ơn mở cửa"
   },
   {
     "sentence": "I ___ coffee every morning.",
     "answer": "drink",
-    "options": [
-      "drink",
-      "eat",
-      "take",
-      "use"
-    ],
+    "options": ["drink","eat","take","use"],
     "translation": "Tôi uống cà phê mỗi sáng"
   },
   {
     "sentence": "I will ___ you later.",
     "answer": "call",
-    "options": [
-      "call",
-      "talk",
-      "say",
-      "speak"
-    ],
+    "options": ["call","talk","say","speak"],
     "translation": "Tôi sẽ gọi cho bạn sau"
   },
   {
     "sentence": "Can you ___ me a hand?",
     "answer": "give",
-    "options": [
-      "give",
-      "take",
-      "bring",
-      "hold"
-    ],
+    "options": ["give","take","bring","hold"],
     "translation": "Bạn có thể giúp tôi một tay không?"
   },
   {
     "sentence": "I need to ___ this work today.",
     "answer": "finish",
-    "options": [
-      "finish",
-      "end",
-      "stop",
-      "close"
-    ],
+    "options": ["finish","end","stop","close"],
     "translation": "Tôi cần hoàn thành công việc này hôm nay"
   },
   {
     "sentence": "She is ___ TV now.",
     "answer": "watching",
-    "options": [
-      "watching",
-      "seeing",
-      "looking",
-      "reading"
-    ],
+    "options": ["watching","seeing","looking","reading"],
     "translation": "Cô ấy đang xem TV"
   },
   {
     "sentence": "I will ___ back to you soon.",
     "answer": "get",
-    "options": [
-      "get",
-      "come",
-      "return",
-      "reply"
-    ],
+    "options": ["get","come","return","reply"],
     "translation": "Tôi sẽ phản hồi lại bạn sớm"
   },
   {
     "sentence": "This task is ___ than expected.",
     "answer": "harder",
-    "options": [
-      "harder",
-      "easier",
-      "simpler",
-      "lighter"
-    ],
+    "options": ["harder","easier","simpler","lighter"],
     "translation": "Task này khó hơn dự kiến"
   },
   {
     "sentence": "I am ___ on this project right now.",
     "answer": "working",
-    "options": [
-      "working",
-      "doing",
-      "making",
-      "building"
-    ],
+    "options": ["working","doing","making","building"],
     "translation": "Tôi đang làm project này"
   },
   {
     "sentence": "We need to ___ this issue quickly.",
     "answer": "resolve",
-    "options": [
-      "resolve",
-      "fix",
-      "solve",
-      "handle"
-    ],
+    "options": ["resolve","fix","solve","handle"],
     "translation": "Chúng ta cần xử lý vấn đề này nhanh"
   },
   {
     "sentence": "Can you ___ this issue for me?",
     "answer": "look into",
-    "options": [
-      "look into",
-      "check",
-      "see",
-      "watch"
-    ],
+    "options": ["look into","check","see","watch"],
     "translation": "Bạn có thể xem xét vấn đề này giúp tôi không?"
   },
   {
     "sentence": "The system is currently ___.",
     "answer": "down",
-    "options": [
-      "down",
-      "running",
-      "working",
-      "active"
-    ],
+    "options": ["down","running","working","active"],
     "translation": "Hệ thống hiện đang bị sập"
   },
   {
     "sentence": "We need to ___ the new feature before release.",
     "answer": "test",
-    "options": [
-      "test",
-      "build",
-      "deploy",
-      "design"
-    ],
+    "options": ["test","build","deploy","design"],
     "translation": "Chúng ta cần test feature mới trước khi release"
   },
   {
     "sentence": "The server is ___ too many resources.",
     "answer": "consuming",
-    "options": [
-      "consuming",
-      "using",
-      "taking",
-      "running"
-    ],
+    "options": ["consuming","using","taking","running"],
     "translation": "Server đang tiêu tốn quá nhiều tài nguyên"
   }
 ]
