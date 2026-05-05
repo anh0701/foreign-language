@@ -1,0 +1,145 @@
+{
+  "id": 15,
+  "slug": "the-broken-finger",
+  "title": "The Broken Finger",
+  "level": "beginner",
+  "topic": "health",
+  "estimatedReadingTime": 2,
+
+  "summary": "A man thinks his whole body hurts, but the doctor finds a surprising small problem.",
+
+  "characters": [
+    {
+      "id": "man",
+      "name": "Man",
+      "role": "main_character",
+      "gender": "male",
+      "chatSide": "left"
+    },
+    {
+      "id": "doctor",
+      "name": "Doctor",
+      "role": "support_character",
+      "gender": "male",
+      "chatSide": "right"
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "role": "narration",
+      "gender": "neutral",
+      "chatSide": "center"
+    }
+  ],
+
+  "dialogues": [
+    {
+      "order": 1,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "A man went to see a doctor.",
+      "translation": "Một người đàn ông đến gặp bác sĩ."
+    },
+    {
+      "order": 2,
+      "speakerId": "man",
+      "type": "dialogue",
+      "english": "Doctor, my whole body hurts.",
+      "translation": "Bác sĩ ơi, toàn thân tôi đều đau."
+    },
+    {
+      "order": 3,
+      "speakerId": "doctor",
+      "type": "dialogue",
+      "english": "Show me where it hurts.",
+      "translation": "Hãy cho tôi xem chỗ nào đau."
+    },
+    {
+      "order": 4,
+      "speakerId": "man",
+      "type": "dialogue",
+      "english": "Here! Ouch!",
+      "translation": "Ở đây! Đau!"
+    },
+    {
+      "order": 5,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "He touched his head and cried.",
+      "translation": "Anh ta chạm vào đầu và kêu lên."
+    },
+    {
+      "order": 6,
+      "speakerId": "man",
+      "type": "dialogue",
+      "english": "And here! Ouch!",
+      "translation": "Và ở đây! Đau!"
+    },
+    {
+      "order": 7,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "He touched his arm and cried again.",
+      "translation": "Anh ta chạm vào tay và lại kêu lên."
+    },
+    {
+      "order": 8,
+      "speakerId": "doctor",
+      "type": "dialogue",
+      "english": "I see the problem now.",
+      "translation": "Tôi hiểu vấn đề rồi."
+    },
+    {
+      "order": 9,
+      "speakerId": "doctor",
+      "type": "dialogue",
+      "english": "Your finger is broken.",
+      "translation": "Ngón tay của anh bị gãy."
+    }
+  ],
+
+  "vocabulary": [
+    {
+      "word": "hurt",
+      "meaning": "đau",
+      "example": "My leg hurts."
+    },
+    {
+      "word": "touch",
+      "meaning": "chạm vào",
+      "example": "Don't touch that."
+    },
+    {
+      "word": "problem",
+      "meaning": "vấn đề",
+      "example": "What is the problem?"
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "What was the real problem?",
+      "options": [
+        "His head",
+        "His arm",
+        "His finger",
+        "His leg"
+      ],
+      "answer": "His finger"
+    }
+  ],
+
+  "tags": [
+    "health",
+    "funny",
+    "beginner",
+    "conversation"
+  ],
+
+  "thumbnail": "/images/the-broken-finger.jpg",
+
+  "published": true,
+
+  "createdAt": "2026-05-05T08:00:00Z",
+  "updatedAt": "2026-05-05T08:00:00Z"
+}

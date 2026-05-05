@@ -1,0 +1,145 @@
+{
+  "id": 17,
+  "slug": "the-photo-proof",
+  "title": "The Photo Proof",
+  "level": "beginner",
+  "topic": "daily_life",
+  "estimatedReadingTime": 2,
+
+  "summary": "A boy tries to prove he did his homework, but his proof creates a funny problem.",
+
+  "characters": [
+    {
+      "id": "boy",
+      "name": "Boy",
+      "role": "main_character",
+      "gender": "male",
+      "chatSide": "left"
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "role": "support_character",
+      "gender": "female",
+      "chatSide": "right"
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "role": "narration",
+      "gender": "neutral",
+      "chatSide": "center"
+    }
+  ],
+
+  "dialogues": [
+    {
+      "order": 1,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "A boy came to class without his homework.",
+      "translation": "Một cậu bé đến lớp mà không mang bài tập."
+    },
+    {
+      "order": 2,
+      "speakerId": "teacher",
+      "type": "dialogue",
+      "english": "Where is your homework?",
+      "translation": "Bài tập của em đâu?"
+    },
+    {
+      "order": 3,
+      "speakerId": "boy",
+      "type": "dialogue",
+      "english": "I did it, but my dog ate it.",
+      "translation": "Em đã làm rồi, nhưng con chó của em ăn mất."
+    },
+    {
+      "order": 4,
+      "speakerId": "teacher",
+      "type": "dialogue",
+      "english": "That is a very old excuse.",
+      "translation": "Đó là một lý do rất cũ."
+    },
+    {
+      "order": 5,
+      "speakerId": "boy",
+      "type": "dialogue",
+      "english": "Wait, I have proof!",
+      "translation": "Khoan đã, em có bằng chứng!"
+    },
+    {
+      "order": 6,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "The boy showed a photo on his phone.",
+      "translation": "Cậu bé đưa ra một bức ảnh trên điện thoại."
+    },
+    {
+      "order": 7,
+      "speakerId": "teacher",
+      "type": "dialogue",
+      "english": "This photo shows your dog eating paper.",
+      "translation": "Bức ảnh này cho thấy con chó của em đang ăn giấy."
+    },
+    {
+      "order": 8,
+      "speakerId": "teacher",
+      "type": "dialogue",
+      "english": "But that paper is ...blank.",
+      "translation": "Nhưng tờ giấy đó ...trống."
+    },
+    {
+      "order": 9,
+      "speakerId": "boy",
+      "type": "dialogue",
+      "english": "...Yes.",
+      "translation": "...Vâng."
+    }
+  ],
+
+  "vocabulary": [
+    {
+      "word": "homework",
+      "meaning": "bài tập về nhà",
+      "example": "I have a lot of homework today."
+    },
+    {
+      "word": "excuse",
+      "meaning": "lý do (biện minh)",
+      "example": "That is a bad excuse."
+    },
+    {
+      "word": "proof",
+      "meaning": "bằng chứng",
+      "example": "Do you have proof?"
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "Why is the boy's proof funny?",
+      "options": [
+        "The dog is not real",
+        "The photo is fake",
+        "The paper is blank",
+        "The teacher laughs"
+      ],
+      "answer": "The paper is blank"
+    }
+  ],
+
+  "tags": [
+    "school",
+    "funny",
+    "beginner",
+    "twist"
+  ],
+
+  "thumbnail": "/images/the-photo-proof.jpg",
+
+  "published": true,
+
+  "createdAt": "2026-05-05T08:15:00Z",
+  "updatedAt": "2026-05-05T08:15:00Z"
+}
