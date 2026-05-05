@@ -1,0 +1,179 @@
+{
+  "id": 10,
+  "slug": "akpos-library-embarrassment",
+  "title": "Akpos in the Library",
+  "level": "intermediate",
+  "topic": "humor",
+  "estimatedReadingTime": 2,
+
+  "summary": "Akpos politely asks to sit next to a girl, but she embarrasses him publicly. He later turns the situation around in a clever way.",
+
+  "characters": [
+    {
+      "id": "akpos",
+      "name": "Akpos",
+      "role": "main_character",
+      "gender": "male",
+      "chatSide": "left"
+    },
+    {
+      "id": "girl",
+      "name": "Girl",
+      "role": "support_character",
+      "gender": "female",
+      "chatSide": "right"
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "role": "narration",
+      "gender": "neutral",
+      "chatSide": "center"
+    }
+  ],
+
+  "dialogues": [
+    {
+      "order": 1,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "One day, Akpos was studying in a quiet library.",
+      "translation": "Một ngày nọ, Akpos đang học trong một thư viện yên tĩnh."
+    },
+    {
+      "order": 2,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "He noticed a girl sitting alone at a table.",
+      "translation": "Anh ấy thấy một cô gái đang ngồi một mình ở bàn."
+    },
+    {
+      "order": 3,
+      "speakerId": "akpos",
+      "type": "dialogue",
+      "english": "Do you mind if I sit beside you?",
+      "translation": "Bạn có phiền nếu tôi ngồi cạnh bạn không?"
+    },
+    {
+      "order": 4,
+      "speakerId": "girl",
+      "type": "dialogue",
+      "english": "I DON'T WANT TO SPEND THE NIGHT WITH YOU!!!",
+      "translation": "TÔI KHÔNG MUỐN QUA ĐÊM VỚI ANH!!!"
+    },
+    {
+      "order": 5,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "Her loud voice shocked everyone in the library.",
+      "translation": "Giọng nói lớn của cô khiến mọi người trong thư viện bị sốc."
+    },
+    {
+      "order": 6,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "All the students turned to look at Akpos, and he felt extremely embarrassed.",
+      "translation": "Tất cả sinh viên quay lại nhìn Akpos, và anh ấy cảm thấy cực kỳ xấu hổ."
+    },
+    {
+      "order": 7,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "A couple of minutes later, the girl quietly walked over to his table.",
+      "translation": "Vài phút sau, cô gái lặng lẽ bước đến bàn của anh."
+    },
+    {
+      "order": 8,
+      "speakerId": "girl",
+      "type": "dialogue",
+      "english": "I study psychology. I know what a man is thinking.",
+      "translation": "Tôi học tâm lý học. Tôi biết đàn ông nghĩ gì."
+    },
+    {
+      "order": 9,
+      "speakerId": "girl",
+      "type": "dialogue",
+      "english": "I guess you felt embarrassed, right?",
+      "translation": "Tôi đoán anh thấy xấu hổ, đúng không?"
+    },
+    {
+      "order": 10,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "Akpos looked at her for a moment, then suddenly raised his voice.",
+      "translation": "Akpos nhìn cô một lúc, rồi bất ngờ nói to."
+    },
+    {
+      "order": 11,
+      "speakerId": "akpos",
+      "type": "dialogue",
+      "english": "N10,000 just for one night? That's too expensive!",
+      "translation": "10.000 naira chỉ cho một đêm à? Đắt quá!"
+    },
+    {
+      "order": 12,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "This time, everyone in the library stared at the girl in shock.",
+      "translation": "Lần này, mọi người trong thư viện nhìn cô gái với sự sốc."
+    },
+    {
+      "order": 13,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "The girl stood there, speechless.",
+      "translation": "Cô gái đứng đó, không nói nên lời."
+    },
+    {
+      "order": 14,
+      "speakerId": "akpos",
+      "type": "dialogue",
+      "english": "I study law. I know how to make someone feel guilty.",
+      "translation": "Tôi học luật. Tôi biết cách khiến người khác cảm thấy có lỗi."
+    }
+  ],
+
+  "vocabulary": [
+    {
+      "word": "embarrassed",
+      "meaning": "xấu hổ",
+      "example": "He felt embarrassed in front of everyone."
+    },
+    {
+      "word": "psychology",
+      "meaning": "tâm lý học",
+      "example": "She studies psychology at university."
+    },
+    {
+      "word": "speechless",
+      "meaning": "không nói nên lời",
+      "example": "She was speechless after hearing that."
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "Why did the people look at the girl at the end?",
+      "options": [
+        "She shouted again",
+        "Akpos embarrassed her",
+        "She left the library",
+        "She started crying"
+      ],
+      "answer": "Akpos embarrassed her"
+    }
+  ],
+
+  "tags": [
+    "humor",
+    "conversation",
+    "twist"
+  ],
+
+  "thumbnail": "/images/akpos-library.jpg",
+
+  "published": true,
+
+  "createdAt": "2026-05-05T08:00:00Z",
+  "updatedAt": "2026-05-05T08:00:00Z"
+}

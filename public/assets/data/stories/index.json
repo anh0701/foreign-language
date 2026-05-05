@@ -77,7 +77,52 @@
     "title": "The Driving Lesson Choice",
     "level": "beginner",
     "topic": "daily_life",
-    "thumbnail": "/images/school_life.jpg",
+    "thumbnail": "/images/daily_life.jpg",
+    "estimatedReadingTime": 2
+  },
+  {
+    "id": 10,
+    "slug": "akpos-library-embarrassment",
+    "title": "Akpos in the Library",
+    "level": "intermediate",
+    "topic": "humor",
+    "thumbnail": "/images/humor.jpg",
+    "estimatedReadingTime": 2
+  },
+  {
+    "id": 11,
+    "slug": "dinner-time-mom",
+    "title": "Dinner Time",
+    "level": "beginner",
+    "topic": "daily_life",
+    "thumbnail": "/images/daily_life.jpg",
+    "estimatedReadingTime": 1
+  },
+  {
+    "id": 12,
+    "slug": "voice-mail-letter",
+    "title": "Sending a Voice Mail",
+    "level": "beginner",
+    "topic": "humor",
+    "thumbnail": "/images/humor.jpg",
+    "estimatedReadingTime": 1
+  },
+  {
+    "id": 13,
+    "slug": "boss-wish-genie",
+    "title": "Let the Boss Speak First",
+    "level": "intermediate",
+    "topic": "workplace",
+    "thumbnail": "/images/workplace.jpg",
+    "estimatedReadingTime": 2
+  },
+  {
+    "id": 14,
+    "slug": "loud-music-sleep",
+    "title": "Music for Sleep",
+    "level": "intermediate",
+    "topic": "daily_life",
+    "thumbnail": "/images/daily_life.jpg",
     "estimatedReadingTime": 2
   }
 ]
