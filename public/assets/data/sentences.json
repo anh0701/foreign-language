@@ -1,5 +1,47 @@
 [
   {
+    "sentence": "Sally has been working here ___ ",
+    "answer": "for six months/six months",
+    "options": ["for six months/six months","since six months", "six months ago", "six months"],
+    "translation": "Sally đã làm việc ở đây được sáu tháng."
+  },
+  {
+    "sentence": "'How long ___ ane?' 'A long time. Since we were at school.'",
+    "answer": "have you known",
+    "options": ["have you known","do you know", "have you been knowing"],
+    "translation": "'Bạn quen nhau bao lâu rồi?' 'Lâu lắm rồi. Từ hồi còn đi học.'"
+  },
+  {
+    "sentence": "Where’s the book I gave you? What ___ with it?",
+    "answer": "have you done",
+    "options": ["have you done","have you been doing", "are you doing"],
+    "translation": "Cuốn sách tôi đưa cho bạn đâu? Bạn đã làm gì với nó vậy?"
+  },
+  {
+    "sentence": "Why are you out of breath? ___ ?",
+    "answer": "Have you been running",
+    "options": ["Are you running","Have you run", "Have you been running"],
+    "translation": "Sao bạn lại thở hổn hển thế? Bạn vừa chạy bộ xong à?"
+  },
+  {
+    "sentence": "Sarah has lost her passport again. This is the second time this ___ .",
+    "answer": "has happened",
+    "options": ["has happened","happens", "happened", "is happening"],
+    "translation": "Sarah lại làm mất hộ chiếu rồi. Đây là lần thứ hai chuyện này xảy ra."
+  },
+  {
+    "sentence": "Everything is going well. There ___ any problems so far.",
+    "answer": "haven’t been",
+    "options": ["weren’t","have been", "haven’t been"],
+    "translation": "Mọi việc đều diễn ra tốt đẹp. Cho đến nay chưa có vấn đề gì xảy ra."
+  },
+  {
+    "sentence": "James is on holiday. He ___ to Italy.",
+    "answer": "has gone",
+    "options": ["is gone","has gone", "has been"],
+    "translation": "James đang đi nghỉ mát. Anh ấy đã đến Ý."
+  },
+  {
     "sentence": "Matt ___ while we were having dinner.",
     "answer": "phoned",
     "options": ["phoned","was phoning", "has phoned"],
@@ -690,10 +732,10 @@
     "translation": "Bạn đã test code chưa?"
   },
   {
-    "sentence": "There is a ___ in the program.",
+    "sentence": "There is a ___ in the program code that causes unexpected behavior.",
     "answer": "bug",
     "options": ["bug","error","issue","problem"],
-    "translation": "Có lỗi trong chương trình"
+    "translation": "Có một lỗi trong mã chương trình gây ra hiện tượng hoạt động không mong muốn."
   },
   {
     "sentence": "I need to ___ this bug quickly.",

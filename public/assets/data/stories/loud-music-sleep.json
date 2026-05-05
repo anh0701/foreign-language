@@ -1,0 +1,44 @@
+{
+    "id": 14,
+    "slug": "loud-music-sleep",
+    "title": "Music for Sleep",
+    "level": "intermediate",
+    "topic": "daily_life",
+    "estimatedReadingTime": 2,
+    "summary": "A neighbor asks to borrow a cassette player, but the reason is unexpectedly funny.",
+    "characters": [
+      { "id": "neighbor", "name": "Neighbor", "role": "support_character", "gender": "male", "chatSide": "right" },
+      { "id": "boy", "name": "Little Boy", "role": "support_character", "gender": "male", "chatSide": "right" },
+      { "id": "man", "name": "Man", "role": "main_character", "gender": "male", "chatSide": "left" },
+      { "id": "narrator", "name": "Narrator", "role": "narration", "gender": "neutral", "chatSide": "center" }
+    ],
+    "dialogues": [
+      { "order": 1, "speakerId": "narrator", "type": "narration", "english": "A man loved loud heavy metal music.", "translation": "Một người đàn ông rất thích nhạc heavy metal ồn ào." },
+      { "order": 2, "speakerId": "boy", "type": "dialogue", "english": "My father asks if he can borrow your cassette player tonight.", "translation": "Bố cháu hỏi có thể mượn máy cassette của chú tối nay không." },
+      { "order": 3, "speakerId": "man", "type": "dialogue", "english": "Oh, are you having a party?", "translation": "Ồ, các cháu tổ chức tiệc à?" },
+      { "order": 4, "speakerId": "boy", "type": "dialogue", "english": "No, he just wants to go to bed.", "translation": "Không, bố cháu chỉ muốn đi ngủ thôi." },
+      { "order": 5, "speakerId": "narrator", "type": "narration", "english": "The man finally understood how loud his music was.", "translation": "Người đàn ông cuối cùng cũng hiểu nhạc của mình ồn đến mức nào." }
+    ],
+    "vocabulary": [
+      { "word": "borrow", "meaning": "mượn", "example": "Can I borrow your book?" },
+      { "word": "party", "meaning": "bữa tiệc", "example": "They are having a party tonight." },
+      { "word": "loud", "meaning": "ồn ào", "example": "The music is too loud." }
+    ],
+    "quiz": [
+      {
+        "question": "Why did the neighbor want the cassette player?",
+        "options": [
+          "To have a party",
+          "To listen to music",
+          "To help him sleep",
+          "To sell it"
+        ],
+        "answer": "To help him sleep"
+      }
+    ],
+    "tags": ["humor", "daily_life"],
+    "thumbnail": "/images/music-sleep.jpg",
+    "published": true,
+    "createdAt": "2026-05-05T08:00:00Z",
+    "updatedAt": "2026-05-05T08:00:00Z"
+}

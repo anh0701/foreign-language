@@ -1,0 +1,36 @@
+{
+    "id": 12,
+    "slug": "voice-mail-letter",
+    "title": "Sending a Voice Mail",
+    "level": "beginner",
+    "topic": "humor",
+    "estimatedReadingTime": 1,
+    "summary": "A man screams into an envelope and claims he is sending a voice mail.",
+    "characters": [
+      { "id": "akpos", "name": "Akpos", "role": "main_character", "gender": "male", "chatSide": "left" },
+      { "id": "clerk", "name": "Clerk", "role": "support_character", "gender": "neutral", "chatSide": "right" },
+      { "id": "narrator", "name": "Narrator", "role": "narration", "gender": "neutral", "chatSide": "center" }
+    ],
+    "dialogues": [
+      { "order": 1, "speakerId": "narrator", "type": "narration", "english": "Akpos went to the post office.", "translation": "Akpos đến bưu điện." },
+      { "order": 2, "speakerId": "narrator", "type": "narration", "english": "He bought an envelope and screamed into it.", "translation": "Anh ấy mua một phong bì và hét vào đó." },
+      { "order": 3, "speakerId": "clerk", "type": "dialogue", "english": "Why did you do that?", "translation": "Tại sao anh làm vậy?" },
+      { "order": 4, "speakerId": "akpos", "type": "dialogue", "english": "I'm sending a voice mail!", "translation": "Tôi đang gửi thư thoại!" }
+    ],
+    "vocabulary": [
+      { "word": "envelope", "meaning": "phong bì", "example": "Put the letter in the envelope." },
+      { "word": "scream", "meaning": "la hét", "example": "He screamed loudly." }
+    ],
+    "quiz": [
+      {
+        "question": "What did Akpos send?",
+        "options": ["A letter", "A voice mail", "A package"],
+        "answer": "A voice mail"
+      }
+    ],
+    "tags": ["humor"],
+    "thumbnail": "/images/voice-mail.jpg",
+    "published": true,
+    "createdAt": "2026-05-05T08:00:00Z",
+    "updatedAt": "2026-05-05T08:00:00Z"
+}

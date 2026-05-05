@@ -1,0 +1,153 @@
+{
+  "id": 19,
+  "slug": "wrong-chat",
+  "title": "Wrong Chat",
+  "level": "beginner",
+  "topic": "daily_life",
+  "estimatedReadingTime": 1,
+
+  "summary": "A boy complains about his boss, then realizes he sent the message to the wrong person—too late.",
+
+  "characters": [
+    {
+      "id": "boy",
+      "name": "Boy",
+      "role": "main_character",
+      "gender": "male",
+      "chatSide": "left"
+    },
+    {
+      "id": "boss",
+      "name": "Boss",
+      "role": "support_character",
+      "gender": "male",
+      "chatSide": "right"
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "role": "narration",
+      "gender": "neutral",
+      "chatSide": "center"
+    }
+  ],
+
+  "dialogues": [
+    {
+      "order": 1,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "A boy wanted to complain about his boss.",
+      "translation": "Một cậu trai muốn phàn nàn về sếp của mình."
+    },
+    {
+      "order": 2,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "He opened his phone and started typing.",
+      "translation": "Cậu mở điện thoại và bắt đầu gõ."
+    },
+    {
+      "order": 3,
+      "speakerId": "boy",
+      "type": "dialogue",
+      "english": "I hate my boss so much.",
+      "translation": "Tôi ghét sếp tôi kinh khủng."
+    },
+    {
+      "order": 4,
+      "speakerId": "boy",
+      "type": "dialogue",
+      "english": "He is the worst.",
+      "translation": "Ông ta tệ nhất."
+    },
+    {
+      "order": 5,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "He pressed send.",
+      "translation": "Cậu nhấn gửi."
+    },
+    {
+      "order": 6,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "Then he looked at the chat name.",
+      "translation": "Sau đó cậu nhìn tên cuộc trò chuyện."
+    },
+    {
+      "order": 7,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "It was his boss.",
+      "translation": "Đó là sếp của cậu."
+    },
+    {
+      "order": 8,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "He quickly started typing again...",
+      "translation": "Cậu vội vàng gõ lại..."
+    },
+    {
+      "order": 9,
+      "speakerId": "boss",
+      "type": "dialogue",
+      "english": "No need to explain.",
+      "translation": "Không cần giải thích."
+    },
+    {
+      "order": 10,
+      "speakerId": "boss",
+      "type": "dialogue",
+      "english": "You're right.",
+      "translation": "Cậu nói đúng."
+    }
+  ],
+
+  "vocabulary": [
+    {
+      "word": "complain",
+      "meaning": "phàn nàn",
+      "example": "He complains about his job."
+    },
+    {
+      "word": "press",
+      "meaning": "nhấn",
+      "example": "Press the button."
+    },
+    {
+      "word": "explain",
+      "meaning": "giải thích",
+      "example": "Can you explain this?"
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "Why is this situation funny?",
+      "options": [
+        "He sent the message to his friend",
+        "He sent the message to his boss",
+        "He deleted the message",
+        "He changed his mind"
+      ],
+      "answer": "He sent the message to his boss"
+    }
+  ],
+
+  "tags": [
+    "daily_life",
+    "funny",
+    "beginner",
+    "twist",
+    "viral"
+  ],
+
+  "thumbnail": "/images/wrong-chat.jpg",
+
+  "published": true,
+
+  "createdAt": "2026-05-05T08:50:00Z",
+  "updatedAt": "2026-05-05T08:50:00Z"
+}

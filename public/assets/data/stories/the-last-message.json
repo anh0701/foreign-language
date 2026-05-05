@@ -1,0 +1,110 @@
+{
+  "id": 18,
+  "slug": "the-last-message",
+  "title": "The Last Message",
+  "level": "beginner",
+  "topic": "daily_life",
+  "estimatedReadingTime": 1,
+
+  "summary": "A girl is angry because her boyfriend never texts her back, but the truth is very simple.",
+
+  "characters": [
+    {
+      "id": "girl",
+      "name": "Girl",
+      "role": "main_character",
+      "gender": "female",
+      "chatSide": "left"
+    },
+    {
+      "id": "friend",
+      "name": "Friend",
+      "role": "support_character",
+      "gender": "female",
+      "chatSide": "right"
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "role": "narration",
+      "gender": "neutral",
+      "chatSide": "center"
+    }
+  ],
+
+  "dialogues": [
+    {
+      "order": 1,
+      "speakerId": "girl",
+      "type": "dialogue",
+      "english": "My boyfriend never texts me back.",
+      "translation": "Bạn trai mình không bao giờ nhắn lại."
+    },
+    {
+      "order": 2,
+      "speakerId": "friend",
+      "type": "dialogue",
+      "english": "What was your last message?",
+      "translation": "Tin nhắn cuối của cậu là gì?"
+    },
+    {
+      "order": 3,
+      "speakerId": "girl",
+      "type": "dialogue",
+      "english": "“Ok.”",
+      "translation": "“Ok.”"
+    },
+    {
+      "order": 4,
+      "speakerId": "friend",
+      "type": "dialogue",
+      "english": "...",
+      "translation": "..."
+    }
+  ],
+
+  "vocabulary": [
+    {
+      "word": "text",
+      "meaning": "nhắn tin",
+      "example": "I will text you later."
+    },
+    {
+      "word": "message",
+      "meaning": "tin nhắn",
+      "example": "I got your message."
+    },
+    {
+      "word": "back",
+      "meaning": "trả lời lại",
+      "example": "He didn't call me back."
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "Why didn't the boyfriend reply?",
+      "options": [
+        "He was busy",
+        "He was sleeping",
+        "The message ended the conversation",
+        "He lost his phone"
+      ],
+      "answer": "The message ended the conversation"
+    }
+  ],
+
+  "tags": [
+    "daily_life",
+    "funny",
+    "beginner",
+    "viral"
+  ],
+
+  "thumbnail": "/images/the-last-message.jpg",
+
+  "published": true,
+
+  "createdAt": "2026-05-05T08:20:00Z",
+  "updatedAt": "2026-05-05T08:20:00Z"
+}
