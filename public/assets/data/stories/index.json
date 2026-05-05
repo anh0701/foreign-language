@@ -124,5 +124,50 @@
     "topic": "daily_life",
     "thumbnail": "/images/daily_life.jpg",
     "estimatedReadingTime": 2
+  },
+  {
+    "id": 15,
+    "slug": "the-broken-finger",
+    "title": "The Broken Finger",
+    "level": "beginner",
+    "topic": "health",
+    "thumbnail": "/images/health.jpg",
+    "estimatedReadingTime": 2
+  },
+  {
+    "id": 16,
+    "slug": "too-honest",
+    "title": "Too Honest",
+    "level": "beginner",
+    "topic": "work",
+    "thumbnail": "/images/work.jpg",
+    "estimatedReadingTime": 2
+  },
+  {
+    "id": 17,
+    "slug": "the-photo-proof",
+    "title": "The Photo Proof",
+    "level": "beginner",
+    "topic": "daily_life",
+    "thumbnail": "/images/daily_life.jpg",
+    "estimatedReadingTime": 2
+  },
+  {
+    "id": 18,
+    "slug": "the-last-message",
+    "title": "The Last Message",
+    "level": "beginner",
+    "topic": "daily_life",
+    "thumbnail": "/images/daily_life.jpg",
+    "estimatedReadingTime": 1
+  },
+  {
+    "id": 19,
+    "slug": "wrong-chat",
+    "title": "Wrong Chat",
+    "level": "beginner",
+    "topic": "daily_life",
+    "thumbnail": "/images/daily_life.jpg",
+    "estimatedReadingTime": 1
   }
 ]

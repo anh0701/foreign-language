@@ -1,0 +1,44 @@
+{
+    "id": 16,
+    "slug": "too-honest",
+    "title": "Too Honest",
+    "level": "beginner",
+    "topic": "work",
+    "estimatedReadingTime": 2,
+
+    "summary": "A man says he is honest, but proves it in a bad way.",
+
+    "characters": [
+      { "id": "man", "name": "Man", "role": "main_character", "gender": "male", "chatSide": "left" },
+      { "id": "interviewer", "name": "Interviewer", "role": "support_character", "gender": "female", "chatSide": "right" },
+      { "id": "narrator", "name": "Narrator", "role": "narration", "gender": "neutral", "chatSide": "center" }
+    ],
+
+    "dialogues": [
+      { "order": 1, "speakerId": "narrator", "type": "narration", "english": "A man had a job interview.", "translation": "Một người đàn ông đi phỏng vấn xin việc." },
+      { "order": 2, "speakerId": "interviewer", "type": "dialogue", "english": "What is your biggest weakness?", "translation": "Điểm yếu lớn nhất của bạn là gì?" },
+      { "order": 3, "speakerId": "man", "type": "dialogue", "english": "I am very honest.", "translation": "Tôi rất trung thực." },
+      { "order": 4, "speakerId": "interviewer", "type": "dialogue", "english": "I think honesty is good.", "translation": "Tôi nghĩ trung thực là tốt." },
+      { "order": 5, "speakerId": "man", "type": "dialogue", "english": "I don't care what you think.", "translation": "Tôi không quan tâm bạn nghĩ gì." }
+    ],
+
+    "vocabulary": [
+      { "word": "honest", "meaning": "trung thực", "example": "She is an honest person." },
+      { "word": "weakness", "meaning": "điểm yếu", "example": "Math is my weakness." },
+      { "word": "interview", "meaning": "phỏng vấn", "example": "I have an interview today." }
+    ],
+
+    "quiz": [
+      {
+        "question": "What is the man's weakness?",
+        "options": ["He is lazy", "He is too honest", "He is late", "He is nervous"],
+        "answer": "He is too honest"
+      }
+    ],
+
+    "tags": ["work", "funny", "beginner", "conversation"],
+    "thumbnail": "/images/too-honest.jpg",
+    "published": true,
+    "createdAt": "2026-05-05T08:06:00Z",
+    "updatedAt": "2026-05-05T08:06:00Z"
+}
