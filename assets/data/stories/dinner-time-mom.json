@@ -1,0 +1,38 @@
+{
+    "id": 11,
+    "slug": "dinner-time-mom",
+    "title": "Dinner Time",
+    "level": "beginner",
+    "topic": "daily_life",
+    "estimatedReadingTime": 1,
+    "summary": "A child delays coming to dinner, but when they finally come down, the food isn't ready yet.",
+    "characters": [
+      { "id": "mom", "name": "Mom", "role": "support_character", "gender": "female", "chatSide": "right" },
+      { "id": "child", "name": "Me", "role": "main_character", "gender": "neutral", "chatSide": "left" },
+      { "id": "narrator", "name": "Narrator", "role": "narration", "gender": "neutral", "chatSide": "center" }
+    ],
+    "dialogues": [
+      { "order": 1, "speakerId": "mom", "type": "dialogue", "english": "Come down, it's dinner time.", "translation": "Xuống đi, đến giờ ăn rồi." },
+      { "order": 2, "speakerId": "child", "type": "dialogue", "english": "In a few minutes.", "translation": "Vài phút nữa thôi." },
+      { "order": 3, "speakerId": "mom", "type": "dialogue", "english": "NOW!", "translation": "NGAY BÂY GIỜ!" },
+      { "order": 4, "speakerId": "narrator", "type": "narration", "english": "The child quickly went downstairs.", "translation": "Đứa trẻ nhanh chóng đi xuống." },
+      { "order": 5, "speakerId": "child", "type": "dialogue", "english": "Where's dinner?", "translation": "Đồ ăn đâu rồi?" },
+      { "order": 6, "speakerId": "mom", "type": "dialogue", "english": "It will be ready in 10 minutes!", "translation": "10 phút nữa mới xong!" }
+    ],
+    "vocabulary": [
+      { "word": "dinner", "meaning": "bữa tối", "example": "Dinner is ready." },
+      { "word": "few minutes", "meaning": "vài phút", "example": "Wait a few minutes." }
+    ],
+    "quiz": [
+      {
+        "question": "Was the dinner ready when the child came down?",
+        "options": ["Yes", "No"],
+        "answer": "No"
+      }
+    ],
+    "tags": ["daily_life", "family"],
+    "thumbnail": "/images/dinner-time.jpg",
+    "published": true,
+    "createdAt": "2026-05-05T08:00:00Z",
+    "updatedAt": "2026-05-05T08:00:00Z"
+}

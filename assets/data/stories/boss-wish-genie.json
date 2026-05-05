@@ -1,0 +1,51 @@
+{
+  "id": 13,
+  "slug": "boss-wish-genie",
+  "title": "Let the Boss Speak First",
+  "level": "intermediate",
+  "topic": "workplace",
+  "estimatedReadingTime": 2,
+  "summary": "Three coworkers meet a genie, but their boss makes the smartest wish.",
+  "characters": [
+    { "id": "boss", "name": "Boss", "role": "main_character", "gender": "male", "chatSide": "left" },
+    { "id": "officer", "name": "Officer", "role": "support_character", "gender": "male", "chatSide": "left" },
+    { "id": "clerk", "name": "Clerk", "role": "support_character", "gender": "male", "chatSide": "left" },
+    { "id": "genie", "name": "Genie", "role": "support_character", "gender": "neutral", "chatSide": "right" },
+    { "id": "narrator", "name": "Narrator", "role": "narration", "gender": "neutral", "chatSide": "center" }
+  ],
+  "dialogues": [
+    { "order": 1, "speakerId": "narrator", "type": "narration", "english": "A boss, an officer, and a clerk were going to a meeting.", "translation": "Một ông chủ, một sĩ quan và một nhân viên đang đi họp." },
+    { "order": 2, "speakerId": "narrator", "type": "narration", "english": "Suddenly, they met a genie.", "translation": "Đột nhiên, họ gặp một vị thần đèn." },
+    { "order": 3, "speakerId": "genie", "type": "dialogue", "english": "I can grant three wishes, one for each of you.", "translation": "Ta có thể thực hiện ba điều ước, mỗi người một điều." },
+    { "order": 4, "speakerId": "clerk", "type": "dialogue", "english": "Send me to America with a lot of money!", "translation": "Hãy đưa tôi đến Mỹ với thật nhiều tiền!" },
+    { "order": 5, "speakerId": "narrator", "type": "narration", "english": "The clerk disappeared instantly.", "translation": "Người nhân viên biến mất ngay lập tức." },
+    { "order": 6, "speakerId": "officer", "type": "dialogue", "english": "Send me to Paris with many beautiful girls!", "translation": "Hãy đưa tôi đến Paris với nhiều cô gái xinh đẹp!" },
+    { "order": 7, "speakerId": "narrator", "type": "narration", "english": "The officer disappeared too.", "translation": "Viên sĩ quan cũng biến mất." },
+    { "order": 8, "speakerId": "genie", "type": "dialogue", "english": "And you, boss? What is your wish?", "translation": "Còn ông, thưa sếp? Điều ước của ông là gì?" },
+    { "order": 9, "speakerId": "boss", "type": "dialogue", "english": "I want those two idiots back in the office after lunch.", "translation": "Tôi muốn hai thằng ngốc đó quay lại văn phòng sau bữa trưa." },
+    { "order": 10, "speakerId": "narrator", "type": "narration", "english": "The boss smiled. He knew exactly what to do.", "translation": "Ông sếp mỉm cười. Ông biết chính xác phải làm gì." },
+    { "order": 11, "speakerId": "narrator", "type": "narration", "english": "Moral: Always let THE BOSS SPEAK FIRST.", "translation": "Bài học: Luôn để sếp nói trước." }
+  ],
+  "vocabulary": [
+    { "word": "grant", "meaning": "ban cho / thực hiện (điều ước)", "example": "The genie granted his wish." },
+    { "word": "instantly", "meaning": "ngay lập tức", "example": "He disappeared instantly." },
+    { "word": "idiot", "meaning": "kẻ ngốc", "example": "Don't be an idiot." }
+  ],
+  "quiz": [
+    {
+      "question": "What lesson can we learn from the story?",
+      "options": [
+        "Make a wish quickly",
+        "Always trust the genie",
+        "Let the boss speak first",
+        "Travel is important"
+      ],
+      "answer": "Let the boss speak first"
+    }
+  ],
+  "tags": ["humor", "workplace", "lesson"],
+  "thumbnail": "/images/boss-genie.jpg",
+  "published": true,
+  "createdAt": "2026-05-05T08:00:00Z",
+  "updatedAt": "2026-05-05T08:00:00Z"
+}
