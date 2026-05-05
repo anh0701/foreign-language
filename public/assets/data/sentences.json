@@ -732,10 +732,10 @@
     "translation": "Bạn đã test code chưa?"
   },
   {
-    "sentence": "There is a ___ in the program.",
+    "sentence": "There is a ___ in the program code that causes unexpected behavior.",
     "answer": "bug",
     "options": ["bug","error","issue","problem"],
-    "translation": "Có lỗi trong chương trình"
+    "translation": "Có một lỗi trong mã chương trình gây ra hiện tượng hoạt động không mong muốn."
   },
   {
     "sentence": "I need to ___ this bug quickly.",
