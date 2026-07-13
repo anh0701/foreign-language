@@ -56,5 +56,13 @@ export const GAMES: GameInfo[] = [
     path: '/short-stories',
     Icon: BookOpen,
     color: 'text-rose-500'
+  },
+  {
+    id: 'quote-book',
+    title: 'quote book',
+    description: 'Đọc và học từ vựng thông qua các câu chuyện thú vị.',
+    path: '/quotes',
+    Icon: BookOpen,
+    color: 'text-rose-500'
   }
 ];

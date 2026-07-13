@@ -1,0 +1,46 @@
+{
+  "id": 2,
+  "page": 2,
+  "book": "Story Learning",
+  "title": "TÔI CHỈ NGỪNG THỂ HIỆN RA THÔI",
+  "subtitle": "I just stopped showing it",
+  "paragraphs": [
+    {
+      "segments": [
+            {
+            "vi": "Tôi đã không ngừng",
+            "en": "I didn't stop"
+            },
+            {
+                "vi": "yêu cậu",
+                "en": "loving you."
+            },
+            {
+                "vi": "Tôi chỉ ngừng",
+                "en": "I just stopped"
+            },
+            {
+                "vi": "thể hiện nó thôi",
+                "en": "showing it. "
+            },
+            {
+                "vi": "Bởi vì cho dù",
+                "en": "Because no matter"
+            }, 
+            {
+                "vi": "tôi có cố gắng thế nào",
+                "en": "how I tried, "
+            }, 
+            {
+                "vi": "cậu cũng không",
+                "en": "You just wouldn't"
+            },
+            {
+                "vi": "nhận lấy nó",
+                "en": "get it."
+            }
+    
+        ]
+    }
+  ]
+}

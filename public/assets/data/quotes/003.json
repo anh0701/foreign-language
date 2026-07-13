@@ -1,0 +1,41 @@
+{
+  "id": 3,
+  "page": 3,
+  "book": "Story Learning",
+  "title": "BÀ TÔI TỪNG NÓI RẰNG:",
+  "subtitle": "My grandmother once said:",
+  "paragraphs": [
+    {
+        "segments": [
+            {
+                "vi": "Một người chỉ cần có",
+                "en": "A person just needs"
+            },
+            {
+                "vi": "ba điều này",
+                "en": "three things"
+            },
+            {
+                "vi": "để thực sự hạnh phúc",
+                "en": "to be truly happy"
+            }, 
+            {
+                "vi": "trên đời này",
+                "en": "in this world: "
+            }, 
+            {
+                "vi": "Có người để yêu",
+                "en": "Someone to love, "
+            },
+            {
+                "vi": "có việc để làm",
+                "en": "Something to do"
+            },
+            {
+                "vi": "và có thứ để hy vọng",
+                "en": "and something to hope for."
+            }
+        ]
+    }
+  ]
+}
