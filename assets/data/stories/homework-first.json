@@ -1,0 +1,88 @@
+{
+    "id": 20,
+    "slug": "homework-first",
+    "title": "Homework first",
+    "level": "beginner",
+    "topic": "daily_life",
+    "estimatedReadingTime": 1,
+    "summary": "",
+    "characters": [
+      { "id": "mommy", "name": "Mommy", "role": "support_character", "gender": "female", "chatSide": "right" },
+      { "id": "daughter", "name": "Daughter", "role": "support_character", "gender": "female", "chatSide": "left" },
+      { "id": "narrator", "name": "Narrator", "role": "narration", "gender": "neutral", "chatSide": "center" }
+    ],
+    "dialogues": [
+      { "order": 1, "speakerId": "daughter", "type": "dialogue", "english": "Mom, can I watch TV?", "translation": "Mẹ ơi, con có thể xem TV được không?" },
+      { "order": 2, "speakerId": "mommy", "type": "dialogue", "english": "No, honey. Do homework first.", "translation": "Không đâu con yêu, làm bài tập về nhà trước đã." },
+      { "order": 3, "speakerId": "daughter", "type": "dialogue", "english": "Mom, I don't want to do homework.", "translation": "Mẹ ơi, con không muốn làm bài tập về nhà." },
+      { "order": 4, "speakerId": "mommy", "type": "dialogue", "english": "You must. Homework comes first.", "translation": "Con phải làm. Bài tập về nhà là ưu tiên hàng đầu." },
+      { "order": 5, "speakerId": "daughter", "type": "dialogue", "english": "But I want to watch TV now.", "translation": "Nhưng bây giờ con muốn xem TV." },
+      { "order": 6, "speakerId": "mommy", "type": "dialogue", "english": "No. Finish homework first.", "translation": "Không. Hãy hoàn thành bài tập về nhà trước" },
+      { "order": 7, "speakerId": "daughter", "type": "dialogue", "english": "Ok, mom. I 'll do it.", "translation": "Vâng, mẹ. Con sẽ làm." },
+      { "order": 8, "speakerId": "mommy", "type": "dialogue", "english": "Good. Now start.", "translation": "Tốt. Giờ thì bắt đầu đi." }
+    ],
+    "vocabulary": [
+    {
+        "word": "homework",
+        "meaning": "bài tập về nhà",
+        "example": "I finish my homework after school."
+    },
+    {
+        "word": "watch TV",
+        "meaning": "xem TV",
+        "example": "Can I watch TV after dinner?"
+    },
+    {
+        "word": "finish",
+        "meaning": "hoàn thành",
+        "example": "Please finish your homework first."
+    },
+    {
+        "word": "must",
+        "meaning": "phải",
+        "example": "You must clean your room."
+    },
+    {
+        "word": "start",
+        "meaning": "bắt đầu",
+        "example": "Let's start now."
+    }
+    ],
+    "quiz": [
+    {
+        "question": "What did the daughter want to do first?",
+        "options": [
+        "Do homework",
+        "Watch TV",
+        "Go outside",
+        "Read a book"
+        ],
+        "answer": "Watch TV"
+    },
+    {
+        "question": "What did the mom tell her to do first?",
+        "options": [
+        "Watch TV",
+        "Take a nap",
+        "Finish homework",
+        "Eat dinner"
+        ],
+        "answer": "Finish homework"
+    },
+    {
+        "question": "How did the daughter respond at the end?",
+        "options": [
+        "She kept watching TV.",
+        "She said she would do her homework.",
+        "She went outside.",
+        "She cried."
+        ],
+        "answer": "She said she would do her homework."
+    }
+    ],
+    "tags": ["humor", "daily_life"],
+    "thumbnail": "/images/homework-first.jpg",
+    "published": true,
+    "createdAt": "2026-05-05T08:00:00Z",
+    "updatedAt": "2026-05-05T08:00:00Z"
+}

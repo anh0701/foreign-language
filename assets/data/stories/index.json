@@ -169,5 +169,14 @@
     "topic": "daily_life",
     "thumbnail": "/images/daily_life.jpg",
     "estimatedReadingTime": 1
+  },
+  {
+    "id": 20,
+    "slug": "homework-first",
+    "title": "Homework first",
+    "level": "beginner",
+    "topic": "daily_life",
+    "thumbnail": "/images/daily_life.jpg",
+    "estimatedReadingTime": 1
   }
 ]
