@@ -4,7 +4,8 @@ import {
   Shapes, 
   Layers, 
   BookOpen,
-  type LucideIcon
+  type LucideIcon,
+  QuoteIcon
 } from 'lucide-react';
 
 export interface GameInfo {
@@ -59,10 +60,10 @@ export const GAMES: GameInfo[] = [
   },
   {
     id: 'quote-book',
-    title: 'quote book',
-    description: 'Đọc và học từ vựng thông qua các câu chuyện thú vị.',
+    title: 'Quote book',
+    description: 'Đọc và học từ vựng thông qua các câu quote thú vị.',
     path: '/quotes',
-    Icon: BookOpen,
-    color: 'text-rose-500'
+    Icon: QuoteIcon,
+    color: 'text-cyan-500'
   }
 ];
