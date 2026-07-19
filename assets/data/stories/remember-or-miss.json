@@ -1,0 +1,168 @@
+{
+  "id": 21,
+  "slug": "remember-or-miss",
+  "title": "Remember or Miss?",
+  "level": "beginner",
+  "topic": "daily_life",
+  "estimatedReadingTime": 2,
+  "summary": "A mother learns the difference between 'remember' and 'miss' with help from her son.",
+  "characters": [
+    {
+      "id": "mom",
+      "name": "Mom",
+      "role": "support_character",
+      "gender": "female",
+      "chatSide": "left"
+    },
+    {
+      "id": "son",
+      "name": "Son",
+      "role": "main_character",
+      "gender": "male",
+      "chatSide": "right"
+    }
+  ],
+  "dialogues": [
+    {
+      "order": 1,
+      "speakerId": "mom",
+      "type": "dialogue",
+      "english": "Son, what is 'nhớ' in English?",
+      "translation": "Con trai, 'nhớ' trong tiếng Anh là gì?"
+    },
+    {
+      "order": 2,
+      "speakerId": "son",
+      "type": "dialogue",
+      "english": "It's 'remember,' Mom.",
+      "translation": "Là 'remember' đó mẹ."
+    },
+    {
+      "order": 3,
+      "speakerId": "mom",
+      "type": "dialogue",
+      "english": "Then how do I say 'Tôi nhớ bạn'?",
+      "translation": "Vậy nói 'Tôi nhớ bạn' thì nói sao?"
+    },
+    {
+      "order": 4,
+      "speakerId": "son",
+      "type": "dialogue",
+      "english": "You say, 'I miss you.'",
+      "translation": "Mẹ nói: 'I miss you.'"
+    },
+    {
+      "order": 5,
+      "speakerId": "mom",
+      "type": "dialogue",
+      "english": "Why 'miss'? I thought it was 'remember.'",
+      "translation": "Ủa sao lại 'miss'? Mẹ tưởng là 'remember' chứ."
+    },
+    {
+      "order": 6,
+      "speakerId": "son",
+      "type": "dialogue",
+      "english": "'Remember' means you keep something in your mind.",
+      "translation": "'Remember' nghĩa là nhớ, ghi nhớ một điều gì đó."
+    },
+    {
+      "order": 7,
+      "speakerId": "son",
+      "type": "dialogue",
+      "english": "'Miss' means you feel sad because someone is not with you.",
+      "translation": "'Miss' nghĩa là nhớ một người vì họ không ở bên mình."
+    },
+    {
+      "order": 8,
+      "speakerId": "son",
+      "type": "dialogue",
+      "english": "So 'I remember you' and 'I miss you' have different meanings.",
+      "translation": "Vì vậy 'I remember you' và 'I miss you' có ý nghĩa khác nhau."
+    },
+    {
+      "order": 9,
+      "speakerId": "mom",
+      "type": "dialogue",
+      "english": "Oh, I understand now. Thank you!",
+      "translation": "À, giờ mẹ hiểu rồi. Cảm ơn con nhé!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "remember",
+      "meaning": "nhớ, ghi nhớ",
+      "example": "Do you remember my name?"
+    },
+    {
+      "word": "miss",
+      "meaning": "nhớ ai đó (vì không ở bên)",
+      "example": "I miss my family."
+    },
+    {
+      "word": "mean",
+      "meaning": "có nghĩa là",
+      "example": "What does this word mean?"
+    },
+    {
+      "word": "mind",
+      "meaning": "tâm trí",
+      "example": "Keep it in your mind."
+    },
+    {
+      "word": "understand",
+      "meaning": "hiểu",
+      "example": "Now I understand."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What did the mother ask first?",
+      "options": [
+        "How to say 'hello'",
+        "What 'nhớ' is in English",
+        "How to spell 'remember'",
+        "How old her son is"
+      ],
+      "answer": "What 'nhớ' is in English"
+    },
+    {
+      "question": "How do you say 'Tôi nhớ bạn' when you miss someone?",
+      "options": [
+        "I remember you.",
+        "I miss you.",
+        "I know you.",
+        "I see you."
+      ],
+      "answer": "I miss you."
+    },
+    {
+      "question": "When do we use 'remember'?",
+      "options": [
+        "When someone is far away",
+        "When we feel lonely",
+        "When we keep something in our mind",
+        "When we say goodbye"
+      ],
+      "answer": "When we keep something in our mind"
+    },
+    {
+      "question": "When do we use 'miss'?",
+      "options": [
+        "When we forget something",
+        "When someone is not with us and we miss them",
+        "When we learn a new word",
+        "When we meet a friend"
+      ],
+      "answer": "When someone is not with us and we miss them"
+    }
+  ],
+  "tags": [
+    "daily_life",
+    "english",
+    "vocabulary"
+  ],
+  "thumbnail": "/images/remember-or-miss.jpg",
+  "published": true,
+  "createdAt": "2026-07-19T08:00:00Z",
+  "updatedAt": "2026-07-19T08:00:00Z"
+}
