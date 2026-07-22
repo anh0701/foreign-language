@@ -1,0 +1,41 @@
+{
+  "id": 7,
+  "page": 7,
+  "book": "Story Learning",
+  "title": "Hãy nhớ rằng",
+  "subtitle": "Remember",
+  "paragraphs": [
+    {
+        "segments": [
+            {
+                "vi": "Chính chúng ta không sống",
+                "en": "We don't live"
+            },
+            {
+              "vi": "để yêu",
+              "en": "to love"
+            },
+            {
+              "vi": "hay được yêu",
+              "en": "or be loved."
+            },
+            {
+              "vi": "Chúng ta sống để làm",
+              "en": "We live to do"
+            },
+            {
+              "vi": "những gì chúng ta thích",
+              "en": "what we like."
+            },
+            {
+              "vi": "Tình yêu là một trong số đó",
+              "en": "Love is one,"
+            },
+            {
+              "vi": "nhưng không phải duy nhất",
+              "en": "but not the only one."
+            }
+        ]
+    }
+  ]
+}
