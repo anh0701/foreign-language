@@ -2,18 +2,30 @@
   "id": 11,
   "page": 11,
   "book": "Story Learning",
-  "title": "",
-  "subtitle": "Love",
+  "title": "Vấn đề",
+  "subtitle": "Issue",
   "paragraphs": [
     {
         "segments": [
             {
-                "vi": "Ne",
-                "en": "People"
+                "vi": "Mẹ từng một lần nói rằng:",
+                "en": "My mother once said:"
             },
             {
-              "vi": "",
-              "en": ""
+              "vi": "Đôi lúc",
+              "en": "Sometimes"
+            },
+            {
+              "vi": "vấn đề không nằm ở chỗ",
+              "en": "the issue is not that"
+            },
+            {
+              "vi": "con không đủ chân thành",
+              "en": "you are not sincere enough,"
+            },
+            {
+              "vi": "mà sự chân thành đó đã đặt sai chỗ",
+              "en": "but that may simply be misplaced."
             }
         ]
     }

@@ -2,18 +2,42 @@
   "id": 15,
   "page": 15,
   "book": "Story Learning",
-  "title": "",
-  "subtitle": "Love",
+  "title": "Nơi yêu thích của bạn ở đâu?",
+  "subtitle": "Where's your favorite place?",
   "paragraphs": [
     {
         "segments": [
             {
-                "vi": "Ne",
-                "en": "People"
+                "vi": "Tôi không có",
+                "en": "I don't have"
             },
             {
-              "vi": "",
-              "en": ""
+              "vi": "nơi yêu thích",
+              "en": "a favorite place."
+            },
+            {
+              "vi": "Tôi có",
+              "en": "I have"
+            },
+            {
+              "vi": "một người tôi yêu thích",
+              "en": "a favorite person,"
+            },
+            {
+              "vi": "và bất cứ khi nào",
+              "en": "and whenever"
+            },
+            {
+              "vi": "tôi ở bên người yêu thích của tôi",
+              "en": "I'm with my favorite person, "
+            },
+            {
+              "vi": "đó sẽ trở thành",
+              "en": "it becomes"
+            },
+            {
+              "vi": "nơi yêu thích của tôi",
+              "en": "my favorite place."
             }
         ]
     }
