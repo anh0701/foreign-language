@@ -2,18 +2,38 @@
   "id": 13,
   "page": 13,
   "book": "Story Learning",
-  "title": "",
-  "subtitle": "Love",
+  "title": "Hãy dối xử tốt với chính mình",
+  "subtitle": "Be good to yourself",
   "paragraphs": [
     {
         "segments": [
             {
-                "vi": "Ne",
-                "en": "People"
+                "vi": "Con người sẽ đến rồi đi",
+                "en": "People come and go"
             },
             {
-              "vi": "",
-              "en": ""
+              "vi": "trong đời này",
+              "en": "in life."
+            },
+            {
+              "vi": "Nhưng người trong gương",
+              "en": "But the person in the mirror"
+            },
+            {
+              "vi": "sẽ ở lại đến cuối",
+              "en": "will be at the end"
+            },
+            {
+              "vi": "cuộc đời bạn",
+              "en": "of your life."
+            },
+            {
+              "vi": "Vì vậy, hãy đối xử tốt",
+              "en": "So be good"
+            },
+            {
+              "vi": "với chính mình nhé",
+              "en": "to yourself."
             }
         ]
     }

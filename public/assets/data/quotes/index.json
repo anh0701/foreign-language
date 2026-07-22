@@ -61,5 +61,61 @@
     "slug": "009",
     "title": "Hãy luôn nhớ rằng: ",
     "subtitle": "Always remember:"
+  },
+  {
+    "id": 10,
+    "page": 10,
+    "slug": "010",
+    "title": "Hãy ở bên những người này",
+    "subtitle": "Stay with these people"
+  },
+  {
+    "id": 11,
+    "page": 11,
+    "slug": "011",
+    "title": "Vấn đề",
+    "subtitle": "Issue"
+  },
+  {
+    "id": 12,
+    "page": 12,
+    "slug": "012",
+    "title": "May mắn",
+    "subtitle": "Lucky"
+  },
+  {
+    "id": 13,
+    "page": 13,
+    "slug": "013",
+    "title": "Hãy dối xử tốt với chính mình",
+    "subtitle": "Be good to yourself"
+  },
+  {
+    "id": 14,
+    "page": 14,
+    "slug": "014",
+    "title": "Điều tuyệt vời nhất",
+    "subtitle": "The best thing"
+  },
+  {
+    "id": 15,
+    "page": 15,
+    "slug": "015",
+    "title": "Nơi yêu thích của bạn ở đâu?",
+    "subtitle": "Where's your favorite place?"
+  },
+  {
+    "id": 16,
+    "page": 16,
+    "slug": "016",
+    "title": "Một sự thật thú vị",
+    "subtitle": "A fun fact"
+  },
+  {
+    "id": 17,
+    "page": 17,
+    "slug": "017",
+    "title": "Câu nói khiến tôi không ngừng nỗ lực",
+    "subtitle": "The quote inspires me to never stop trying"
   }
 ]

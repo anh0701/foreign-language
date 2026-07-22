@@ -2,18 +2,42 @@
   "id": 12,
   "page": 12,
   "book": "Story Learning",
-  "title": "",
-  "subtitle": "Love",
+  "title": "May mắn",
+  "subtitle": "Lucky",
   "paragraphs": [
     {
         "segments": [
             {
-                "vi": "Ne",
-                "en": "People"
+                "vi": "Con trai thật may mắn",
+                "en": "A boy is lucky"
             },
             {
-              "vi": "",
-              "en": ""
+              "vi": "nếu anh ấy là",
+              "en": "if he is"
+            },
+            {
+              "vi": "mối tình đầu",
+              "en": "the first love"
+            },
+            {
+              "vi": "của một cô gái",
+              "en": "of a girl."
+            },
+            {
+              "vi": "Nhưng một cô gái thật may mắn",
+              "en": "But a girl is lucky"
+            },
+            {
+              "vi": "nếu cô ấy là",
+              "en": "if she is"
+            },
+            {
+              "vi": "tình yêu cuối cùng",
+              "en": "the last love"
+            },
+            {
+              "vi": "của một chàng trai",
+              "en": "of a boy."
             }
         ]
     }

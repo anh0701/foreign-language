@@ -2,18 +2,42 @@
   "id": 14,
   "page": 14,
   "book": "Story Learning",
-  "title": "",
-  "subtitle": "Love",
+  "title": "Điều tuyệt vời nhất",
+  "subtitle": "The best thing",
   "paragraphs": [
     {
         "segments": [
             {
-                "vi": "Ne",
-                "en": "People"
+                "vi": "Điều tuyệt vời nhất",
+                "en": "The best thing"
             },
             {
-              "vi": "",
-              "en": ""
+              "vi": "trong cuộc sống",
+              "en": "in life"
+            },
+            {
+              "vi": "là tìm được một người",
+              "en": "is finding someone"
+            },
+            {
+              "vi": "biết tất cả khuyết điểm",
+              "en": "who knows all your flaws,"
+            },
+            {
+              "vi": "lỗi lầm",
+              "en": "mistakes"
+            },
+            {
+              "vi": "và điểm yếu của bạn",
+              "en": "and weakness"
+            },
+            {
+              "vi": "mà vẫn nghĩ rằng",
+              "en": "but still thinks"
+            },
+            {
+              "vi": "bạn hoàn toàn tuyệt vời",
+              "en": "you're completely amazing."
             }
         ]
     }

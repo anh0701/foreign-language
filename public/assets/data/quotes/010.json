@@ -2,18 +2,58 @@
   "id": 10,
   "page": 10,
   "book": "Story Learning",
-  "title": "",
-  "subtitle": "Love",
+  "title": "Hãy ở bên những người này",
+  "subtitle": "Stay with these people",
   "paragraphs": [
     {
         "segments": [
             {
-                "vi": "Ne",
-                "en": "People"
+                "vi": "Hãy ở bên cạnh người",
+                "en": "Be with someone"
             },
             {
-              "vi": "",
-              "en": ""
+              "vi": "thúc đẩy bạn",
+              "en": "who motivates you"
+            },
+            {
+              "vi": "làm tốt hơn",
+              "en": "to do better"
+            },
+            {
+              "vi": "trong cuộc sống",
+              "en": "in life"
+            },
+            {
+              "vi": "vì các mối quan hệ",
+              "en": "because relationships"
+            },
+            {
+              "vi": "không chỉ đơn thuần là",
+              "en": "are more than just"
+            },
+            {
+              "vi": "tình yêu",
+              "en": "falling in love."
+            },
+            {
+              "vi": "Mà còn là truyền cảm hứng",
+              "en": "It's about inspiring"
+            },
+            {
+              "vi": "cho nhau",
+              "en": "each other"
+            },
+            {
+              "vi": "để trở thành những phiên bản tốt hơn",
+              "en": "to become better versions"
+            },
+            {
+              "vi": "của chính các bạn",
+              "en": "of yourselves"
+            },
+            {
+              "vi": "từ ngày này qua ngày khác",
+              "en": "day in and day out."
             }
         ]
     }
