@@ -1,0 +1,21 @@
+{
+  "id": 12,
+  "page": 12,
+  "book": "Story Learning",
+  "title": "",
+  "subtitle": "Love",
+  "paragraphs": [
+    {
+        "segments": [
+            {
+                "vi": "Ne",
+                "en": "People"
+            },
+            {
+              "vi": "",
+              "en": ""
+            }
+        ]
+    }
+  ]
+}

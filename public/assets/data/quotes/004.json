@@ -1,0 +1,49 @@
+{
+  "id": 4,
+  "page": 4,
+  "book": "Story Learning",
+  "title": "3 lý do",
+  "subtitle": "3 Reasons",
+  "paragraphs": [
+    {
+        "segments": [
+            {
+                "vi": "Tại sao tôi ngừng",
+                "en": "Why I stopped"
+            },
+            {
+                "vi": "nhắn tin cho những người",
+                "en": "texting people"
+            },
+            {
+                "vi": "tôi đã từng nhắn tin",
+                "en": "that once texted"
+            },
+            {
+                "vi": "mỗi ngày",
+                "en": "everyday"
+            },
+            {
+                "vi": "1. Họ đã thay đổi",
+                "en": "They changed"
+            },
+            {
+                "vi": "2. Họ khiến tôi",
+                "en": "They make me"
+            },
+            {
+                "vi": "cảm thấy bị bỏ lơ",
+                "en": "feel ignored"
+            },
+            {
+                "vi": "3. Họ chỉ bắt chuyện",
+                "en": "They only start a conversation"
+            },
+            {
+                "vi": "nếu tôi nhắn tin cho họ trước",
+                "en": "if I text them first"
+            }
+        ]
+    }
+  ]
+}

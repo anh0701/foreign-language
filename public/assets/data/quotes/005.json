@@ -1,0 +1,49 @@
+{
+  "id": 5,
+  "page": 5,
+  "book": "Story Learning",
+  "title": "Wait",
+  "subtitle": "Đợi",
+  "paragraphs": [
+    {
+        "segments": [
+            {
+                "vi": "Những người",
+                "en": "People"
+            },
+            {
+                "vi": "không muốn",
+                "en": "who don't want to"
+            },
+            {
+                "vi": "đợi bạn",
+                "en": "wait for you"
+            },
+            {
+                "vi": "5 phút",
+                "en": "5 minutes"
+            },
+            {
+                "vi": "là quá muộn",
+                "en": "is too late."
+            },
+            {
+                "vi": "Còn những người",
+                "en": "People"
+            },
+            {
+                "vi": "muốn chờ đợi bạn",
+                "en": "who want to wait for you,"
+            },
+            {
+                "vi": "sớm hay muộn",
+                "en": "sooner or later,"
+            },
+            {
+                "vi": "họ vẫn sẽ ở đó",
+                "en": "will still be there."
+            }
+        ]
+    }
+  ]
+}

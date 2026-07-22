@@ -178,5 +178,14 @@
     "topic": "daily_life",
     "thumbnail": "/images/daily_life.jpg",
     "estimatedReadingTime": 1
+  },
+  {
+    "id": 21,
+    "slug": "remember-or-miss",
+    "title": "Remember or Miss?",
+    "level": "beginner",
+    "topic": "daily_life",
+    "thumbnail": "/images/daily_life.jpg",
+    "estimatedReadingTime": 2
   }
 ]

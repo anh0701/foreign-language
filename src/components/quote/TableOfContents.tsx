@@ -11,16 +11,7 @@ export default function TableOfContents({
 }: Props) {
 
     return (
-        <div
-            className="
-                w-[700px]
-                h-[900px]
-                bg-[#faf6ee]
-                rounded-xl
-                shadow-xl
-                p-14
-            "
-        >
+        <div className="w-[700px] h-[900px] bg-[#faf6ee] rounded-xl shadow-xl p-14 flex flex-col">
             <p className="uppercase tracking-[6px] text-xs text-gray-400">
                 Story Learning
             </p>
@@ -29,18 +20,14 @@ export default function TableOfContents({
                 Table of Contents
             </h1>
 
-            <div className="mt-10 space-y-4">
-
+            <div className="mt-10 flex-1 overflow-y-auto space-y-4 pr-2">
                 {quotes.map((quote) => (
-
                     <button
                         key={quote.id}
                         onClick={() => onSelect(quote.slug)}
                         className="w-full flex items-center text-left group"
                     >
-
                         <div>
-
                             <div className="font-serif text-lg group-hover:text-blue-600">
                                 {quote.subtitle}
                             </div>
@@ -48,17 +35,13 @@ export default function TableOfContents({
                             <div className="text-sm text-gray-500">
                                 {quote.title}
                             </div>
-
                         </div>
 
                         <div className="flex-1 border-b border-dotted mx-4" />
 
                         <div>{quote.page}</div>
-
                     </button>
-
                 ))}
-
             </div>
         </div>
     );

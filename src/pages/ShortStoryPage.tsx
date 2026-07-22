@@ -59,7 +59,7 @@ const ShortStoryPage: React.FC = () => {
           <p className="text-slate-500 mt-4 font-medium">Chọn một câu chuyện để bắt đầu hành trình ngôn ngữ của bạn</p>
         </header>
 
-        <div className="w-full max-w-2xl grid grid-cols-1 gap-4">
+        <div className="w-full max-w-6xl grid grid-cols-1 md:grid-cols-2 gap-6">
           {storyList.map((s) => (
             <button
               key={s.slug}

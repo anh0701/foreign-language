@@ -1,0 +1,37 @@
+{
+  "id": 9,
+  "page": 9,
+  "book": "Story Learning",
+  "title": "Hãy luôn nhớ rằng: ",
+  "subtitle": "Always remember:",
+  "paragraphs": [
+    {
+        "segments": [
+            {
+                "vi": "Lừa dối",
+                "en": "Cheating"
+            },
+            {
+              "vi": "là một sự lựa chọn",
+              "en": "is a choice,"
+            },
+            {
+              "vi": "không phải là một sai lầm",
+              "en": "not a mistake."
+            },
+            {
+              "vi": "Và lòng chung thủy",
+              "en": "And loyalty"
+            },
+            {
+              "vi": "là một trách nhiệm",
+              "en": "is a responsibility,"
+            },
+            {
+              "vi": "không phải là một sự lựa chọn",
+              "en": "not a choice."
+            }
+        ]
+    }
+  ]
+}
