@@ -2,14 +2,30 @@
   "id": 18,
   "page": 18,
   "book": "Story Learning",
-  "title": "",
-  "subtitle": "Hope",
+  "title": "Một ngày nào đó",
+  "subtitle": "One day",
   "paragraphs": [
     {
         "segments": [
             {
-                "vi": "",
-                "en": ""
+                "vi": "Một ngày nào đó",
+                "en": "One day"
+            },
+            {
+                "vi": "sẽ có người đến",
+                "en": "someone is going to"
+            },
+            {
+                "vi": "ôm bạn thật chặt đến nỗi",
+                "en": "hug you so tight that"
+            },
+            {
+                "vi": "tất cả những mảnh vụn vỡ của bạn",
+                "en": "all of your broken pieces"
+            },
+            {
+                "vi": "sẽ kết dính trở lại với nhau",
+                "en": "will stick back together."
             }
         ]
     }

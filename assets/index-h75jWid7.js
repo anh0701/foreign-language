@@ -38,9 +38,26 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
                     text-gray-600
                     hover:text-black
                     transition-colors
-                `,children:[(0,j.jsx)(or,{size:18}),(0,j.jsx)(`span`,{children:`Contents`})]}),(0,j.jsx)(`div`,{className:`absolute right-10 top-8 text-sm tracking-widest uppercase text-gray-400`,children:e.book}),(0,j.jsx)(`h1`,{className:`mt-16 text-5xl font-serif leading-tight`,children:e.title}),(0,j.jsxs)(`p`,{className:`mt-5 italic text-gray-500`,children:[`(`,e.subtitle,`)`]}),(0,j.jsx)(`div`,{className:`mt-16 leading-10 text-[22px] font-serif`,children:e.paragraphs.map((e,t)=>(0,j.jsx)(`p`,{className:`mb-8`,children:e.segments.map((e,t)=>(0,j.jsxs)(`span`,{children:[e.vi,` `,(0,j.jsxs)(`span`,{className:`italic text-gray-500`,children:[`(`,e.en,`)`]}),` `]},t))},t))}),(0,j.jsx)(`div`,{className:`
+                    z-10
+                `,children:[(0,j.jsx)(or,{size:18}),(0,j.jsx)(`span`,{children:`Contents`})]}),(0,j.jsx)(`div`,{className:`
+                    absolute
+                    right-10
+                    top-8
+                    text-sm
+                    tracking-widest
+                    uppercase
+                    text-gray-400
+                    z-10
+                `,children:e.book}),(0,j.jsxs)(`div`,{className:`
+                    mt-16
+                    h-[calc(100%-140px)]
+                    overflow-y-auto
+                    pr-3
+                `,children:[(0,j.jsx)(`h1`,{className:`text-5xl font-serif leading-tight`,children:e.title}),(0,j.jsxs)(`p`,{className:`mt-5 italic text-gray-500`,children:[`(`,e.subtitle,`)`]}),(0,j.jsx)(`div`,{className:`mt-16 leading-10 text-[22px] font-serif`,children:e.paragraphs.map((e,t)=>(0,j.jsx)(`p`,{className:`mb-8`,children:e.segments.map((e,t)=>(0,j.jsxs)(`span`,{children:[e.vi,` `,(0,j.jsxs)(`span`,{className:`italic text-gray-500`,children:[`(`,e.en,`)`]}),` `]},t))},t))}),(0,j.jsx)(`div`,{className:`h-12`})]}),(0,j.jsx)(`div`,{className:`
                     absolute
                     bottom-8
                     left-1/2
                     -translate-x-1/2
+                    text-gray-500
+                    font-serif
                 `,children:e.page})]})}var Br=e=>{let[t,n]=(0,_.useState)([]),[r,i]=(0,_.useState)(null),[a,o]=(0,_.useState)(!0),s=(0,_.useCallback)(async()=>{try{let e=await fetch(`assets/data/quotes/index.json`);console.log(e),n(await e.json())}catch(e){console.error(e)}},[]),c=(0,_.useCallback)(async e=>{try{o(!0),i(await(await fetch(`assets/data/quotes/${e}.json`)).json())}catch(e){console.error(e)}finally{o(!1)}},[]);return(0,_.useEffect)(()=>{s()},[s]),(0,_.useEffect)(()=>{e&&c(e)},[e,c]),{quotes:t,currentQuote:r,loading:a}};function Vr(){let[e,t]=(0,_.useState)(!0),[n,r]=(0,_.useState)(null),{quotes:i,currentQuote:a,loading:o}=Br(n);return e?(0,j.jsx)(`div`,{className:`min-h-screen flex justify-center items-center bg-stone-200`,children:(0,j.jsx)(Lr,{onOpen:()=>t(!1)})}):n===null?(0,j.jsx)(`div`,{className:`min-h-screen flex justify-center items-center bg-stone-200`,children:(0,j.jsx)(Rr,{quotes:i,onSelect:r})}):o||!a?(0,j.jsx)(`div`,{className:`min-h-screen flex justify-center items-center`,children:`Loading...`}):(0,j.jsx)(`div`,{className:`min-h-screen flex justify-center items-center bg-stone-200`,children:(0,j.jsx)(zr,{quote:a,onBack:()=>r(null)})})}function Hr(){return(0,j.jsx)(kn,{children:(0,j.jsx)(`div`,{className:`min-h-screen bg-slate-50 font-sans antialiased text-slate-900`,children:(0,j.jsxs)(zt,{children:[(0,j.jsx)(Lt,{path:`/`,element:(0,j.jsx)(Er,{})}),(0,j.jsx)(Lt,{path:`/word-combination`,element:(0,j.jsx)(Or,{})}),(0,j.jsx)(Lt,{path:`/fill-in`,element:(0,j.jsx)(Ar,{})}),(0,j.jsx)(Lt,{path:`/matching`,element:(0,j.jsx)(Mr,{})}),(0,j.jsx)(Lt,{path:`/flashcards`,element:(0,j.jsx)(Pr,{})}),(0,j.jsx)(Lt,{path:`/short-stories`,element:(0,j.jsx)(Ir,{})}),(0,j.jsx)(Lt,{path:`/quotes`,element:(0,j.jsx)(Vr,{})}),(0,j.jsx)(Lt,{path:`*`,element:(0,j.jsx)(Er,{})})]})})})}(0,v.createRoot)(document.getElementById(`root`)).render((0,j.jsx)(_.StrictMode,{children:(0,j.jsx)(Hr,{})}));
