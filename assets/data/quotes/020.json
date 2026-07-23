@@ -2,15 +2,35 @@
   "id": 20,
   "page": 20,
   "book": "Story Learning",
-  "title": "",
-  "subtitle": "Hope",
+  "title": "Mẹ dặn rằng: ",
+  "subtitle": "Mom says: ",
   "paragraphs": [
     {
         "segments": [
-            {
-              "vi": "",
-              "en": ""
-            }
+          {
+            "vi": "Hãy khóc thật lớn nếu",
+            "en": "Cry as hard as"
+          },
+          {
+            "vi": "con muốn",
+            "en": "you want"
+          },
+          {
+            "vi": "nhưng hãy chắc chắn rằng",
+            "en": "but make sure"
+          },
+          {
+            "vi": "khi con ngừng khóc",
+            "en": "when you stop crying"
+          },
+          {
+            "vi": "con sẽ không bao giờ khóc",
+            "en": "you never cry"
+          },
+          {
+            "vi": "vì lý do này lần nào nữa",
+            "en": "for the same reason again."
+          }
         ]
     }
   ]
