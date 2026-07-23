@@ -2,18 +2,34 @@
   "id": 17,
   "page": 17,
   "book": "Story Learning",
-  "title": "",
-  "subtitle": "Love",
+  "title": "Câu nói khiến tôi không ngừng nỗ lực",
+  "subtitle": "The quote inspires me to never stop trying",
   "paragraphs": [
     {
         "segments": [
             {
-                "vi": "Ne",
-                "en": "People"
+                "vi": "Mỗi lần",
+                "en": "Every time"
             },
             {
-              "vi": "",
-              "en": ""
+              "vi": "tôi nhìn vào",
+              "en": "I look at"
+            },
+            {
+              "vi": "bố mẹ",
+              "en": "my parents,"
+            },
+            {
+              "vi": "tôi lại cho mình",
+              "en": "I give myself"
+            },
+            {
+              "vi": "cả triệu lý do",
+              "en": "a million reasons"
+            },
+            {
+              "vi": "để thành công",
+              "en": "to be successful."
             }
         ]
     }

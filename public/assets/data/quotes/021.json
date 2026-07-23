@@ -1,0 +1,37 @@
+{
+  "id": 21,
+  "page": 21,
+  "book": "Story Learning",
+  "title": "Mẹ tôi đã từng nói",
+  "subtitle": "My mother said",
+  "paragraphs": [
+    {
+        "segments": [
+          {
+            "vi": "Mẹ tôi đã từng nói",
+            "en": "My mother said,"
+          },
+          {
+            "vi": "Đôi khi",
+            "en": "Sometimes,"
+          },
+          {
+            "vi": "lời hứa",
+            "en": "promise"
+          },
+          {
+            "vi": "chẳng qua là",
+            "en": "is nothing more than"
+          },
+          {
+            "vi": "tìm một cái cớ dễ dàng",
+            "en": "finding an easy excuse"
+          },
+          {
+            "vi": "cho lời nói dối thôi",
+            "en": "for a lie."
+          }
+        ]
+    }
+  ]
+}

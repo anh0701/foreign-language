@@ -1,0 +1,45 @@
+{
+  "id": 23,
+  "page": 23,
+  "book": "Story Learning",
+  "title": "Sự thật và lời nói dối",
+  "subtitle": "The truth and the lie",
+  "paragraphs": [
+    {
+        "segments": [
+          {
+            "vi": "Nếu bạn nói",
+            "en": "If you tell"
+          },
+          {
+            "vi": "sự thật",
+            "en": "the truth,"
+          },
+          {
+            "vi": "nó sẽ trở thành",
+            "en": "it becomes"
+          },
+          {
+            "vi": "một phần quá khứ của bạn",
+            "en": "a part of your past."
+          },
+          {
+            "vi": "Nhưng nếu bạn",
+            "en": "But if you"
+          },
+          {
+            "vi": "nói dối",
+            "en": "tell the lie,"
+          },
+          {
+            "vi": "nó sẽ trở thành",
+            "en": "it becomes"
+          },
+          {
+            "vi": "một phần tương lai của bạn",
+            "en": "part of your future."
+          }
+        ]
+    }
+  ]
+}

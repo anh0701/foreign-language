@@ -1,0 +1,37 @@
+{
+  "id": 22,
+  "page": 22,
+  "book": "Story Learning",
+  "title": "Xin đừng như tôi",
+  "subtitle": "Please don't be like me",
+  "paragraphs": [
+    {
+        "segments": [
+          {
+            "vi": "Tôi dễ dàng tin tưởng mọi người",
+            "en": "I trust people easily."
+          },
+          {
+            "vi": "Tôi dễ dàng tha thứ cho mọi người",
+            "en": "I forgive people easily."
+          },
+          {
+            "vi": "Tôi dễ dàng quên đi",
+            "en": "I easily forget"
+          },
+          {
+            "vi": "những điều tồi tệ mà họ đã làm",
+            "en": "the bad things they did."
+          },
+          {
+            "vi": "Tôi đúng là một đứa ngốc",
+            "en": "I'm an idiot."
+          },
+          {
+            "vi": "Xin đừng như tôi",
+            "en": "Please don't be like me."
+          }
+        ]
+    }
+  ]
+}

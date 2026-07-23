@@ -2,18 +2,42 @@
   "id": 16,
   "page": 16,
   "book": "Story Learning",
-  "title": "",
-  "subtitle": "Love",
+  "title": "Một sự thật thú vị",
+  "subtitle": "A fun fact",
   "paragraphs": [
     {
         "segments": [
             {
-                "vi": "Ne",
-                "en": "People"
+                "vi": "Khi bạn độc thân",
+                "en": "When you're single,"
             },
             {
-              "vi": "",
-              "en": ""
+              "vi": "bạn sẽ thấy",
+              "en": "you see"
+            },
+            {
+              "vi": "những cặp đôi hạnh phúc",
+              "en": "happy couples"
+            },
+            {
+              "vi": "ở khắp mọi nơi",
+              "en": "everywhere."
+            },
+            {
+              "vi": "Nhưng khi bạn kết hôn",
+              "en": "But when you are married,"
+            },
+            {
+              "vi": "bạn thấy",
+              "en": "you see"
+            },
+            {
+              "vi": "những người độc thân hạnh phúc",
+              "en": "happy singles"
+            },
+            {
+              "vi": "ở khắp mọi nơi",
+              "en": "everywhere."
             }
         ]
     }
