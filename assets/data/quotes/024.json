@@ -2,14 +2,42 @@
   "id": 24,
   "page": 24,
   "book": "Story Learning",
-  "title": "",
-  "subtitle": "Hope",
+  "title": "Trưởng thành",
+  "subtitle": "Grow",
   "paragraphs": [
     {
         "segments": [
           {
-            "vi": "",
-            "en": ""
+            "vi": "Mẹ từng nói rằng",
+            "en": "My mother used to say,"
+          },
+          {
+            "vi": "cây muốn lớn",
+            "en": "if a tree wants to grow"
+          },
+          {
+            "vi": "thì phải tỉa cành",
+            "en": "it must be pruned."
+          },
+          {
+            "vi": "Và chúng ta muốn trưởng thành",
+            "en": "And if we want to grow"
+          },
+          {
+            "vi": "thì cũng phải biết buông bỏ",
+            "en": "we have to let go of"
+          },
+          {
+            "vi": "nhiều điều",
+            "en": "many things,"
+          },
+          {
+            "vi": "dù cho",
+            "en": "no matter"
+          },
+          {
+            "vi": "nó có đau đến thế nào",
+            "en": "how painful they are."
           }
         ]
     }
