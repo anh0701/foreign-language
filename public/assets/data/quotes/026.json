@@ -2,14 +2,50 @@
   "id": 26,
   "page": 26,
   "book": "Story Learning",
-  "title": "",
-  "subtitle": "Hope",
+  "title": "Tại sao anh yêu em?",
+  "subtitle": "Why do I love you?",
   "paragraphs": [
     {
         "segments": [
           {
-            "vi": "",
-            "en": ""
+            "vi": "Nếu anh có thể",
+            "en": "If I could"
+          },
+          {
+            "vi": "cho em một điều",
+            "en": "give you one thing"
+          },
+          {
+            "vi": "trong đời này",
+            "en": "in this life,"
+          },
+          {
+            "vi": "anh sẽ cho em",
+            "en": "I would give you"
+          },
+          {
+            "vi": "khả năng nhìn thấy chính mình",
+            "en": "the ability to see yourself"
+          },
+          {
+            "vi": "qua đôi mắt của anh",
+            "en": "through my eyes."
+          },
+          {
+            "vi": "Rồi sau đó",
+            "en": "Only then,"
+          },
+          {
+            "vi": "em sẽ nhận ra",
+            "en": "would you realize"
+          },
+          {
+            "vi": "em thật đặc biệt như thế nào",
+            "en": "how special you are"
+          },
+          {
+            "vi": "đối với anh",
+            "en": "to me."
           }
         ]
     }
