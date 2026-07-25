@@ -1,0 +1,45 @@
+{
+  "id": 27,
+  "page": 27,
+  "book": "Story Learning",
+  "title": "Hãy như một dòng sông",
+  "subtitle": "Be like a river",
+  "paragraphs": [
+    {
+        "segments": [
+          {
+            "vi": "Dòng sông không bao giờ",
+            "en": "Rivers never"
+          },
+          {
+            "vi": "chảy ngược",
+            "en": "go reverse."
+          },
+          {
+            "vi": "Vì vậy",
+            "en": "So,"
+          },
+          {
+            "vi": "hãy cố gắng sống",
+            "en": "try to live"
+          },
+          {
+            "vi": "như một dòng sông",
+            "en": "like a river."
+          },
+          {
+            "vi": "Hãy quên đi quá khứ",
+            "en": "Forget your past."
+          },
+          {
+            "vi": "Tập trung vào tương lai của bạn",
+            "en": "Focus on your future."
+          },
+          {
+            "vi": "Hãy luôn luôn tích cực nhé",
+            "en": "Always be positive."
+          }
+        ]
+    }
+  ]
+}

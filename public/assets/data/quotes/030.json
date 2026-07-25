@@ -1,0 +1,41 @@
+{
+  "id": 30,
+  "page": 30,
+  "book": "Story Learning",
+  "title": "Người đặc biệt",
+  "subtitle": "A special person",
+  "paragraphs": [
+    {
+        "segments": [
+          {
+            "vi": "Người duy nhất",
+            "en": "The only person"
+          },
+          {
+            "vi": "xứng đáng",
+            "en": "who deserves"
+          },
+          {
+            "vi": "có một vị trí đặc biệt",
+            "en": "a special place"
+          },
+          {
+            "vi": "trong trái tim bạn",
+            "en": "is the one"
+          },
+          {
+            "vi": "không bao giờ khiến bạn",
+            "en": "who never makes you"
+          },
+          {
+            "vi": "cảm thấy mình",
+            "en": "feel like you"
+          },
+          {
+            "vi": "là một sự lựa chọn",
+            "en": "are an option."
+          }
+        ]
+    }
+  ]
+}

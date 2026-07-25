@@ -2,14 +2,42 @@
   "id": 25,
   "page": 25,
   "book": "Story Learning",
-  "title": "",
-  "subtitle": "Hope",
+  "title": "Tình yêu",
+  "subtitle": "Love",
   "paragraphs": [
     {
         "segments": [
           {
-            "vi": "",
-            "en": ""
+            "vi": "Người đem lòng yêu",
+            "en": "People fall in love with"
+          },
+          {
+            "vi": "một dòng sông",
+            "en": "a river"
+          },
+          {
+            "vi": "chỉ vì",
+            "en": "just because"
+          },
+          {
+            "vi": "họ chưa nhìn thấy",
+            "en": "they have not seen"
+          },
+          {
+            "vi": "biển cả",
+            "en": "the sea."
+          },
+          {
+            "vi": "Riêng tôi",
+            "en": "Personally,"
+          },
+          {
+            "vi": "nhìn thấy cả dải ngân hà",
+            "en": "I see the whole galaxy,"
+          },
+          {
+            "vi": "nhưng trong lòng chỉ có một vì sao",
+            "en": "but I only have one star in my heart."
           }
         ]
     }
