@@ -2,14 +2,74 @@
   "id": 29,
   "page": 29,
   "book": "Story Learning",
-  "title": "",
-  "subtitle": "Hope",
+  "title": "Một mình",
+  "subtitle": "Alone",
   "paragraphs": [
     {
         "segments": [
           {
-            "vi": "",
-            "en": ""
+            "vi": "Chúng ta đến",
+            "en": "We come to"
+          },
+          {
+            "vi": "thế giới này một mình",
+            "en": "this world alone,"
+          },
+          {
+            "vi": "và khi kết thúc",
+            "en": "and at the end,"
+          },
+          {
+            "vi": "chúng ta cũng một mình rời đi",
+            "en": "we leave alone."
+          },
+          {
+            "vi": "Người thân",
+            "en": "Relatives"
+          },
+          {
+            "vi": "và bạn bè",
+            "en": "and friends"
+          },
+          {
+            "vi": "là những lữ khách",
+            "en": "are our travelers"
+          },
+          {
+            "vi": "trong đời này",
+            "en": "in this life."
+          },
+          {
+            "vi": "Có người thì đi",
+            "en": "Some go"
+          },
+          {
+            "vi": "cùng một đoạn",
+            "en": "the same way,"
+          },
+          {
+            "vi": "và có người",
+            "en": "and some"
+          },
+          {
+            "vi": "thì đi lâu hơn một chút",
+            "en": "take a little longer."
+          },
+          {
+            "vi": "Nhưng rồi",
+            "en": "But then"
+          },
+          {
+            "vi": "cũng sẽ rời xa",
+            "en": "we will leave,"
+          },
+          {
+            "vi": "và chúng ta sẽ phải",
+            "en": "and we will have to"
+          },
+          {
+            "vi": "tiếp tục một mình mà thôi",
+            "en": "continue alone."
           }
         ]
     }

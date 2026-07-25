@@ -2,14 +2,30 @@
   "id": 28,
   "page": 28,
   "book": "Story Learning",
-  "title": "",
-  "subtitle": "Hope",
+  "title": "5 thứ tiền không mua được:",
+  "subtitle": "5 things money can't buy:",
   "paragraphs": [
     {
         "segments": [
           {
-            "vi": "",
-            "en": ""
+            "vi": "1. Thời gian",
+            "en": "Time."
+          },
+          {
+            "vi": "2. Kỷ luật",
+            "en": "Discipline."
+          },
+          {
+            "vi": "3. Lòng trung thành",
+            "en": "Loyalty."
+          },
+          {
+            "vi": "4. Tự trọng",
+            "en": "Self-respect."
+          },
+          {
+            "vi": "5. Tình yêu đích thực",
+            "en": "True love."
           }
         ]
     }
