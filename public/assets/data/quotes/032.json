@@ -2,14 +2,50 @@
   "id": 32,
   "page": 32,
   "book": "Story Learning",
-  "title": "",
-  "subtitle": "Hope",
+  "title": "Hãy nhớ rằng",
+  "subtitle": "Remember",
   "paragraphs": [
     {
         "segments": [
           {
-            "vi": "",
-            "en": ""
+            "vi": "Đừng bao giờ làm lơ người",
+            "en": "Never ignore the person"
+          },
+          {
+            "vi": "yêu thương bạn",
+            "en": "who loves you,"
+          },
+          {
+            "vi": "quan tâm đến bạn",
+            "en": "cares for you"
+          },
+          {
+            "vi": "và nhớ bạn",
+            "en": "and misses you,"
+          },
+          {
+            "vi": "bởi vì một ngày nào đó",
+            "en": "because one day"
+          },
+          {
+            "vi": "bạn thức dậy",
+            "en": "you might wake up"
+          },
+          {
+            "vi": "sau giấc ngủ",
+            "en": "from your sleep"
+          },
+          {
+            "vi": "và nhận ra rằng",
+            "en": "and realize that"
+          },
+          {
+            "vi": "bạn đã đánh mất mặt trăng",
+            "en": "you lost the moon"
+          },
+          {
+            "vi": "trong khi đếm các vì sao",
+            "en": "while counting the stars."
           }
         ]
     }
