@@ -46,14 +46,14 @@
     "page": 7,
     "slug": "007",
     "title": "Hãy nhớ rằng",
-    "subtitle": "Remember"
+    "subtitle": "Remember (1)"
   },
   {
     "id": 8,
     "page": 8,
     "slug": "008",
     "title": "Tình yêu",
-    "subtitle": "Love"
+    "subtitle": "Love (1)"
   },
   {
     "id": 9,
@@ -172,7 +172,7 @@
     "page": 25,
     "slug": "025",
     "title": "Tình yêu",
-    "subtitle": "Love"
+    "subtitle": "Love (2)"
   },
   {
     "id": 26,
@@ -215,5 +215,26 @@
     "slug": "031",
     "title": "Bình yên tận hưởng cuộc sống độc thân",
     "subtitle": "Enjoy your single life in peace"
+  },
+  {
+    "id": 32,
+    "page": 32,
+    "slug": "032",
+    "title": "Hãy nhớ rằng",
+    "subtitle": "Remember (2)"
+  },
+  {
+    "id": 33,
+    "page": 33,
+    "slug": "033",
+    "title": "Tâm lý nói rằng",
+    "subtitle": "Psychology says"
+  },
+  {
+    "id": 34,
+    "page": 34,
+    "slug": "034",
+    "title": "Một câu nói rất thấm",
+    "subtitle": "A deep saying"
   }
 ]

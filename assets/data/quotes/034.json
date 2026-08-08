@@ -2,14 +2,62 @@
   "id": 34,
   "page": 34,
   "book": "Story Learning",
-  "title": "",
-  "subtitle": "Hope",
+  "title": "Một câu nói rất thấm",
+  "subtitle": "A deep saying",
   "paragraphs": [
     {
         "segments": [
           {
-            "vi": "",
-            "en": ""
+            "vi": "Khi bạn",
+            "en": "When you"
+          },
+          {
+            "vi": "có một chút",
+            "en": "have a little,"
+          },
+          {
+            "vi": "bạn mong ước",
+            "en": "you wish"
+          },
+          {
+            "vi": "nhiều hơn nữa",
+            "en": "for more."
+          },
+          {
+            "vi": "Khi bạn",
+            "en": "When you"
+          },
+          {
+            "vi": "có nhiều hơn",
+            "en": "have more,"
+          },
+          {
+            "vi": "bạn lại ước",
+            "en": "you wish"
+          },
+          {
+            "vi": "nhiều hơn nữa",
+            "en": "for more."
+          },
+          {
+            "vi": "Khi bạn",
+            "en": "When you"
+          },
+          {
+            "vi": "mất tất cả",
+            "en": "losr everything,"
+          },
+          {
+            "vi": "bạn nhận ra rằng",
+            "en": "you realize that"
+          },
+          {
+            "vi": "một chút thôi",
+            "en": "a little"
+          },
+          {
+            "vi": "là đủ rồi",
+            "en": "is enough."
           }
         ]
     }

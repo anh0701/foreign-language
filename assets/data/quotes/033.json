@@ -2,14 +2,38 @@
   "id": 33,
   "page": 33,
   "book": "Story Learning",
-  "title": "",
-  "subtitle": "Hope",
+  "title": "Tâm lý nói rằng",
+  "subtitle": "Psychology says",
   "paragraphs": [
     {
         "segments": [
           {
-            "vi": "",
-            "en": ""
+            "vi": "Người cuối cùng",
+            "en": "The last person"
+          },
+          {
+            "vi": "trong tâm trí bạn",
+            "en": "on your mind"
+          },
+          {
+            "vi": "trước khi bạn",
+            "en": "before you"
+          },
+          {
+            "vi": "nhắm mắt đi ngủ",
+            "en": "close your eyes at night"
+          },
+          {
+            "vi": "cũng chính là lý do khiến",
+            "en": "is either the reason for"
+          },
+          {
+            "vi": "bạn hạnh phúc",
+            "en": "your happiness"
+          },
+          {
+            "vi": "hoặc đau lòng",
+            "en": "or pain."
           }
         ]
     }
