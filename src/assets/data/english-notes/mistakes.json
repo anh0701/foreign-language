@@ -19,5 +19,51 @@
     "wrong": "I talked English.",
     "correct": "I spoke English.",
     "explanation": "Khi nói về khả năng sử dụng một ngôn ngữ, speak thường phù hợp hơn talk."
+  },
+  {
+    "id": "2",
+    "noteId": "2",
+    "wrong": "The weather effected my mood.",
+    "correct": "The weather affected my mood.",
+    "explanation": "Affect là động từ khi mang nghĩa ảnh hưởng."
+  },
+  {
+    "id": "3",
+    "noteId": "2",
+    "wrong": "The medicine had a good affect.",
+    "correct": "The medicine had a good effect.",
+    "explanation": "Sau 'a' cần danh từ, vì vậy dùng effect."
+  },
+
+  {
+    "id": "4",
+    "noteId": "3",
+    "wrong": "I except your apology.",
+    "correct": "I accept your apology.",
+    "explanation": "Accept = chấp nhận, còn except = ngoại trừ."
+  },
+
+  {
+    "id": "5",
+    "noteId": "4",
+    "wrong": "She gave me an advice.",
+    "correct": "She gave me some advice.",
+    "explanation": "Advice là danh từ không đếm được."
+  },
+
+  {
+    "id": "6",
+    "noteId": "5",
+    "wrong": "Can you borrow me your laptop?",
+    "correct": "Can you lend me your laptop?",
+    "explanation": "Người cho người khác mượn dùng lend."
+  },
+
+  {
+    "id": "7",
+    "noteId": "6",
+    "wrong": "I bought some stationary.",
+    "correct": "I bought some stationery.",
+    "explanation": "Stationery dùng khi nói về văn phòng phẩm."
   }
 ]

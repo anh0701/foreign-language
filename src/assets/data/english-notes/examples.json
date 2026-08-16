@@ -34,5 +34,89 @@
     "sentence": "She said that she was tired.",
     "translation": "Cô ấy nói rằng cô ấy mệt.",
     "explanation": "Say tập trung vào nội dung được nói."
+  },
+  {
+    "id": "2",
+    "noteId": "2",
+    "sentence": "Lack of sleep can affect your concentration.",
+    "translation": "Thiếu ngủ có thể ảnh hưởng đến khả năng tập trung của bạn.",
+    "explanation": "Affect là động từ.",
+    "order": 1
+  },
+  {
+    "id": "3",
+    "noteId": "2",
+    "sentence": "The new policy had a positive effect on employees.",
+    "translation": "Chính sách mới có tác động tích cực đến nhân viên.",
+    "explanation": "Effect là danh từ.",
+    "order": 2
+  },
+
+  {
+    "id": "4",
+    "noteId": "3",
+    "sentence": "She accepted the job offer.",
+    "translation": "Cô ấy đã chấp nhận lời mời làm việc.",
+    "explanation": "Accept = chấp nhận.",
+    "order": 1
+  },
+  {
+    "id": "5",
+    "noteId": "3",
+    "sentence": "Everyone came except Tom.",
+    "translation": "Mọi người đều đến ngoại trừ Tom.",
+    "explanation": "Except = ngoại trừ.",
+    "order": 2
+  },
+
+  {
+    "id": "6",
+    "noteId": "4",
+    "sentence": "Can you give me some advice?",
+    "translation": "Bạn có thể cho tôi một vài lời khuyên không?",
+    "explanation": "Advice là danh từ.",
+    "order": 1
+  },
+  {
+    "id": "7",
+    "noteId": "4",
+    "sentence": "The doctor advised me to get more sleep.",
+    "translation": "Bác sĩ khuyên tôi nên ngủ nhiều hơn.",
+    "explanation": "Advise là động từ.",
+    "order": 2
+  },
+
+  {
+    "id": "8",
+    "noteId": "5",
+    "sentence": "Can I borrow your pen?",
+    "translation": "Tôi có thể mượn bút của bạn không?",
+    "explanation": "Borrow dùng khi chủ thể là người mượn.",
+    "order": 1
+  },
+  {
+    "id": "9",
+    "noteId": "5",
+    "sentence": "Can you lend me your pen?",
+    "translation": "Bạn có thể cho tôi mượn bút không?",
+    "explanation": "Lend dùng khi chủ thể là người cho mượn.",
+    "order": 2
+  },
+
+  {
+    "id": "10",
+    "noteId": "6",
+    "sentence": "The car remained stationary.",
+    "translation": "Chiếc xe vẫn đứng yên.",
+    "explanation": "Stationary = đứng yên.",
+    "order": 1
+  },
+  {
+    "id": "11",
+    "noteId": "6",
+    "sentence": "I bought some stationery for school.",
+    "translation": "Tôi mua một số văn phòng phẩm cho trường.",
+    "explanation": "Stationery = văn phòng phẩm.",
+    "order": 2
   }
 ]

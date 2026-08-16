@@ -7,5 +7,50 @@
     "categoryId": "comparison",
     "level": "beginner",
     "published": true
+  },
+  {
+    "id": "2",
+    "slug": "affect-vs-effect",
+    "title": "Affect vs. Effect",
+    "description": "Phân biệt affect và effect – hai từ rất dễ nhầm trong tiếng Anh.",
+    "categoryId": "comparison",
+    "level": "intermediate",
+    "published": true
+  },
+  {
+    "id": "3",
+    "slug": "accept-vs-except",
+    "title": "Accept vs. Except",
+    "description": "Phân biệt accept và except qua cách dùng và ví dụ thực tế.",
+    "categoryId": "comparison",
+    "level": "beginner",
+    "published": true
+  },
+  {
+    "id": "4",
+    "slug": "advice-vs-advise",
+    "title": "Advice vs. Advise",
+    "description": "Phân biệt advice và advise qua từ loại, cách phát âm và cách sử dụng.",
+    "categoryId": "comparison",
+    "level": "beginner",
+    "published": true
+  },
+  {
+    "id": "5",
+    "slug": "borrow-vs-lend",
+    "title": "Borrow vs. Lend",
+    "description": "Phân biệt borrow và lend khi nói về việc mượn và cho mượn.",
+    "categoryId": "comparison",
+    "level": "beginner",
+    "published": true
+  },
+  {
+    "id": "6",
+    "slug": "stationary-vs-stationery",
+    "title": "Stationary vs. Stationery",
+    "description": "Phân biệt stationary và stationery – hai từ phát âm gần giống nhưng nghĩa hoàn toàn khác nhau.",
+    "categoryId": "comparison",
+    "level": "intermediate",
+    "published": true
   }
 ]
