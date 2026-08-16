@@ -1,11 +1,12 @@
 [
   {
-    "noteId": "note-001",
-    "relatedNoteId": "note-002"
+    "id": "1",
+    "noteId": "1",
+    "relatedNoteId": "2"
   },
   {
-    "noteId": "note-001",
-    "relatedNoteId": "note-003"
+    "noteId": "1",
+    "relatedNoteId": "3"
   },
   {
     "id": "2",
@@ -36,5 +37,35 @@
     "id": "7",
     "noteId": "5",
     "relatedNoteId": "6"
+  },
+  {
+    "id": "11",
+    "noteId": "9",
+    "relatedNoteId": "2"
+  },
+  {
+    "id": "12",
+    "noteId": "9",
+    "relatedNoteId": "4"
+  },
+  {
+    "id": "13",
+    "noteId": "9",
+    "relatedNoteId": "6"
+  },
+  {
+    "id": "14",
+    "noteId": "10",
+    "relatedNoteId": "7"
+  },
+  {
+    "id": "15",
+    "noteId": "10",
+    "relatedNoteId": "8"
+  },
+  {
+    "id": "16",
+    "noteId": "10",
+    "relatedNoteId": "9"
   }
 ]

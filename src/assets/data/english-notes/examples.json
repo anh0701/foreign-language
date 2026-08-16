@@ -118,5 +118,304 @@
     "translation": "Tôi mua một số văn phòng phẩm cho trường.",
     "explanation": "Stationery = văn phòng phẩm.",
     "order": 2
+  },
+  {
+    "id": "12",
+    "noteId": "7",
+    "sentence": "Turn on the light.",
+    "translation": "Bật đèn lên.",
+    "explanation": "Tiếng Anh dùng turn on khi nói về việc bật thiết bị.",
+    "order": 1
+  },
+  {
+    "id": "13",
+    "noteId": "7",
+    "sentence": "Turn off the light.",
+    "translation": "Tắt đèn đi.",
+    "explanation": "Dùng turn off để nói về việc tắt thiết bị.",
+    "order": 2
+  },
+  {
+    "id": "14",
+    "noteId": "7",
+    "sentence": "I am bored.",
+    "translation": "Tôi cảm thấy chán.",
+    "explanation": "Bored mô tả cảm xúc của người."
+  },
+  {
+    "id": "15",
+    "noteId": "7",
+    "sentence": "This movie is boring.",
+    "translation": "Bộ phim này chán.",
+    "explanation": "Boring mô tả thứ gây ra cảm giác chán."
+  },
+  {
+    "id": "16",
+    "noteId": "7",
+    "sentence": "I left my phone at home.",
+    "translation": "Tôi để quên điện thoại ở nhà.",
+    "explanation": "Trong ngữ cảnh này, left tự nhiên hơn cách dịch trực tiếp 'forgot my phone at home'."
+  },
+  {
+    "id": "17",
+    "noteId": "7",
+    "sentence": "I suggest taking a taxi.",
+    "translation": "Tôi đề nghị đi taxi.",
+    "explanation": "Suggest có thể đi với V-ing."
+  },
+  {
+    "id": "18",
+    "noteId": "7",
+    "sentence": "I need to take a break.",
+    "translation": "Tôi cần nghỉ một chút.",
+    "explanation": "Tiếng Anh thường dùng cụm take a break thay vì dịch từng từ."
+  },
+  {
+    "id": "19",
+    "noteId": "8",
+    "sentence": "I really like this song.",
+    "translation": "Tôi rất thích bài hát này.",
+    "explanation": "Dùng really trước động từ like.",
+    "order": 1
+  },
+  {
+    "id": "20",
+    "noteId": "8",
+    "sentence": "I miss you.",
+    "translation": "Tôi nhớ bạn.",
+    "explanation": "Miss diễn tả cảm giác nhớ một người.",
+    "order": 2
+  },
+  {
+    "id": "21",
+    "noteId": "8",
+    "sentence": "I'm waiting for you.",
+    "translation": "Tôi đang chờ bạn.",
+    "explanation": "Wait for someone = chờ ai đó.",
+    "order": 3
+  },
+  {
+    "id": "22",
+    "noteId": "8",
+    "sentence": "I've got a lot on my plate right now.",
+    "translation": "Hiện tại tôi có rất nhiều việc phải lo.",
+    "explanation": "Đây là cách diễn đạt tự nhiên, mang tính thành ngữ, thay vì chỉ nói 'I'm very busy'.",
+    "order": 4
+  },
+  {
+    "id": "23",
+    "noteId": "8",
+    "sentence": "I'm not sure.",
+    "translation": "Tôi không chắc / Tôi không biết rõ.",
+    "explanation": "Phù hợp khi bạn không hoàn toàn chắc chắn về một điều gì đó.",
+    "order": 5
+  },
+  {
+    "id": "24",
+    "noteId": "8",
+    "sentence": "I am 20 years old.",
+    "translation": "Tôi 20 tuổi.",
+    "explanation": "Dùng to be để diễn đạt tuổi.",
+    "order": 6
+  },
+  {
+    "id": "25",
+    "noteId": "8",
+    "sentence": "I go to work by motorbike.",
+    "translation": "Tôi đi làm bằng xe máy.",
+    "explanation": "By + phương tiện được dùng để nói cách di chuyển.",
+    "order": 7
+  },
+  {
+    "id": "26",
+    "noteId": "8",
+    "sentence": "I had breakfast at 7.",
+    "translation": "Tôi ăn sáng lúc 7 giờ.",
+    "explanation": "Have breakfast là cách kết hợp từ rất phổ biến.",
+    "order": 8
+  },
+  {
+    "id": "27",
+    "noteId": "8",
+    "sentence": "I'm going home.",
+    "translation": "Tôi đang về nhà.",
+    "explanation": "Nói go home / come home, không nói go to home trong trường hợp này.",
+    "order": 9
+  },
+  {
+    "id": "28",
+    "noteId": "8",
+    "sentence": "I didn't mean that.",
+    "translation": "Tôi không có ý đó.",
+    "explanation": "Mean được dùng để diễn đạt ý định hoặc điều bạn muốn nói.",
+    "order": 10
+  },
+  {
+    "id": "29",
+    "noteId": "9",
+    "sentence": "The country is facing serious economic problems.",
+    "translation": "Đất nước đang đối mặt với những vấn đề kinh tế nghiêm trọng.",
+    "explanation": "Economic liên quan đến nền kinh tế.",
+    "order": 1
+  },
+  {
+    "id": "30",
+    "noteId": "9",
+    "sentence": "This car is very economical.",
+    "translation": "Chiếc xe này rất tiết kiệm.",
+    "explanation": "Economical nói về việc sử dụng ít nhiên liệu hoặc tiền bạc.",
+    "order": 2
+  },
+  {
+    "id": "31",
+    "noteId": "9",
+    "sentence": "It was a historic moment.",
+    "translation": "Đó là một khoảnh khắc mang tính lịch sử.",
+    "explanation": "Historic thường dùng cho những sự kiện quan trọng, đáng nhớ.",
+    "order": 3
+  },
+  {
+    "id": "32",
+    "noteId": "9",
+    "sentence": "I love reading historical novels.",
+    "translation": "Tôi thích đọc tiểu thuyết lịch sử.",
+    "explanation": "Historical đơn giản mang nghĩa liên quan đến lịch sử.",
+    "order": 4
+  },
+  {
+    "id": "33",
+    "noteId": "9",
+    "sentence": "She is very sensitive to criticism.",
+    "translation": "Cô ấy rất nhạy cảm với những lời chỉ trích.",
+    "explanation": "Sensitive = nhạy cảm.",
+    "order": 5
+  },
+  {
+    "id": "34",
+    "noteId": "9",
+    "sentence": "It would be sensible to save some money.",
+    "translation": "Tiết kiệm một chút tiền sẽ là một quyết định hợp lý.",
+    "explanation": "Sensible = hợp lý, sáng suốt.",
+    "order": 6
+  },
+  {
+    "id": "35",
+    "noteId": "9",
+    "sentence": "This is a classic movie.",
+    "translation": "Đây là một bộ phim kinh điển.",
+    "explanation": "Classic thường dùng để nói một tác phẩm được đánh giá cao và có giá trị lâu dài.",
+    "order": 7
+  },
+  {
+    "id": "36",
+    "noteId": "9",
+    "sentence": "He listens to classical music.",
+    "translation": "Anh ấy nghe nhạc cổ điển.",
+    "explanation": "Classical thường được dùng khi nói về thể loại âm nhạc cổ điển.",
+    "order": 8
+  },
+  {
+    "id": "37",
+    "noteId": "9",
+    "sentence": "That's my personal opinion.",
+    "translation": "Đó là quan điểm cá nhân của tôi.",
+    "explanation": "Personal = thuộc về cá nhân.",
+    "order": 9
+  },
+  {
+    "id": "38",
+    "noteId": "9",
+    "sentence": "The company needs more personnel.",
+    "translation": "Công ty cần thêm nhân viên.",
+    "explanation": "Personnel = nhân viên hoặc đội ngũ nhân sự.",
+    "order": 10
+  },
+  {
+    "id": "39",
+    "noteId": "9",
+    "sentence": "This sofa is very comfortable.",
+    "translation": "Chiếc ghế sofa này rất thoải mái.",
+    "explanation": "Comfortable nói về cảm giác thoải mái.",
+    "order": 11
+  },
+  {
+    "id": "40",
+    "noteId": "9",
+    "sentence": "Online banking is very convenient.",
+    "translation": "Ngân hàng trực tuyến rất thuận tiện.",
+    "explanation": "Convenient nói về sự thuận tiện hoặc dễ sử dụng.",
+    "order": 12
+  },
+  {
+    "id": "41",
+    "noteId": "10",
+    "sentence": "I'm interested in learning English.",
+    "translation": "Tôi hứng thú với việc học tiếng Anh.",
+    "explanation": "Interested đi với in.",
+    "order": 1
+  },
+  {
+    "id": "42",
+    "noteId": "10",
+    "sentence": "She's good at speaking English.",
+    "translation": "Cô ấy giỏi nói tiếng Anh.",
+    "explanation": "Good đi với at khi nói về kỹ năng.",
+    "order": 2
+  },
+  {
+    "id": "43",
+    "noteId": "10",
+    "sentence": "I like listening to music.",
+    "translation": "Tôi thích nghe nhạc.",
+    "explanation": "Listen đi với to.",
+    "order": 3
+  },
+  {
+    "id": "44",
+    "noteId": "10",
+    "sentence": "It depends on the weather.",
+    "translation": "Điều đó phụ thuộc vào thời tiết.",
+    "explanation": "Depend đi với on.",
+    "order": 4
+  },
+  {
+    "id": "45",
+    "noteId": "10",
+    "sentence": "We arrived in London yesterday.",
+    "translation": "Chúng tôi đến London hôm qua.",
+    "explanation": "Arrive in dùng với thành phố và quốc gia.",
+    "order": 5
+  },
+  {
+    "id": "46",
+    "noteId": "10",
+    "sentence": "We arrived at the station at 8.",
+    "translation": "Chúng tôi đến nhà ga lúc 8 giờ.",
+    "explanation": "Arrive at dùng với địa điểm cụ thể.",
+    "order": 6
+  },
+  {
+    "id": "47",
+    "noteId": "10",
+    "sentence": "She is married to a doctor.",
+    "translation": "Cô ấy kết hôn với một bác sĩ.",
+    "explanation": "Married đi với to.",
+    "order": 7
+  },
+  {
+    "id": "48",
+    "noteId": "10",
+    "sentence": "This one is different from the other one.",
+    "translation": "Cái này khác với cái kia.",
+    "explanation": "Different thường đi với from.",
+    "order": 8
+  },
+  {
+    "id": "49",
+    "noteId": "10",
+    "sentence": "I'm afraid of spiders.",
+    "translation": "Tôi sợ nhện.",
+    "explanation": "Afraid đi với of.",
+    "order": 9
   }
 ]
