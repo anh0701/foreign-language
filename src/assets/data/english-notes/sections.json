@@ -178,5 +178,155 @@
     "noteId": "7",
     "title": "Không phải câu nào cũng cần dịch sát tiếng Việt",
     "content": "Một câu tiếng Anh tự nhiên đôi khi có cấu trúc rất khác với tiếng Việt. Thay vì cố tìm từng từ tương ứng, hãy tập trung vào cách người bản xứ thực sự diễn đạt ý đó."
+  },
+  {
+    "id": "23",
+    "noteId": "8",
+    "title": "Đừng dịch từng từ",
+    "content": "Một câu tiếng Việt và một câu tiếng Anh có thể truyền đạt cùng một ý nhưng sử dụng cấu trúc hoàn toàn khác nhau. Dịch từng từ thường tạo ra những câu nghe không tự nhiên, thậm chí sai ngữ pháp."
+  },
+  {
+    "id": "24",
+    "noteId": "8",
+    "title": "1. Tôi rất thích nó",
+    "content": "Trong tiếng Anh, không nói 'I very like it'. Vì like là động từ, hãy dùng 'I really like it' hoặc 'I like it very much'."
+  },
+  {
+    "id": "25",
+    "noteId": "8",
+    "title": "2. Tôi nhớ bạn",
+    "content": "Tiếng Việt nói 'Tôi nhớ bạn', nhưng tiếng Anh dùng 'I miss you'. Không thể dịch thành 'I remember you' nếu bạn muốn nói cảm giác nhớ một người."
+  },
+  {
+    "id": "26",
+    "noteId": "8",
+    "title": "3. Tôi đang chờ bạn",
+    "content": "Wait đã bao hàm ý chờ đợi nên không cần thêm for trong mọi trường hợp. Khi nói chờ ai đó, cấu trúc đúng là 'wait for someone'."
+  },
+  {
+    "id": "27",
+    "noteId": "8",
+    "title": "4. Tôi rất bận",
+    "content": "Không nên dịch 'rất bận' thành 'very busy' trong mọi trường hợp một cách máy móc. Very busy là đúng, nhưng khi giao tiếp còn có những cách tự nhiên khác như 'I've got a lot on my plate'."
+  },
+  {
+    "id": "28",
+    "noteId": "8",
+    "title": "5. Tôi không biết",
+    "content": "I don't know là cách nói hoàn toàn đúng. Tuy nhiên, không nên biến mọi trường hợp 'không biết' thành một cấu trúc duy nhất. Tùy ngữ cảnh có thể dùng 'I'm not sure', 'I have no idea' hoặc 'I don't know about that'."
+  },
+  {
+    "id": "29",
+    "noteId": "8",
+    "title": "6. Tôi có 20 tuổi",
+    "content": "Tiếng Việt dùng 'có' khi nói tuổi, nhưng tiếng Anh dùng động từ to be: 'I am 20 years old'."
+  },
+  {
+    "id": "30",
+    "noteId": "8",
+    "title": "7. Tôi đi bằng xe máy",
+    "content": "Tiếng Anh thường dùng 'by motorbike' khi nói phương tiện di chuyển nói chung, không dịch từng từ thành 'with a motorbike'."
+  },
+  {
+    "id": "31",
+    "noteId": "8",
+    "title": "8. Tôi ăn sáng",
+    "content": "Trong tiếng Anh, breakfast thường đi với have hoặc eat tùy ngữ cảnh. Cách nói tự nhiên và phổ biến là 'I had breakfast' hoặc 'I had breakfast at 7'."
+  },
+  {
+    "id": "32",
+    "noteId": "8",
+    "title": "9. Tôi về nhà",
+    "content": "Khi nói về việc về nhà, tiếng Anh thường nói 'go home' thay vì 'go to home'. Home trong trường hợp này hoạt động như một trạng từ chỉ hướng."
+  },
+  {
+    "id": "33",
+    "noteId": "8",
+    "title": "10. Tôi không có ý đó",
+    "content": "Không nên dịch máy móc thành 'I don't have that meaning'. Cách tự nhiên hơn là 'I didn't mean that' hoặc 'That's not what I meant'."
+  },
+  {
+    "id": "34",
+    "noteId": "9",
+    "title": "1. Economic vs. Economical",
+    "content": "Economic thường liên quan đến nền kinh tế hoặc lĩnh vực kinh tế. Economical mang nghĩa tiết kiệm, không lãng phí tiền bạc hoặc tài nguyên."
+  },
+  {
+    "id": "35",
+    "noteId": "9",
+    "title": "2. Historic vs. Historical",
+    "content": "Historic dùng cho một sự kiện quan trọng hoặc có ý nghĩa đặc biệt trong lịch sử. Historical có nghĩa liên quan đến lịch sử nói chung."
+  },
+  {
+    "id": "36",
+    "noteId": "9",
+    "title": "3. Sensitive vs. Sensible",
+    "content": "Sensitive có nghĩa nhạy cảm hoặc dễ bị tác động. Sensible có nghĩa hợp lý, thực tế và có khả năng đưa ra quyết định tốt."
+  },
+  {
+    "id": "37",
+    "noteId": "9",
+    "title": "4. Classic vs. Classical",
+    "content": "Classic thường chỉ một thứ được xem là kinh điển hoặc có chất lượng vượt thời gian. Classical thường liên quan đến nghệ thuật, âm nhạc hoặc văn hóa cổ điển."
+  },
+  {
+    "id": "38",
+    "noteId": "9",
+    "title": "5. Personal vs. Personnel",
+    "content": "Personal có nghĩa thuộc về cá nhân hoặc riêng tư. Personnel là danh từ chỉ nhân viên hoặc đội ngũ nhân sự của một tổ chức."
+  },
+  {
+    "id": "39",
+    "noteId": "9",
+    "title": "6. Comfortable vs. Convenient",
+    "content": "Comfortable nói về sự thoải mái về thể chất hoặc cảm xúc. Convenient nói về sự thuận tiện, phù hợp hoặc dễ dàng sử dụng."
+  },
+  {
+    "id": "40",
+    "noteId": "10",
+    "title": "1. Interested in",
+    "content": "Sau interested thường dùng giới từ in. Không nói 'interested on' hoặc 'interested about'."
+  },
+  {
+    "id": "41",
+    "noteId": "10",
+    "title": "2. Good at",
+    "content": "Khi nói ai đó giỏi một kỹ năng hoặc hoạt động, dùng good at."
+  },
+  {
+    "id": "42",
+    "noteId": "10",
+    "title": "3. Listen to",
+    "content": "Listen thường đi với to khi nói lắng nghe ai hoặc điều gì đó."
+  },
+  {
+    "id": "43",
+    "noteId": "10",
+    "title": "4. Depend on",
+    "content": "Depend thường đi với on khi nói một thứ phụ thuộc vào một thứ khác."
+  },
+  {
+    "id": "44",
+    "noteId": "10",
+    "title": "5. Arrive in vs. Arrive at",
+    "content": "Arrive in thường dùng với thành phố, quốc gia hoặc khu vực lớn. Arrive at thường dùng với một địa điểm cụ thể."
+  },
+  {
+    "id": "45",
+    "noteId": "10",
+    "title": "6. Married to",
+    "content": "Khi nói một người kết hôn với ai, dùng married to, không dùng married with."
+  },
+  {
+    "id": "46",
+    "noteId": "10",
+    "title": "7. Different from",
+    "content": "Cấu trúc phổ biến là different from. Không nên dịch trực tiếp và dùng 'different with'."
+  },
+  {
+    "id": "47",
+    "noteId": "10",
+    "title": "8. Afraid of",
+    "content": "Afraid thường đi với of khi nói sợ một người, vật hoặc tình huống."
   }
 ]

@@ -61,5 +61,32 @@
     "categoryId": "mistake",
     "level": "beginner",
     "published": true
+  },
+  {
+    "id": "8",
+    "slug": "10-vietnamese-english-translation-mistakes",
+    "title": "10 Vietnamese-English Translation Mistakes",
+    "description": "10 cách dịch từ tiếng Việt sang tiếng Anh dễ gây ra những câu sai hoặc không tự nhiên.",
+    "categoryId": "mistake",
+    "level": "beginner",
+    "published": true
+  },
+  {
+    "id": "9",
+    "slug": "words-that-look-similar-but-arent",
+    "title": "Words That Look Similar but Aren't",
+    "description": "Những từ tiếng Anh trông giống nhau nhưng có nghĩa và cách sử dụng hoàn toàn khác nhau.",
+    "categoryId": "common-mistakes",
+    "level": "intermediate",
+    "published": true
+  },
+  {
+    "id": "10",
+    "slug": "common-preposition-mistakes",
+    "title": "Common Preposition Mistakes",
+    "description": "Những lỗi giới từ phổ biến trong tiếng Anh và cách dùng đúng trong các cụm quen thuộc.",
+    "categoryId": "mistake",
+    "level": "intermediate",
+    "published": true
   }
 ]

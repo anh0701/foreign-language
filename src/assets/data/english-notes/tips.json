@@ -98,5 +98,77 @@
     "noteId": "7",
     "title": "Đừng quá phụ thuộc vào một quy tắc",
     "content": "Không phải mọi cách nói khác tiếng Việt đều là lỗi. Một câu có thể đúng ngữ pháp nhưng vẫn ít tự nhiên hơn một cách diễn đạt khác."
+  },
+  {
+    "id": "15",
+    "noteId": "8",
+    "title": "Học cả cụm, không chỉ học từ",
+    "content": "Đừng chỉ học wait = chờ. Hãy học luôn wait for someone. Cách này giúp bạn tránh nhiều lỗi khi đặt câu."
+  },
+  {
+    "id": "16",
+    "noteId": "8",
+    "title": "Chú ý collocation",
+    "content": "Một số từ thường đi với nhau theo cách cố định như have breakfast, make a decision và take a break."
+  },
+  {
+    "id": "17",
+    "noteId": "8",
+    "title": "Đừng coi từ điển là công cụ dịch câu",
+    "content": "Từ điển giúp bạn hiểu nghĩa của từ, nhưng không phải lúc nào cũng cho bạn biết cách kết hợp từ tự nhiên trong câu."
+  },
+  {
+    "id": "18",
+    "noteId": "8",
+    "title": "Hãy học cách người ta thực sự nói",
+    "content": "Khi học một câu mới, hãy chú ý cả cấu trúc, giới từ và những từ thường xuất hiện cùng nhau."
+  },
+  {
+    "id": "19",
+    "noteId": "9",
+    "title": "Đừng chỉ nhìn vào cách viết",
+    "content": "Hai từ có hình thức gần giống nhau không có nghĩa là chúng có thể thay thế cho nhau. Hãy học nghĩa và cách sử dụng của từng từ."
+  },
+  {
+    "id": "20",
+    "noteId": "9",
+    "title": "Học bằng cặp đối lập",
+    "content": "Khi gặp một từ dễ nhầm, hãy ghi nhớ nó cùng với từ dễ bị nhầm với nó. Ví dụ: sensitive = nhạy cảm, sensible = hợp lý."
+  },
+  {
+    "id": "21",
+    "noteId": "9",
+    "title": "Học qua ví dụ",
+    "content": "Một câu ví dụ thường giúp bạn hiểu cách dùng từ tốt hơn việc chỉ ghi nhớ nghĩa tiếng Việt."
+  },
+  {
+    "id": "22",
+    "noteId": "9",
+    "title": "Chú ý từ đi cùng",
+    "content": "Một số từ trở nên dễ phân biệt hơn khi đặt trong cụm quen thuộc, chẳng hạn economic problems, economical car, personal opinion và company personnel."
+  },
+  {
+    "id": "23",
+    "noteId": "10",
+    "title": "Học giới từ cùng với từ",
+    "content": "Đừng học interested = hứng thú một cách riêng lẻ. Hãy ghi nhớ cả cụm interested in."
+  },
+  {
+    "id": "24",
+    "noteId": "10",
+    "title": "Học theo cụm cố định",
+    "content": "Các cụm như good at, depend on, listen to và afraid of nên được ghi nhớ như một đơn vị."
+  },
+  {
+    "id": "25",
+    "noteId": "10",
+    "title": "Đừng dịch giới từ từ tiếng Việt",
+    "content": "Một giới từ trong tiếng Việt không nhất thiết tương ứng với cùng một giới từ trong tiếng Anh. Hãy học cách kết hợp tự nhiên của từng từ."
+  },
+  {
+    "id": "26",
+    "noteId": "10",
+    "title": "Chú ý những từ không cần giới từ",
+    "content": "Không phải động từ nào cũng cần giới từ. Ví dụ, discuss something và enter a room không cần thêm about hoặc to."
   }
 ]

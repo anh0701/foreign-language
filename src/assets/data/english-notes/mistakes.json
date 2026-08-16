@@ -121,5 +121,152 @@
     "wrong": "I very like this song.",
     "correct": "I really like this song.",
     "explanation": "Really có thể đứng trước động từ like. Very không được dùng theo cách này."
+  },
+  {
+    "id": "16",
+    "noteId": "8",
+    "wrong": "I very like this song.",
+    "correct": "I really like this song.",
+    "explanation": "Không dùng very trực tiếp trước động từ like."
+  },
+  {
+    "id": "17",
+    "noteId": "8",
+    "wrong": "I remember you.",
+    "correct": "I miss you.",
+    "explanation": "Remember = nhớ lại/nhớ rằng. Miss = nhớ một người khi họ không ở bên."
+  },
+  {
+    "id": "18",
+    "noteId": "8",
+    "wrong": "I am waiting you.",
+    "correct": "I am waiting for you.",
+    "explanation": "Wait đi với for khi nói chờ ai đó."
+  },
+  {
+    "id": "19",
+    "noteId": "8",
+    "wrong": "I have 20 years old.",
+    "correct": "I am 20 years old.",
+    "explanation": "Tiếng Anh dùng to be để nói tuổi."
+  },
+  {
+    "id": "20",
+    "noteId": "8",
+    "wrong": "I go to home.",
+    "correct": "I go home.",
+    "explanation": "Go home là cấu trúc cố định trong trường hợp nói về việc về nhà."
+  },
+  {
+    "id": "21",
+    "noteId": "8",
+    "wrong": "I go with motorbike.",
+    "correct": "I go by motorbike.",
+    "explanation": "By + phương tiện dùng để nói cách di chuyển."
+  },
+  {
+    "id": "22",
+    "noteId": "8",
+    "wrong": "I don't have that meaning.",
+    "correct": "I didn't mean that.",
+    "explanation": "Khi muốn nói mình không có ý như vậy, dùng mean thay vì dịch trực tiếp từ 'ý nghĩa'."
+  },
+  {
+    "id": "23",
+    "noteId": "9",
+    "wrong": "This car is very economic.",
+    "correct": "This car is very economical.",
+    "explanation": "Khi nói một thứ tiết kiệm nhiên liệu hoặc tiền bạc, dùng economical."
+  },
+  {
+    "id": "24",
+    "noteId": "9",
+    "wrong": "It was an historical event.",
+    "correct": "It was a historic event.",
+    "explanation": "Historic thường dùng khi muốn nhấn mạnh một sự kiện quan trọng hoặc đáng nhớ."
+  },
+  {
+    "id": "25",
+    "noteId": "9",
+    "wrong": "You need to be more sensitive.",
+    "correct": "You need to be more sensible.",
+    "explanation": "Nếu muốn nói ai đó cần suy nghĩ hợp lý hơn, dùng sensible. Sensitive có nghĩa là nhạy cảm."
+  },
+  {
+    "id": "26",
+    "noteId": "9",
+    "wrong": "I love classical movies.",
+    "correct": "I love classic movies.",
+    "explanation": "Classic thường dùng cho những bộ phim kinh điển. Classical chủ yếu liên quan đến nghệ thuật hoặc âm nhạc cổ điển."
+  },
+  {
+    "id": "27",
+    "noteId": "9",
+    "wrong": "The company has a lot of personal.",
+    "correct": "The company has a lot of personnel.",
+    "explanation": "Personnel là danh từ chỉ nhân viên. Personal là tính từ."
+  },
+  {
+    "id": "28",
+    "noteId": "9",
+    "wrong": "This app is very comfortable to use.",
+    "correct": "This app is very convenient to use.",
+    "explanation": "Convenient phù hợp hơn khi nói một ứng dụng hoặc công cụ dễ sử dụng, thuận tiện."
+  },
+  {
+    "id": "29",
+    "noteId": "10",
+    "wrong": "I'm interested on English.",
+    "correct": "I'm interested in English.",
+    "explanation": "Interested đi với giới từ in."
+  },
+  {
+    "id": "30",
+    "noteId": "10",
+    "wrong": "She's good in English.",
+    "correct": "She's good at English.",
+    "explanation": "Good at được dùng để nói về khả năng hoặc kỹ năng."
+  },
+  {
+    "id": "31",
+    "noteId": "10",
+    "wrong": "I listen music every day.",
+    "correct": "I listen to music every day.",
+    "explanation": "Listen cần giới từ to trước đối tượng được lắng nghe."
+  },
+  {
+    "id": "32",
+    "noteId": "10",
+    "wrong": "It depends of the situation.",
+    "correct": "It depends on the situation.",
+    "explanation": "Depend đi với on."
+  },
+  {
+    "id": "33",
+    "noteId": "10",
+    "wrong": "We arrived to London at noon.",
+    "correct": "We arrived in London at noon.",
+    "explanation": "Arrive in dùng với thành phố, quốc gia và khu vực lớn."
+  },
+  {
+    "id": "34",
+    "noteId": "10",
+    "wrong": "She is married with a doctor.",
+    "correct": "She is married to a doctor.",
+    "explanation": "Cấu trúc đúng là married to someone."
+  },
+  {
+    "id": "35",
+    "noteId": "10",
+    "wrong": "My answer is different with yours.",
+    "correct": "My answer is different from yours.",
+    "explanation": "Different from là cách dùng phổ biến và chuẩn."
+  },
+  {
+    "id": "36",
+    "noteId": "10",
+    "wrong": "I'm afraid from dogs.",
+    "correct": "I'm afraid of dogs.",
+    "explanation": "Afraid đi với of."
   }
 ]
