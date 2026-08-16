@@ -1,0 +1,38 @@
+[
+  {
+    "id": "example-001",
+    "noteId": "note-001",
+    "word": "talk",
+    "type": "correct",
+    "sentence": "I talked to my friend yesterday.",
+    "translation": "Hôm qua tôi đã nói chuyện với bạn mình.",
+    "explanation": "Talk to someone = nói chuyện với ai đó."
+  },
+  {
+    "id": "example-002",
+    "noteId": "note-001",
+    "word": "tell",
+    "type": "correct",
+    "sentence": "She told me the truth.",
+    "translation": "Cô ấy nói cho tôi sự thật.",
+    "explanation": "Tell thường đi với người nhận thông tin."
+  },
+  {
+    "id": "example-003",
+    "noteId": "note-001",
+    "word": "speak",
+    "type": "correct",
+    "sentence": "Can you speak English?",
+    "translation": "Bạn có nói được tiếng Anh không?",
+    "explanation": "Speak thường dùng khi nói về khả năng sử dụng một ngôn ngữ."
+  },
+  {
+    "id": "example-004",
+    "noteId": "note-001",
+    "word": "say",
+    "type": "correct",
+    "sentence": "She said that she was tired.",
+    "translation": "Cô ấy nói rằng cô ấy mệt.",
+    "explanation": "Say tập trung vào nội dung được nói."
+  }
+]

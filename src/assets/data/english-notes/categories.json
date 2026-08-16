@@ -1,0 +1,26 @@
+[
+  {
+    "id": "comparison",
+    "name": "Comparisons",
+    "description": "Compare words and grammar that are easy to confuse.",
+    "icon": "scale"
+  },
+  {
+    "id": "mistake",
+    "name": "Common Mistakes",
+    "description": "Common mistakes English learners often make.",
+    "icon": "alert"
+  },
+  {
+    "id": "grammar",
+    "name": "Grammar Notes",
+    "description": "Simple explanations for confusing grammar points.",
+    "icon": "book"
+  },
+  {
+    "id": "tip",
+    "name": "Tips & Tricks",
+    "description": "Useful tips to learn English more effectively.",
+    "icon": "lightbulb"
+  }
+]

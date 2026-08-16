@@ -1,0 +1,58 @@
+[
+  {
+    "id": "section-001",
+    "noteId": "note-001",
+    "type": "quick-answer",
+    "title": "Tổng quan",
+    "content": "Talk, tell, speak và say đều liên quan đến việc nói, nhưng chúng có cách sử dụng và cấu trúc khác nhau.",
+    "order": 1
+  },
+  {
+    "id": "section-002",
+    "noteId": "note-001",
+    "type": "explanation",
+    "title": "Talk",
+    "content": "Talk thường nhấn mạnh hành động trò chuyện hoặc trao đổi với ai đó.",
+    "order": 2
+  },
+  {
+    "id": "section-003",
+    "noteId": "note-001",
+    "type": "explanation",
+    "title": "Tell",
+    "content": "Tell thường dùng khi truyền đạt thông tin cho một người nào đó.",
+    "order": 3
+  },
+  {
+    "id": "section-004",
+    "noteId": "note-001",
+    "type": "explanation",
+    "title": "Speak",
+    "content": "Speak thường mang tính trang trọng hơn talk và thường được dùng khi nói về khả năng nói hoặc một ngôn ngữ.",
+    "order": 4
+  },
+  {
+    "id": "section-005",
+    "noteId": "note-001",
+    "type": "explanation",
+    "title": "Say",
+    "content": "Say tập trung vào điều được nói hoặc nội dung của lời nói.",
+    "order": 5
+  },
+  {
+    "id": "section-006",
+    "noteId": "note-001",
+    "type": "comparison",
+    "title": "So sánh nhanh",
+    "content": "Talk → trò chuyện. Tell → nói/cho ai biết. Speak → nói, phát biểu, khả năng ngôn ngữ. Say → nói ra điều gì.",
+    "order": 6
+  },
+  {
+    "id": "section-007",
+    "noteId": "note-001",
+    "type": "tip",
+    "title": "Cách ghi nhớ",
+    "content": "Tập trung vào cấu trúc: talk to someone, tell someone something, speak to someone, say something.",
+    "order": 7
+  }
+]

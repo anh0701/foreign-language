@@ -1,0 +1,10 @@
+[
+  {
+    "noteId": "note-001",
+    "relatedNoteId": "note-002"
+  },
+  {
+    "noteId": "note-001",
+    "relatedNoteId": "note-003"
+  }
+]
