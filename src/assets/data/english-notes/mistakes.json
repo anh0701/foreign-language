@@ -1,0 +1,23 @@
+[
+  {
+    "id": "mistake-001",
+    "noteId": "note-001",
+    "wrong": "She told that she was tired.",
+    "correct": "She said that she was tired.",
+    "explanation": "Tell thường cần có người nhận thông tin: tell someone something."
+  },
+  {
+    "id": "mistake-002",
+    "noteId": "note-001",
+    "wrong": "She said me the truth.",
+    "correct": "She told me the truth.",
+    "explanation": "Không dùng say + someone trực tiếp. Với người nhận thông tin, dùng tell."
+  },
+  {
+    "id": "mistake-003",
+    "noteId": "note-001",
+    "wrong": "I talked English.",
+    "correct": "I spoke English.",
+    "explanation": "Khi nói về khả năng sử dụng một ngôn ngữ, speak thường phù hợp hơn talk."
+  }
+]

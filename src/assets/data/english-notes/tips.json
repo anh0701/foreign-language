@@ -1,0 +1,20 @@
+[
+  {
+    "id": "tip-001",
+    "noteId": "note-001",
+    "title": "Nhớ bằng cấu trúc",
+    "content": "Talk to someone → Tell someone something → Speak to someone → Say something."
+  },
+  {
+    "id": "tip-002",
+    "noteId": "note-001",
+    "title": "Say và Tell",
+    "content": "Say tập trung vào điều được nói. Tell thường tập trung vào người được nói cho biết."
+  },
+  {
+    "id": "tip-003",
+    "noteId": "note-001",
+    "title": "Talk và Speak",
+    "content": "Talk thường thân mật và thiên về trò chuyện. Speak thường trang trọng hơn hoặc dùng khi nói về ngôn ngữ."
+  }
+]

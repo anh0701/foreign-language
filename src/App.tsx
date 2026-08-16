@@ -1,11 +1,13 @@
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import HomePage from './pages/HomePage';
-import WordGamePage from './pages/WordGamePage'; 
+import WordGamePage from './pages/WordGamePage';
 import FillInPage from './pages/FillInPage';
 import MatchingPage from './pages/MatchingPage';
 import FlashcardPage from './pages/FlashcardPage';
 import ShortStoryPage from './pages/ShortStoryPage';
 import QuoteBookPage from './pages/QuoteBookPage';
+import EnglishNotesPage from './pages/EnglishNotesPage';
+import EnglishNoteDetailPage from './pages/EnglishNoteDetailPage';
 
 function App() {
 
@@ -19,8 +21,17 @@ function App() {
           <Route path="/matching" element={<MatchingPage />} />
           <Route path="/flashcards" element={<FlashcardPage />} />
           <Route path="/short-stories" element={<ShortStoryPage />} />
-          <Route path="/quotes" element={<QuoteBookPage/>}/>
-          
+          <Route path="/quotes" element={<QuoteBookPage />} />
+          <Route
+            path="/english-notes"
+            element={<EnglishNotesPage />}
+          />
+
+          <Route
+            path="/english-notes/:slug"
+            element={<EnglishNoteDetailPage />}
+          />
+
           <Route path="*" element={<HomePage />} />
         </Routes>
       </div>
