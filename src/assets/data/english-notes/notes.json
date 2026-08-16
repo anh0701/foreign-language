@@ -52,5 +52,14 @@
     "categoryId": "comparison",
     "level": "intermediate",
     "published": true
+  },
+  {
+    "id": "7",
+    "slug": "common-english-mistakes",
+    "title": "Common English Mistakes",
+    "description": "Những lỗi tiếng Anh phổ biến mà người học thường mắc phải và cách sửa chúng.",
+    "categoryId": "mistake",
+    "level": "beginner",
+    "published": true
   }
 ]

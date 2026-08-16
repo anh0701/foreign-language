@@ -148,5 +148,35 @@
     "noteId": "6",
     "title": "Cách nhớ nhanh",
     "content": "Stationery có chữ e, có thể liên tưởng đến envelope và các vật dụng văn phòng."
+  },
+  {
+    "id": "17",
+    "noteId": "7",
+    "title": "Dịch từng từ từ tiếng Việt",
+    "content": "Một trong những nguyên nhân phổ biến nhất khiến câu tiếng Anh không tự nhiên là dịch từng từ từ tiếng Việt sang tiếng Anh. Một từ có thể có nghĩa đúng trong từ điển nhưng cách kết hợp với các từ khác lại hoàn toàn khác."
+  },
+  {
+    "id": "18",
+    "noteId": "7",
+    "title": "Dùng sai cụm động từ",
+    "content": "Một số động từ trong tiếng Anh đi với những cách kết hợp cố định. Ví dụ, người Việt có thể nói 'open the light' vì dịch trực tiếp từ 'bật đèn', nhưng tiếng Anh tự nhiên dùng 'turn on the light'."
+  },
+  {
+    "id": "19",
+    "noteId": "7",
+    "title": "Nhầm cảm xúc với tính chất",
+    "content": "Các tính từ kết thúc bằng -ed và -ing thường gây nhầm lẫn. -ed thường mô tả cảm xúc của người, trong khi -ing thường mô tả thứ gây ra cảm xúc đó."
+  },
+  {
+    "id": "20",
+    "noteId": "7",
+    "title": "Học từ riêng lẻ thay vì học theo cụm",
+    "content": "Biết nghĩa của từng từ chưa đủ để tạo ra một câu tự nhiên. Hãy học những cụm từ thường đi cùng nhau, chẳng hạn 'make a decision', 'take a break' hoặc 'have a conversation'."
+  },
+  {
+    "id": "21",
+    "noteId": "7",
+    "title": "Không phải câu nào cũng cần dịch sát tiếng Việt",
+    "content": "Một câu tiếng Anh tự nhiên đôi khi có cấu trúc rất khác với tiếng Việt. Thay vì cố tìm từng từ tương ứng, hãy tập trung vào cách người bản xứ thực sự diễn đạt ý đó."
   }
 ]

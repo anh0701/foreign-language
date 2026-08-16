@@ -65,5 +65,61 @@
     "wrong": "I bought some stationary.",
     "correct": "I bought some stationery.",
     "explanation": "Stationery dùng khi nói về văn phòng phẩm."
+  },
+  {
+    "id": "8",
+    "noteId": "7",
+    "wrong": "Open the light.",
+    "correct": "Turn on the light.",
+    "explanation": "Open thường dùng cho cửa, hộp, ứng dụng... Khi bật thiết bị, dùng turn on."
+  },
+  {
+    "id": "9",
+    "noteId": "7",
+    "wrong": "Close the light.",
+    "correct": "Turn off the light.",
+    "explanation": "Khi tắt thiết bị, dùng turn off."
+  },
+  {
+    "id": "10",
+    "noteId": "7",
+    "wrong": "I am boring.",
+    "correct": "I am bored.",
+    "explanation": "Bored mô tả cảm giác của người. 'I am boring' có nghĩa là 'Tôi là một người buồn tẻ'."
+  },
+  {
+    "id": "11",
+    "noteId": "7",
+    "wrong": "The movie is bored.",
+    "correct": "The movie is boring.",
+    "explanation": "Boring mô tả thứ gây ra cảm giác chán."
+  },
+  {
+    "id": "12",
+    "noteId": "7",
+    "wrong": "Can you borrow me your pen?",
+    "correct": "Can you lend me your pen?",
+    "explanation": "Borrow = mượn từ người khác. Lend = cho người khác mượn."
+  },
+  {
+    "id": "13",
+    "noteId": "7",
+    "wrong": "I suggest you to take a taxi.",
+    "correct": "I suggest taking a taxi.",
+    "explanation": "Suggest không dùng trực tiếp với cấu trúc suggest + someone + to V."
+  },
+  {
+    "id": "14",
+    "noteId": "7",
+    "wrong": "I will go back my home.",
+    "correct": "I will go back home.",
+    "explanation": "Home có thể được dùng trực tiếp sau go/come/get/go back mà không cần thêm my."
+  },
+  {
+    "id": "15",
+    "noteId": "7",
+    "wrong": "I very like this song.",
+    "correct": "I really like this song.",
+    "explanation": "Really có thể đứng trước động từ like. Very không được dùng theo cách này."
   }
 ]

@@ -118,5 +118,56 @@
     "translation": "Tôi mua một số văn phòng phẩm cho trường.",
     "explanation": "Stationery = văn phòng phẩm.",
     "order": 2
+  },
+  {
+    "id": "12",
+    "noteId": "7",
+    "sentence": "Turn on the light.",
+    "translation": "Bật đèn lên.",
+    "explanation": "Tiếng Anh dùng turn on khi nói về việc bật thiết bị.",
+    "order": 1
+  },
+  {
+    "id": "13",
+    "noteId": "7",
+    "sentence": "Turn off the light.",
+    "translation": "Tắt đèn đi.",
+    "explanation": "Dùng turn off để nói về việc tắt thiết bị.",
+    "order": 2
+  },
+  {
+    "id": "14",
+    "noteId": "7",
+    "sentence": "I am bored.",
+    "translation": "Tôi cảm thấy chán.",
+    "explanation": "Bored mô tả cảm xúc của người."
+  },
+  {
+    "id": "15",
+    "noteId": "7",
+    "sentence": "This movie is boring.",
+    "translation": "Bộ phim này chán.",
+    "explanation": "Boring mô tả thứ gây ra cảm giác chán."
+  },
+  {
+    "id": "16",
+    "noteId": "7",
+    "sentence": "I left my phone at home.",
+    "translation": "Tôi để quên điện thoại ở nhà.",
+    "explanation": "Trong ngữ cảnh này, left tự nhiên hơn cách dịch trực tiếp 'forgot my phone at home'."
+  },
+  {
+    "id": "17",
+    "noteId": "7",
+    "sentence": "I suggest taking a taxi.",
+    "translation": "Tôi đề nghị đi taxi.",
+    "explanation": "Suggest có thể đi với V-ing."
+  },
+  {
+    "id": "18",
+    "noteId": "7",
+    "sentence": "I need to take a break.",
+    "translation": "Tôi cần nghỉ một chút.",
+    "explanation": "Tiếng Anh thường dùng cụm take a break thay vì dịch từng từ."
   }
 ]
