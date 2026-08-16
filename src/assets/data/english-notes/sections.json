@@ -54,5 +54,99 @@
     "title": "Cách ghi nhớ",
     "content": "Tập trung vào cấu trúc: talk to someone, tell someone something, speak to someone, say something.",
     "order": 7
+  },
+  {
+    "id": "2",
+    "noteId": "2",
+    "title": "Affect",
+    "content": "Affect thường được dùng như một động từ, mang nghĩa tác động hoặc ảnh hưởng đến ai đó hoặc điều gì đó."
+  },
+  {
+    "id": "3",
+    "noteId": "2",
+    "title": "Effect",
+    "content": "Effect thường được dùng như một danh từ, mang nghĩa kết quả hoặc tác động do một nguyên nhân tạo ra."
+  },
+  {
+    "id": "4",
+    "noteId": "2",
+    "title": "Cách nhớ nhanh",
+    "content": "Affect thường là hành động ảnh hưởng, còn effect thường là kết quả hoặc tác động."
+  },
+
+  {
+    "id": "5",
+    "noteId": "3",
+    "title": "Accept",
+    "content": "Accept là động từ, có nghĩa là chấp nhận, đồng ý nhận hoặc tiếp nhận một điều gì đó."
+  },
+  {
+    "id": "6",
+    "noteId": "3",
+    "title": "Except",
+    "content": "Except mang nghĩa ngoại trừ hoặc loại trừ một người hay một vật khỏi một nhóm."
+  },
+  {
+    "id": "7",
+    "noteId": "3",
+    "title": "Cách nhớ nhanh",
+    "content": "Accept = chấp nhận. Except = ngoại trừ."
+  },
+
+  {
+    "id": "8",
+    "noteId": "4",
+    "title": "Advice",
+    "content": "Advice là danh từ không đếm được, có nghĩa là lời khuyên hoặc sự tư vấn."
+  },
+  {
+    "id": "9",
+    "noteId": "4",
+    "title": "Advise",
+    "content": "Advise là động từ, có nghĩa là khuyên hoặc đưa ra lời khuyên."
+  },
+  {
+    "id": "10",
+    "noteId": "4",
+    "title": "Cách nhớ nhanh",
+    "content": "Advice là lời khuyên, còn advise là hành động đưa ra lời khuyên."
+  },
+
+  {
+    "id": "11",
+    "noteId": "5",
+    "title": "Borrow",
+    "content": "Borrow có nghĩa là mượn một thứ gì đó từ người khác và dự định trả lại."
+  },
+  {
+    "id": "12",
+    "noteId": "5",
+    "title": "Lend",
+    "content": "Lend có nghĩa là cho người khác mượn một thứ gì đó và người đó sẽ trả lại."
+  },
+  {
+    "id": "13",
+    "noteId": "5",
+    "title": "Cách nhớ nhanh",
+    "content": "Borrow = mượn. Lend = cho mượn."
+  },
+
+  {
+    "id": "14",
+    "noteId": "6",
+    "title": "Stationary",
+    "content": "Stationary là tính từ, có nghĩa là đứng yên hoặc không di chuyển."
+  },
+  {
+    "id": "15",
+    "noteId": "6",
+    "title": "Stationery",
+    "content": "Stationery là danh từ chỉ văn phòng phẩm như giấy, bút và phong bì."
+  },
+  {
+    "id": "16",
+    "noteId": "6",
+    "title": "Cách nhớ nhanh",
+    "content": "Stationery có chữ e, có thể liên tưởng đến envelope và các vật dụng văn phòng."
   }
 ]

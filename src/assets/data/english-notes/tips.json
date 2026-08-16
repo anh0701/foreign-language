@@ -16,5 +16,63 @@
     "noteId": "note-001",
     "title": "Talk và Speak",
     "content": "Talk thường thân mật và thiên về trò chuyện. Speak thường trang trọng hơn hoặc dùng khi nói về ngôn ngữ."
+  },
+  {
+    "id": "2",
+    "noteId": "2",
+    "title": "Affect = Action",
+    "content": "Hãy liên tưởng chữ A trong Affect với Action. Affect thường là động từ."
+  },
+  {
+    "id": "3",
+    "noteId": "2",
+    "title": "Effect = Result",
+    "content": "Effect thường nói về kết quả hoặc tác động được tạo ra."
+  },
+
+  {
+    "id": "4",
+    "noteId": "3",
+    "title": "Accept = chấp nhận",
+    "content": "Accept dùng khi bạn đồng ý nhận hoặc chấp nhận điều gì đó."
+  },
+  {
+    "id": "5",
+    "noteId": "3",
+    "title": "Except = ngoại trừ",
+    "content": "Except dùng để loại một người hoặc vật ra khỏi một nhóm."
+  },
+
+  {
+    "id": "6",
+    "noteId": "4",
+    "title": "Advice là danh từ",
+    "content": "Advice là lời khuyên. Không dùng an advice vì advice là danh từ không đếm được."
+  },
+  {
+    "id": "7",
+    "noteId": "4",
+    "title": "Advise là động từ",
+    "content": "Advise là hành động khuyên ai đó."
+  },
+
+  {
+    "id": "8",
+    "noteId": "5",
+    "title": "Borrow = mượn",
+    "content": "Bạn borrow something from someone."
+  },
+  {
+    "id": "9",
+    "noteId": "5",
+    "title": "Lend = cho mượn",
+    "content": "Bạn lend something to someone."
+  },
+
+  {
+    "id": "10",
+    "noteId": "6",
+    "title": "Stationery có E",
+    "content": "Hãy nhớ chữ E trong stationery bằng cách liên tưởng đến envelope."
   }
 ]

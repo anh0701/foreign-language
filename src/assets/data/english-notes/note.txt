@@ -1,0 +1,15 @@
+notes
+  │
+  ├── categoryId ──────→ categories.id
+  │
+  ├── sections.noteId ──→ notes.id
+  ├── examples.noteId ──→ notes.id
+  ├── mistakes.noteId ──→ notes.id
+  ├── tips.noteId ──────→ notes.id
+  │
+  ├── note-tags.noteId ─→ notes.id
+  │       └── tagId ────→ tags.id
+  │
+  └── related-notes
+          ├── noteId ─────→ notes.id
+          └── relatedNoteId → notes.id

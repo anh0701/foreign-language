@@ -6,5 +6,35 @@
   {
     "noteId": "note-001",
     "relatedNoteId": "note-003"
+  },
+  {
+    "id": "2",
+    "noteId": "2",
+    "relatedNoteId": "3"
+  },
+  {
+    "id": "3",
+    "noteId": "2",
+    "relatedNoteId": "4"
+  },
+  {
+    "id": "4",
+    "noteId": "3",
+    "relatedNoteId": "4"
+  },
+  {
+    "id": "5",
+    "noteId": "3",
+    "relatedNoteId": "5"
+  },
+  {
+    "id": "6",
+    "noteId": "4",
+    "relatedNoteId": "5"
+  },
+  {
+    "id": "7",
+    "noteId": "5",
+    "relatedNoteId": "6"
   }
 ]
