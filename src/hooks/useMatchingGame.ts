@@ -1,74 +1,184 @@
 import { useState, useEffect, useCallback } from 'react';
 
-interface WordPair {
+export interface WordPair {
+  id: string;
   en: string;
   vi: string;
 }
 
 export const useMatchingGame = (jsonPath: string) => {
-  const [allWords, setAllWords] = useState<WordPair[]>([]);
-  const [enColumn, setEnColumn] = useState<string[]>([]);
-  const [viColumn, setViColumn] = useState<string[]>([]);
-  const [selectedEn, setSelectedEn] = useState<string | null>(null);
-  const [selectedVi, setSelectedVi] = useState<string | null>(null);
-  const [matchedPairs, setMatchedPairs] = useState<string[]>([]); 
-  const [wrongPair, setWrongPair] = useState<{en: string, vi: string} | null>(null);
+
+  // Giữ nguyên WordPair thay vì chỉ giữ string
+  const [enColumn, setEnColumn] = useState<WordPair[]>([]);
+  const [viColumn, setViColumn] = useState<WordPair[]>([]);
+
+  const [selectedEn, setSelectedEn] =
+    useState<WordPair | null>(null);
+
+  const [selectedVi, setSelectedVi] =
+    useState<WordPair | null>(null);
+
+  // Chỉ lưu ID của những cặp đã match
+  const [matchedPairs, setMatchedPairs] =
+    useState<string[]>([]);
+
+  // Lưu ID của word đang sai
+  const [wrongPair, setWrongPair] = useState<{
+    enId: string;
+    viId: string;
+  } | null>(null);
+
   const [loading, setLoading] = useState(true);
+
+  const shuffle = <T,>(array: T[]): T[] => {
+    const result = [...array];
+
+    for (let i = result.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+
+      [result[i], result[j]] = [
+        result[j],
+        result[i],
+      ];
+    }
+
+    return result;
+  };
 
   const initGame = useCallback(async () => {
     try {
       setLoading(true);
-      const res = await fetch(jsonPath);
-      const data: WordPair[] = await res.json();
-      setAllWords(data);
 
-      const shuffled = [...data].sort(() => Math.random() - 0.5).slice(0, 5);
-      
-      setEnColumn(shuffled.map(item => item.en).sort(() => Math.random() - 0.5));
-      setViColumn(shuffled.map(item => item.vi).sort(() => Math.random() - 0.5));
+      const res = await fetch(jsonPath);
+
+      if (!res.ok) {
+        throw new Error(
+          `Không thể tải file ${jsonPath}`
+        );
+      }
+
+      const data: WordPair[] = await res.json();
+
+      // Chọn 5 cặp cho round.
+      // Mỗi WordPair giữ nguyên id.
+
+      const shuffled = shuffle(data).slice(0, 5);
+
+      //  Hai column chứa cùng 5 WordPair, nhưng thứ tự khác nhau.
+
+      setEnColumn(shuffle(shuffled));
+      setViColumn(shuffle(shuffled));
+
       setMatchedPairs([]);
       setSelectedEn(null);
       setSelectedVi(null);
+      setWrongPair(null);
     } catch (error) {
-      console.error("Lỗi tải dữ và khởi tạo game:", error);
+      console.error(
+        'Lỗi tải dữ và khởi tạo game:',
+        error
+      );
     } finally {
       setLoading(false);
     }
   }, [jsonPath]);
 
-  useEffect(() => { initGame(); }, [initGame]);
+  useEffect(() => {
+    initGame();
+  }, [initGame]);
 
-  const handleSelect = (word: string, type: 'en' | 'vi') => {
-    if (matchedPairs.includes(word) || (wrongPair && (wrongPair.en === word || wrongPair.vi === word))) return;
 
-    if (type === 'en') setSelectedEn(word);
-    else setSelectedVi(word);
+  const handleSelect = (
+    word: WordPair,
+    type: 'en' | 'vi'
+  ) => {
+
+    if (matchedPairs.includes(word.id)) {
+      return;
+    }
+
+    if (
+      wrongPair &&
+      (
+        wrongPair.enId === word.id ||
+        wrongPair.viId === word.id
+      )
+    ) {
+      return;
+    }
+
+    if (type === 'en') {
+      setSelectedEn(word);
+    } else {
+      setSelectedVi(word);
+    }
   };
 
   useEffect(() => {
-    if (selectedEn && selectedVi) {
-      const isMatch = allWords.some(item => item.en === selectedEn && item.vi === selectedVi);
+    if (!selectedEn || !selectedVi) {
+      return;
+    }
 
-      if (isMatch) {
-        setMatchedPairs(prev => [...prev, selectedEn, selectedVi]);
+    const isMatch =
+      selectedEn.id === selectedVi.id;
+
+    if (isMatch) {
+
+      // Chỉ lưu 1 ID cho 1 cặp.
+
+      setMatchedPairs(prev => [
+        ...prev,
+        selectedEn.id,
+      ]);
+
+      setSelectedEn(null);
+      setSelectedVi(null);
+    } else {
+
+      // Sai → lưu ID của hai item.
+
+      setWrongPair({
+        enId: selectedEn.id,
+        viId: selectedVi.id,
+      });
+
+      const timer = setTimeout(() => {
+        setWrongPair(null);
         setSelectedEn(null);
         setSelectedVi(null);
-      } else {
-        setWrongPair({ en: selectedEn, vi: selectedVi });
-        setTimeout(() => {
-          setWrongPair(null);
-          setSelectedEn(null);
-          setSelectedVi(null);
-        }, 500);
-      }
+      }, 500);
+
+      return () => clearTimeout(timer);
     }
-  }, [selectedEn, selectedVi, allWords]);
+  }, [selectedEn, selectedVi]);
 
   useEffect(() => {
-    if (matchedPairs.length === 10 && matchedPairs.length > 0) {
-      setTimeout(() => initGame(), 1000);
+
+    if (
+      matchedPairs.length === 5 &&
+      matchedPairs.length > 0
+    ) {
+      const timer = setTimeout(() => {
+        initGame();
+      }, 1000);
+
+      return () => clearTimeout(timer);
     }
   }, [matchedPairs, initGame]);
 
-  return { enColumn, viColumn, selectedEn, selectedVi, matchedPairs, wrongPair, loading, handleSelect, initGame };
+  return {
+    enColumn,
+    viColumn,
+
+    selectedEn,
+    selectedVi,
+
+    matchedPairs,
+    wrongPair,
+
+    loading,
+
+    handleSelect,
+    initGame,
+  };
 };
