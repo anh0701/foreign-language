@@ -1,0 +1,29 @@
+{
+  "id": 43,
+  "page": 43,
+  "book": "Story Learning",
+  "title": "Nhiều quá",
+  "subtitle": "Too much",
+  "paragraphs": [
+    {
+      "segments": [
+        {
+          "vi": "Quan tâm nhiều quá",
+          "en": "If you care too much"
+        },
+        {
+          "vi": "thì mất giá",
+          "en": "you will lose value,"
+        },
+        {
+          "vi": "im lặng quá",
+          "en": "and if you are too silent"
+        },
+        {
+          "vi": "thì mất nhau",
+          "en": "you will lose each other."
+        }
+      ]
+    }
+  ]
+}

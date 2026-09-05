@@ -1,0 +1,37 @@
+{
+  "id": 45,
+  "page": 45,
+  "book": "Story Learning",
+  "title": "Trong tình yêu",
+  "subtitle": "In love",
+  "paragraphs": [
+    {
+      "segments": [
+        {
+          "vi": "Trong tình yêu",
+          "en": "In love"
+        },
+        {
+          "vi": "có hai điều",
+          "en": "there are two kinds"
+        },
+        {
+          "vi": "hối tiếc nhất",
+          "en": "of biggest regrets:"
+        },
+        {
+          "vi": "Yêu sai người",
+          "en": "Loving the wrong person."
+        },
+        {
+          "vi": "Và yêu đúng người",
+          "en": "And loving the right person"
+        },
+        {
+          "vi": "nhưng sai cách",
+          "en": "in the wrong way."
+        }
+      ]
+    }
+  ]
+}

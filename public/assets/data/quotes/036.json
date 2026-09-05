@@ -2,14 +2,30 @@
   "id": 36,
   "page": 36,
   "book": "Story Learning",
-  "title": "",
-  "subtitle": "Hope",
+  "title": "Đừng bỏ cuộc",
+  "subtitle": "Don't give up",
   "paragraphs": [
     {
         "segments": [
           {
-            "vi": "",
-            "en": ""
+            "vi": "Tương lai của bạn",
+            "en": "Your future"
+          },
+          {
+            "vi": "cần bạn",
+            "en": "needs you,"
+          },
+          {
+            "vi": "nhưng quá khứ của bạn",
+            "en": "but you past"
+          },
+          {
+            "vi": "thì không",
+            "en": "doesn't."
+          },
+          {
+            "vi": "Đừng bỏ cuộc nhé",
+            "en": "Don't give up."
           }
         ]
     }

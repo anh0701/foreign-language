@@ -2,14 +2,82 @@
   "id": 35,
   "page": 35,
   "book": "Story Learning",
-  "title": "",
-  "subtitle": "Hope",
+  "title": "Bố",
+  "subtitle": "Dad",
   "paragraphs": [
     {
         "segments": [
           {
-            "vi": "",
-            "en": ""
+            "vi": "Bố",
+            "en": "Dad."
+          },
+          {
+            "vi": "Đây không chỉ là",
+            "en": "This is not just"
+          },
+          {
+            "vi": "một từ ngữ",
+            "en": "a word."
+          },
+          {
+            "vi": "Ý nghĩa của từ bố",
+            "en": "The meaning of dad"
+          },
+          {
+            "vi": "là tình yêu vô điều kiện",
+            "en": "is unconditional love,"
+          },
+          {
+            "vi": "chăm sóc",
+            "en": "care,"
+          },
+          {
+            "vi": "bảo vệ",
+            "en": "protection"
+          },
+          {
+            "vi": "và sức mạnh",
+            "en": "and strength."
+          },
+          {
+            "vi": "Và bố thân yêu à",
+            "en": "And dear dad,"
+          },
+          {
+            "vi": "tất cả những từ ngữ đẹp đẽ",
+            "en": "all the beautiful words"
+          },
+          {
+            "vi": "trong vũ trụ",
+            "en": "in the universe"
+          },
+          {
+            "vi": "đều không đủ",
+            "en": "are not enough"
+          },
+          {
+            "vi": "để diễn tả tình yêu của con",
+            "en": "to express my love"
+          },
+          {
+            "vi": "dành cho bố",
+            "en": "for you."
+          },
+          {
+            "vi": "Con không luôn luôn nói điều này",
+            "en": "I don't say always,"
+          },
+          {
+            "vi": "nhưng thực sự con rất sợ",
+            "en": "but I am really afraid of"
+          },
+          {
+            "vi": "mất bố",
+            "en": "losing you."
+          },
+          {
+            "vi": "Hãy bên con mãi mãi nhé",
+            "en": "Stay with me forever."
           }
         ]
     }
