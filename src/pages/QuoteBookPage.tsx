@@ -97,7 +97,7 @@ export default function QuoteBookPage() {
                             Loading...
                         </div>
                     ) : (
-                        <div className="flex min-h-screen items-center justify-center px-4 py-16">
+                        <div className="min-h-screen overflow-hidden bg-stone-200 flex items-center justify-center">
                             <BookPage
                                 quote={currentQuote}
                                 onBack={backToContents}
