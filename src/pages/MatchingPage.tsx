@@ -8,7 +8,7 @@ const MatchingPage: React.FC = () => {
   const {
     enColumn, viColumn, selectedEn, selectedVi,
     matchedPairs, wrongPair, loading, handleSelect, initGame
-  } = useMatchingGame('assets/data/words.json');
+  } = useMatchingGame('assets/data/words-with-id.json');
 
   if (loading) return <div className="flex justify-center items-center h-screen italic text-slate-500">Đang chuẩn bị các cặp từ...</div>;
 
