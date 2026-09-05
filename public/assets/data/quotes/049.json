@@ -1,0 +1,29 @@
+{
+  "id": 49,
+  "page": 49,
+  "book": "Story Learning",
+  "title": "Người đàn ông đích thực",
+  "subtitle": "Real man",
+  "paragraphs": [
+    {
+      "segments": [
+        {
+          "vi": "Một người đàn ông đích thực",
+          "en": "A real man"
+        },
+        {
+          "vi": "không yêu một ngàn cô gái",
+          "en": "doesn't love a thousand girls."
+        },
+        {
+          "vi": "Anh ấy yêu một cô gái",
+          "en": "He loves a girl"
+        },
+        {
+          "vi": "theo cả ngàn cách",
+          "en": "in a thousand ways."
+        }
+      ]
+    }
+  ]
+}

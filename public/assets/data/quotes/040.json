@@ -1,0 +1,41 @@
+{
+  "id": 40,
+  "page": 40,
+  "book": "Story Learning",
+  "title": "Đúng, tôi độc thân",
+  "subtitle": "Yes, I'm single",
+  "paragraphs": [
+    {
+        "segments": [
+          {
+            "vi": "Nhưng tôi không cần",
+            "en": "But I don't need"
+          },
+          {
+            "vi": "một mối quan hệ tạm thời",
+            "en": "a temporary relationship."
+          },
+          {
+            "vi": "Tôi đang tìm kiếm",
+            "en": "I'm searching for"
+          },
+          {
+            "vi": "một người bền vững",
+            "en": "a permanent person"
+          },
+          {
+            "vi": "có thể thấu hiểu",
+            "en": "who would understand"
+          },
+          {
+            "vi": "sự im lặng của tôi",
+            "en": "my silence"
+          },
+          {
+            "vi": "hơn những lời nói của tôi",
+            "en": "better than my words."
+          }
+        ]
+    }
+  ]
+}

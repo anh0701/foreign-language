@@ -21,6 +21,19 @@ export default function CoverPage({ onOpen }: Props) {
                 Story Learning
             </h1>
 
+            <p className="
+                mt-6
+                max-w-md
+                text-center
+                font-serif
+                text-sm
+                leading-relaxed
+                text-stone-500
+            ">
+                A collection of meaningful quotes, stories, and thoughts
+                gathered from different places around the world.
+            </p>
+
             <button
                 className="
                     mt-14

@@ -1,0 +1,41 @@
+{
+  "id": 42,
+  "page": 42,
+  "book": "Story Learning",
+  "title": "Tâm lý học nói rằng:",
+  "subtitle": "Psychology says:",
+  "paragraphs": [
+    {
+      "segments": [
+        {
+          "vi": "Đôi khi",
+          "en": "Sometimes"
+        },
+        {
+          "vi": "trái tim bạn",
+          "en": "your heart"
+        },
+        {
+          "vi": "cần thêm thời gian",
+          "en": "needs more time"
+        },
+        {
+          "vi": "để chấp nhận",
+          "en": "to accept"
+        },
+        {
+          "vi": "những gì lý trí",
+          "en": "what your mind"
+        },
+        {
+          "vi": "đã biết rõ rồi",
+          "en": "already knows."
+        },
+        {
+          "vi": "Hãy cho nó thời gian nhé",
+          "en": "Give it that time."
+        }
+      ]
+    }
+  ]
+}

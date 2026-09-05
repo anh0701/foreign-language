@@ -1,0 +1,41 @@
+{
+  "id": 41,
+  "page": 41,
+  "book": "Story Learning",
+  "title": "Có 2 kiểu người",
+  "subtitle": "There are 2 types of people",
+  "paragraphs": [
+    {
+      "segments": [
+        {
+          "vi": "Có 2 kiểu người",
+          "en": "There are 2 types of people"
+        },
+        {
+          "vi": "bạn sẽ gặp",
+          "en": "you will meet:"
+        },
+        {
+          "vi": "1. Những người rời bỏ bạn",
+          "en": "People who leave you"
+        },
+        {
+          "vi": "đột ngột",
+          "en": "suddenly"
+        },
+        {
+          "vi": "mà không hề sợ hãi lý do nào",
+          "en": "without any fear of reason."
+        },
+        {
+          "vi": "2. Những người không rời bỏ bạn",
+          "en": "People who don't leave you"
+        },
+        {
+          "vi": "sau mọi lý do",
+          "en": "after having all the reason."
+        }
+      ]
+    }
+  ]
+}

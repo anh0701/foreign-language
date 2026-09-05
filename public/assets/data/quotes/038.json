@@ -1,0 +1,29 @@
+{
+  "id": 38,
+  "page": 38,
+  "book": "Story Learning",
+  "title": "Thế giới của tôi",
+  "subtitle": "My world",
+  "paragraphs": [
+    {
+        "segments": [
+          {
+            "vi": "Trong thế giới của tôi",
+            "en": "In my world,"
+          },
+          {
+            "vi": "tìm đâu cũng thấy cậu",
+            "en": "you can be found everywhere."
+          },
+          {
+            "vi": "Trong thế giới của cậu",
+            "en": "In your world,"
+          },
+          {
+            "vi": "tìm mãi chẳng thấy tôi",
+            "en": "I am nowhere to be found."
+          }
+        ]
+    }
+  ]
+}
