@@ -1,0 +1,37 @@
+{
+  "id": 39,
+  "page": 39,
+  "book": "Story Learning",
+  "title": "Lựa chọn",
+  "subtitle": "Choose",
+  "paragraphs": [
+    {
+        "segments": [
+          {
+            "vi": "Đừng chọn",
+            "en": "Don't choose"
+          },
+          {
+            "vi": "người đẹp nhất",
+            "en": "the most beautiful person"
+          },
+          {
+            "vi": "trên thế giới",
+            "en": "in the world,"
+          },
+          {
+            "vi": "hãy chọn người",
+            "en": "choose the person"
+          },
+          {
+            "vi": "khiến bạn có",
+            "en": "that makes you have"
+          },
+          {
+            "vi": "một thế giới đẹp nhất",
+            "en": "the most beautiful world."
+          }
+        ]
+    }
+  ]
+}

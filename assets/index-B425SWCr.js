@@ -35,7 +35,15 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
                 items-center
                 justify-center
                 shadow-xl
-            `,children:[(0,j.jsx)(`h1`,{className:`text-5xl font-serif text-center`,children:`Story Learning`}),(0,j.jsx)(`button`,{className:`
+            `,children:[(0,j.jsx)(`h1`,{className:`text-5xl font-serif text-center`,children:`Story Learning`}),(0,j.jsx)(`p`,{className:`
+                mt-6
+                max-w-md
+                text-center
+                font-serif
+                text-sm
+                leading-relaxed
+                text-stone-500
+            `,children:`A collection of meaningful quotes, stories, and thoughts gathered from different places around the world.`}),(0,j.jsx)(`button`,{className:`
                     mt-14
                     px-7
                     py-3

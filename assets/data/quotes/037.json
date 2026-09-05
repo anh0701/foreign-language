@@ -1,0 +1,49 @@
+{
+  "id": 37,
+  "page": 37,
+  "book": "Story Learning",
+  "title": "Một sự thật về phụ nữ",
+  "subtitle": "A fact about women",
+  "paragraphs": [
+    {
+        "segments": [
+          {
+            "vi": "Khi một người phụ nữ nói rằng",
+            "en": "When a woman says,"
+          },
+          {
+            "vi": "`Chia tay đi`",
+            "en": "Let's break up,"
+          },
+          {
+            "vi": "nghĩa là",
+            "en": "that means"
+          },
+          {
+            "vi": "cô ấy vẫn chưa chia tay",
+            "en": "she hasn't broken up yet."
+          },
+          {
+            "vi": "Khi họ không nói gì thêm",
+            "en": "When they don't say anything more"
+          },
+          {
+            "vi": "và rời đi",
+            "en": "and leave,"
+          },
+          {
+            "vi": "đó là lúc thực sự kết thúc",
+            "en": "that's when really ends."
+          },
+          {
+            "vi": "Nhưng rất ít đàn ông",
+            "en": "But very few men"
+          },
+          {
+            "vi": "hiểu được điều này",
+            "en": "understand this."
+          }
+        ]
+    }
+  ]
+}
