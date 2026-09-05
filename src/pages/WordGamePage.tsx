@@ -7,7 +7,7 @@ export default function WordGamePage() {
   const {
     currentWord, shuffledLetters, selectedLetters,
     result, loading, chooseLetter, nextRound
-  } = useWordGame('assets/data/words.json');
+  } = useWordGame('assets/data/words-with-id.json');
 
   if (loading) return (
     <div className="flex justify-center items-center h-screen italic text-slate-500">
