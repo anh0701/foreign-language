@@ -36,29 +36,71 @@ export default function WordGamePage() {
             "{currentWord?.vi}"
           </h2>
 
-          <div className="flex flex-wrap gap-2 justify-center mb-12">
+          <div className="flex flex-wrap gap-x-6 md:gap-x-8 gap-y-3 justify-center mb-12">
             {(() => {
               let letterIndex = 0;
 
-              return currentWord?.en.split('').map((char, i) => {
-                // nếu là space → chỉ render khoảng cách
-                if (char === ' ') {
-                  return <div key={i} className="w-4 md:w-6" />;
-                }
+              const wordColors = [
+                {
+                  active: 'border-blue-500 text-blue-600',
+                  inactive: 'border-blue-200 bg-blue-50/30 text-transparent',
+                },
+                {
+                  active: 'border-purple-500 text-purple-600',
+                  inactive: 'border-purple-200 bg-purple-50/30 text-transparent',
+                },
+                {
+                  active: 'border-emerald-500 text-emerald-600',
+                  inactive: 'border-emerald-200 bg-emerald-50/30 text-transparent',
+                },
+                {
+                  active: 'border-orange-500 text-orange-600',
+                  inactive: 'border-orange-200 bg-orange-50/30 text-transparent',
+                },
+                {
+                  active: 'border-pink-500 text-pink-600',
+                  inactive: 'border-pink-200 bg-pink-50/30 text-transparent',
+                },
+                {
+                  active: 'border-cyan-500 text-cyan-600',
+                  inactive: 'border-cyan-200 bg-cyan-50/30 text-transparent',
+                },
+                {
+                  active: 'border-amber-500 text-amber-600',
+                  inactive: 'border-amber-200 bg-amber-50/30 text-transparent',
+                },
+                {
+                  active: 'border-indigo-500 text-indigo-600',
+                  inactive: 'border-indigo-200 bg-indigo-50/30 text-transparent',
+                },
+              ];
 
-                const selected = selectedLetters[letterIndex];
-                letterIndex++;
+              return currentWord?.en.split(' ').map((word, wordIndex) => {
+                const color = wordColors[wordIndex % wordColors.length];
 
                 return (
-                  <div
-                    key={i}
-                    className={`w-10 h-12 md:w-12 md:h-14 border-b-4 flex items-center justify-center text-2xl font-black transition-all duration-300
-                      ${selected
-                        ? 'border-blue-500 text-slate-800'
-                        : 'border-slate-100 bg-slate-50/50 text-transparent'
-                      }`}
-                  >
-                    {selected || ""}
+                  <div key={wordIndex} className="flex gap-2 md:gap-3">
+                    {word.split('').map(() => {
+                      const selected = selectedLetters[letterIndex];
+                      const currentIndex = letterIndex;
+                      letterIndex++;
+
+                      return (
+                        <div
+                          key={`${wordIndex}-${currentIndex}`}
+                          className={`
+                          w-10 h-12 md:w-12 md:h-14
+                          border-b-4
+                          flex items-center justify-center
+                          text-2xl font-black
+                          transition-all duration-300
+                          ${selected ? color.active : color.inactive}
+                        `}
+                        >
+                          {selected || ''}
+                        </div>
+                      );
+                    })}
                   </div>
                 );
               });
