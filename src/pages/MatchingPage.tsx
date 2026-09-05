@@ -44,7 +44,7 @@ const MatchingPage: React.FC = () => {
         <div className="grid grid-cols-2 gap-8 md:gap-16">
 
           <div>
-            <h2 className="text-xs font-black uppercase tracking-widest text-slate-400 mb-6 text-center">English</h2>
+            <h2 className="text-xs font-black uppercase tracking-widest text-slate-400 mb-6 text-center">Word</h2>
             {enColumn.map(word => (
               <button 
                 key={word} 
@@ -58,7 +58,7 @@ const MatchingPage: React.FC = () => {
           </div>
 
           <div>
-            <h2 className="text-xs font-black uppercase tracking-widest text-slate-400 mb-6 text-center">Tiếng Việt</h2>
+            <h2 className="text-xs font-black uppercase tracking-widest text-slate-400 mb-6 text-center">Meaning</h2>
             {viColumn.map(word => (
               <button 
                 key={word} 
