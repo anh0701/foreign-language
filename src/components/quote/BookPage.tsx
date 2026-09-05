@@ -14,20 +14,20 @@ export default function BookPage({
         <div
             className="
                 relative
-                w-[700px]
-                h-[900px]
+                w-[min(640px,calc(100vw-2rem))]
+                h-[min(800px,calc(100vh-4rem))]
                 bg-[#faf6ee]
                 rounded-xl
                 shadow-xl
-                p-16
+                p-12
             "
         >
             <button
                 onClick={onBack}
                 className="
                     absolute
-                    left-8
-                    top-8
+                    left-6
+                    top-6
                     flex
                     items-center
                     gap-2
@@ -45,8 +45,8 @@ export default function BookPage({
             <div
                 className="
                     absolute
-                    right-10
-                    top-8
+                    right-8
+                    top-6
                     text-sm
                     tracking-widest
                     uppercase
@@ -59,23 +59,26 @@ export default function BookPage({
 
             <div
                 className="
-                    mt-16
-                    h-[calc(100%-140px)]
+                    absolute
+                    left-12
+                    right-12
+                    top-24
+                    bottom-16
                     overflow-y-auto
                     pr-3
                 "
             >
-                <h1 className="text-5xl font-serif leading-tight">
+                <h1 className="text-4xl font-serif leading-tight">
                     {quote.title}
                 </h1>
 
-                <p className="mt-5 italic text-gray-500">
+                <p className="mt-4 italic text-gray-500">
                     ({quote.subtitle})
                 </p>
 
-                <div className="mt-16 leading-10 text-[22px] font-serif">
+                <div className="mt-12 leading-9 text-[20px] font-serif">
                     {quote.paragraphs.map((paragraph, index) => (
-                        <p key={index} className="mb-8">
+                        <p key={index} className="mb-7">
                             {paragraph.segments.map((segment, i) => (
                                 <span key={i}>
                                     {segment.vi}{" "}
@@ -86,18 +89,18 @@ export default function BookPage({
                             ))}
                         </p>
                     ))}
-                </div>
 
-                {/* Tạo khoảng trống để không bị che bởi footer */}
-                <div className="h-12" />
+                    <div className="h-8" />
+                </div>
             </div>
 
             <div
                 className="
                     absolute
-                    bottom-8
+                    bottom-6
                     left-1/2
                     -translate-x-1/2
+                    text-sm
                     text-gray-500
                     font-serif
                 "

@@ -9,9 +9,19 @@ export default function TableOfContents({
     quotes,
     onSelect,
 }: Props) {
-
     return (
-        <div className="w-[700px] h-[900px] bg-[#faf6ee] rounded-xl shadow-xl p-14 flex flex-col">
+        <div
+            className="
+                w-[min(640px,calc(100vw-2rem))]
+                h-[min(800px,calc(100vh-4rem))]
+                bg-[#faf6ee]
+                rounded-xl
+                shadow-xl
+                p-12
+                flex
+                flex-col
+            "
+        >
             <p className="uppercase tracking-[6px] text-xs text-gray-400">
                 Story Learning
             </p>

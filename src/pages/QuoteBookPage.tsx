@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
+import { HomeIcon } from "lucide-react";
 
 import CoverPage from "../components/quote/CoverPage";
 import TableOfContents from "../components/quote/TableOfContents";
@@ -34,51 +35,77 @@ export default function QuoteBookPage() {
         navigate("/quote-book?page=contents");
     };
 
-    // Nếu người dùng truy cập /quote-book trực tiếp
-    // thì mặc định là Cover.
     useEffect(() => {
         if (!location.search) {
             navigate("/quote-book?page=cover", { replace: true });
         }
     }, [location.search, navigate]);
 
-    if (page === "cover") {
-        return (
-            <div className="min-h-screen flex justify-center items-center bg-stone-200">
-                <CoverPage onOpen={openContents} />
-            </div>
-        );
-    }
+    return (
+        <div className="relative min-h-screen bg-stone-200">
 
-    if (page === "contents") {
-        return (
-            <div className="min-h-screen flex justify-center items-center bg-stone-200">
-                <TableOfContents
-                    quotes={quotes}
-                    onSelect={openQuote}
-                />
-            </div>
-        );
-    }
+            {/* Home */}
+            <button
+                onClick={() => navigate("/")}
+                className="
+                    fixed
+                    left-20
+                    top-5
+                    z-[9999]
+                    hidden
+                    md:flex
+                    h-10
+                    w-10
+                    items-center
+                    justify-center
+                    rounded-full
+                    bg-white/80
+                    text-stone-500
+                    shadow-sm
+                    backdrop-blur
+                    transition
+                    hover:bg-white
+                    hover:text-stone-900
+                "
+                aria-label="Home"
+            >
+                <HomeIcon size={18} />
+            </button>
 
-    if (page === "book") {
-        if (loading || !currentQuote) {
-            return (
-                <div className="min-h-screen flex justify-center items-center bg-stone-200">
-                    Loading...
+            {/* Cover */}
+            {page === "cover" && (
+                <div className="flex min-h-screen items-center justify-center">
+                    <CoverPage onOpen={openContents} />
                 </div>
-            );
-        }
+            )}
 
-        return (
-            <div className="min-h-screen flex justify-center items-center bg-stone-200">
-                <BookPage
-                    quote={currentQuote}
-                    onBack={backToContents}
-                />
-            </div>
-        );
-    }
+            {/* Contents */}
+            {page === "contents" && (
+                <div className="flex min-h-screen items-center justify-center">
+                    <TableOfContents
+                        quotes={quotes}
+                        onSelect={openQuote}
+                    />
+                </div>
+            )}
 
-    return null;
+            {/* Book */}
+            {page === "book" && (
+                <>
+                    {loading || !currentQuote ? (
+                        <div className="flex min-h-screen items-center justify-center">
+                            Loading...
+                        </div>
+                    ) : (
+                        <div className="flex min-h-screen items-center justify-center px-4 py-16">
+                            <BookPage
+                                quote={currentQuote}
+                                onBack={backToContents}
+                            />
+                        </div>
+                    )}
+                </>
+            )}
+        </div>
+    );
 }
