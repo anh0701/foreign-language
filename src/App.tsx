@@ -8,11 +8,13 @@ import ShortStoryPage from './pages/ShortStoryPage';
 import QuoteBookPage from './pages/QuoteBookPage';
 import EnglishNotesPage from './pages/EnglishNotesPage';
 import EnglishNoteDetailPage from './pages/EnglishNoteDetailPage';
+import ScrollToTop from './components/common/ScrollToTop';
 
 function App() {
 
   return (
     <Router>
+      <ScrollToTop />
       <div className="min-h-screen bg-slate-50 font-sans antialiased text-slate-900">
         <Routes>
           <Route path="/" element={<HomePage />} />
