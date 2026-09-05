@@ -41,7 +41,7 @@ export default function WordGamePage() {
               let letterIndex = 0;
 
               return currentWord?.en.split('').map((char, i) => {
-                // 👉 nếu là space → chỉ render khoảng cách
+                // nếu là space → chỉ render khoảng cách
                 if (char === ' ') {
                   return <div key={i} className="w-4 md:w-6" />;
                 }
