@@ -1,0 +1,16 @@
+[
+  { "front": "mm", "back": "Millimeter — milimét" },
+  { "front": "cm", "back": "Centimeter — centimét" },
+  { "front": "m", "back": "Meter — mét" },
+  { "front": "km", "back": "Kilometer — kilômét" },
+  { "front": "mg", "back": "Milligram — miligam" },
+  { "front": "g", "back": "Gram — gam" },
+  { "front": "kg", "back": "Kilogram — kilôgam" },
+  { "front": "ml", "back": "Milliliter — mililít" },
+  { "front": "L", "back": "Liter — lít" },
+  { "front": "°C", "back": "Degrees Celsius — độ C" },
+  { "front": "°F", "back": "Degrees Fahrenheit — độ F" },
+  { "front": "m²", "back": "Square meter — mét vuông" },
+  { "front": "km/h", "back": "Kilometers per hour — kilômét trên giờ" },
+  { "front": "mph", "back": "Miles per hour — dặm trên giờ" }
+]
