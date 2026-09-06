@@ -65,7 +65,8 @@ export default function BookPage({
                     top-24
                     bottom-16
                     overflow-y-auto
-                    pr-3
+                    custom-scrollbar
+                    pr-2
                 "
             >
                 <h1 className="text-4xl font-serif leading-tight">
