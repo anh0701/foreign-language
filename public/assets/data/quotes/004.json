@@ -21,11 +21,17 @@
             },
             {
                 "vi": "mỗi ngày",
-                "en": "everyday"
+                "en": "everyday:"
+            },
+            {
+                "type": "newline"
             },
             {
                 "vi": "1. Họ đã thay đổi",
                 "en": "They changed"
+            },
+            {
+                "type": "newline"
             },
             {
                 "vi": "2. Họ khiến tôi",
@@ -34,6 +40,9 @@
             {
                 "vi": "cảm thấy bị bỏ lơ",
                 "en": "feel ignored"
+            },
+            {
+                "type": "newline"
             },
             {
                 "vi": "3. Họ chỉ bắt chuyện",
