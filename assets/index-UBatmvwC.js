@@ -98,7 +98,7 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
                     bottom-16
                     overflow-y-auto
                     pr-3
-                `,children:[(0,j.jsx)(`h1`,{className:`text-4xl font-serif leading-tight`,children:e.title}),(0,j.jsxs)(`p`,{className:`mt-4 italic text-gray-500`,children:[`(`,e.subtitle,`)`]}),(0,j.jsxs)(`div`,{className:`mt-12 leading-9 text-[20px] font-serif`,children:[e.paragraphs.map((e,t)=>(0,j.jsx)(`p`,{className:`mb-7`,children:e.segments.map((e,t)=>(0,j.jsxs)(`span`,{children:[e.vi,` `,(0,j.jsxs)(`span`,{className:`italic text-gray-500`,children:[`(`,e.en,`)`]}),` `]},t))},t)),(0,j.jsx)(`div`,{className:`h-8`})]})]}),(0,j.jsx)(`div`,{className:`
+                `,children:[(0,j.jsx)(`h1`,{className:`text-4xl font-serif leading-tight`,children:e.title}),(0,j.jsxs)(`p`,{className:`mt-4 italic text-gray-500`,children:[`(`,e.subtitle,`)`]}),(0,j.jsxs)(`div`,{className:`mt-12 leading-9 text-[20px] font-serif`,children:[e.paragraphs.map((e,t)=>(0,j.jsx)(`p`,{className:`mb-7`,children:e.segments.map((e,t)=>`type`in e&&e.type===`newline`?(0,j.jsx)(`br`,{},t):`vi`in e?(0,j.jsxs)(`span`,{children:[e.vi,` `,(0,j.jsxs)(`span`,{className:`italic text-gray-500`,children:[`(`,e.en,`)`]}),` `]},t):null)},t)),(0,j.jsx)(`div`,{className:`h-8`})]})]}),(0,j.jsx)(`div`,{className:`
                     absolute
                     bottom-6
                     left-1/2

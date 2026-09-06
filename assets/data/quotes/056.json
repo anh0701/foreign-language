@@ -16,12 +16,18 @@
           "en": "not rude."
         },
         {
+          "type": "newline"
+        },
+        {
           "vi": "2. Hãy tử tế",
           "en": "Be kind,"
         },
         {
           "vi": "nhưng đừng yếu đuối",
           "en": "not weak."
+        },
+        {
+          "type": "newline"
         },
         {
           "vi": "3. Hãy mạnh dạn",
@@ -32,12 +38,18 @@
           "en": "don't bully."
         },
         {
+          "type": "newline"
+        },
+        {
           "vi": "4. Hãy khiêm tốn",
           "en": "Be humble,"
         },
         {
           "vi": "nhưng đừng nhút nhát",
           "en": "not shy."
+        },
+        {
+          "type": "newline"
         },
         {
           "vi": "5. Hãy tự hào",
