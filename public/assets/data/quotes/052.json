@@ -1,0 +1,33 @@
+{
+  "id": 52,
+  "page": 52,
+  "book": "Story Learning",
+  "title": "Đợi",
+  "subtitle": "Wait",
+  "paragraphs": [
+    {
+      "segments": [
+        {
+          "vi": "Bạn đang hỏi",
+          "en": "Are you asking"
+        },
+        {
+          "vi": "liệu bạn có nên đợi không",
+          "en": "if you should wait?"
+        },
+        {
+          "vi": "Tại sao không hỏi",
+          "en": "Why not ask"
+        },
+        {
+          "vi": "xem họ có cần",
+          "en": "if they need"
+        },
+        {
+          "vi": "bạn đợi không",
+          "en": "you to wait?"
+        }
+      ]
+    }
+  ]
+}

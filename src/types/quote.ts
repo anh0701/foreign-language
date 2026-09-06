@@ -11,8 +11,14 @@ export interface QuoteSegment {
     en: string;
 }
 
+export interface QuoteNewline {
+    type: "newline";
+}
+
+export type QuoteSegmentItem = QuoteSegment | QuoteNewline;
+
 export interface QuoteParagraph {
-    segments: QuoteSegment[];
+    segments: QuoteSegmentItem[];
 }
 
 export interface QuoteData {

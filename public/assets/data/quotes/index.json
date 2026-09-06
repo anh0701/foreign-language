@@ -1,352 +1,67 @@
 [
+  {"id":1,"page":1,"slug":"001","title":"Đây là tôi, đang chữa lành.","subtitle":"This is me, healing."},
+  {"id":2,"page":2,"slug":"002","title":"Tôi chỉ ngừng thể hiện ra thôi.","subtitle":"I just stopped showing it."},
+  {"id":3,"page":3,"slug":"003","title":"Bà tôi từng nói rằng.","subtitle":"My grandmother once said."},
+  {"id":4,"page":4,"slug":"004","title":"3 Lý do","subtitle":"3 Reasons"},
+  {"id":5,"page":5,"slug":"005","title":"Đợi","subtitle":"Wait"},
+  {"id":6,"page":6,"slug":"006","title":"Tự do hay cô độc","subtitle":"Freedom or loneliness"},
+  {"id":7,"page":7,"slug":"007","title":"Hãy nhớ rằng","subtitle":"Remember (1)"},
+  {"id":8,"page":8,"slug":"008","title":"Tình yêu","subtitle":"Love (1)"},
+  {"id":9,"page":9,"slug":"009","title":"Hãy luôn nhớ rằng: ","subtitle":"Always remember:"},
+  {"id":10,"page":10,"slug":"010","title":"Hãy ở bên những người này","subtitle":"Stay with these people"},
+  {"id":11,"page":11,"slug":"011","title":"Vấn đề","subtitle":"Issue"},
+  {"id":12,"page":12,"slug":"012","title":"May mắn","subtitle":"Lucky"},
+  {"id":13,"page":13,"slug":"013","title":"Hãy dối xử tốt với chính mình","subtitle":"Be good to yourself"},
+  {"id":14,"page":14,"slug":"014","title":"Điều tuyệt vời nhất","subtitle":"The best thing"},
+  {"id":15,"page":15,"slug":"015","title":"Nơi yêu thích của bạn ở đâu?","subtitle":"Where's your favorite place?"},
+  {"id":16,"page":16,"slug":"016","title":"Một sự thật thú vị","subtitle":"A fun fact"},
+  {"id":17,"page":17,"slug":"017","title":"Câu nói khiến tôi không ngừng nỗ lực","subtitle":"The quote inspires me to never stop trying"},
+  {"id":18,"page":18,"slug":"018","title":"Một ngày nào đó","subtitle":"One day"},
+  {"id":19,"page":19,"slug":"019","title":"Những điều không định nghĩa con người của bạn","subtitle":"Things that do not define who you are"},
+  {"id":20,"page":20,"slug":"020","title":"Mẹ dặn rằng: ","subtitle":"Mom says: "},
+  {"id":21,"page":21,"slug":"021","title":"Mẹ tôi đã từng nói","subtitle":"My mother said"},
+  {"id":22,"page":22,"slug":"022","title":"Xin đừng như tôi","subtitle":"Please don't be like me"},
+  {"id":23,"page":23,"slug":"023","title":"Sự thật và lời nói dối","subtitle":"The truth and the lie"},
+  {"id":24,"page":24,"slug":"024","title":"Trưởng thành","subtitle":"Grow"},
+  {"id":25,"page":25,"slug":"025","title":"Tình yêu","subtitle":"Love (2)"},
+  {"id":26,"page":26,"slug":"026","title":"Tại sao anh yêu em?","subtitle":"Why do I love you?"},
+  {"id":27,"page":27,"slug":"027","title":"Hãy như một dòng sông","subtitle":"Be like a river"},
+  {"id":28,"page":28,"slug":"028","title":"5 thứ tiền không mua được:","subtitle":"5 things money can't buy:"},
+  {"id":29,"page":29,"slug":"029","title":"Một mình","subtitle":"Alone"},
+  {"id":30,"page":30,"slug":"030","title":"Người đặc biệt","subtitle":"A special person"},
+  {"id":31,"page":31,"slug":"031","title":"Bình yên tận hưởng cuộc sống độc thân","subtitle":"Enjoy your single life in peace"},
+  {"id":32,"page":32,"slug":"032","title":"Hãy nhớ rằng","subtitle":"Remember (2)"},
+  {"id":33,"page":33,"slug":"033","title":"Tâm lý nói rằng","subtitle":"Psychology says"},
+  {"id":34,"page":34,"slug":"034","title":"Một câu nói rất thấm","subtitle":"A deep saying"},
+  {"id":35,"page":35,"slug":"035","title":"Bố","subtitle":"Dad"},
+  {"id":36,"page":36,"slug":"036","title":"Đừng bỏ cuộc","subtitle":"Don't give up"},
+  {"id":37,"page":37,"slug":"037","title":"Một sự thật về phụ nữ","subtitle":"A fact about women"},
+  {"id":38,"page":38,"slug":"038","title":"Thế giới của tôi","subtitle":"My world"},
+  {"id":39,"page":39,"slug":"039","title":"Lựa chọn","subtitle":"Choose"},
+  {"id":40,"page":40,"slug":"040","title":"Đúng, tôi độc thân","subtitle":"Yes, I'm single"},
+  {"id":41,"page":41,"slug":"041","title":"Có 2 kiểu người","subtitle":"There are 2 types of people"},
+  {"id":42,"page":42,"slug":"042","title":"Tâm lý học nói rằng:","subtitle":"Psychology says:"},
+  {"id":43,"page":43,"slug":"043","title":"Nhiều quá","subtitle":"Too much"},
+  {"id":44,"page":44,"slug":"044","title":"Thần chết hỏi cuộc sống rằng:","subtitle":"Death asked life:"},
+  {"id":45,"page":45,"slug":"045","title":"Trong tình yêu","subtitle":"In love"},
+  {"id":46,"page":46,"slug":"046","title":"Luôn cố giữ im lặng trong những trường hợp sau:","subtitle":"Always try to stay silent in these situations:"},
+  {"id":47,"page":47,"slug":"047","title":"Hãy làm việc trong thầm lặng","subtitle":"Work in silence"},
+  {"id":48,"page":48,"slug":"048","title":"Nếu bạn thành công","subtitle":"If you succeed"},
+  {"id":49,"page":49,"slug":"049","title":"Người đàn ông đích thực","subtitle":"Real man"},
+  {"id":50,"page":50,"slug":"050","title":"Nhân quả nói:","subtitle":"Karma says:"},
+  {"id":51,"page":51,"slug":"051","title":"Cơ hội","subtitle":"Chance"},
+  {"id":52,"page":52,"slug":"052","title":"Đợi","subtitle":"Wait"},
+  {"id":53,"page":53,"slug":"053","title":"Đừng chạy theo tình yêu và bạn không cần phải như vậy","subtitle":"Don't chase love, and you won't ever have to"},
+  {"id":54,"page":54,"slug":"054","title":"Đừng kết hôn vì","subtitle":"Don't marry because"},
+  {"id":55,"page":55,"slug":"055","title":"Hãy kết hôn vì","subtitle":"Marry because"},
+  {"id":56,"page":56,"slug":"056","title":"5 quy tắc vàng trong cuộc sống:","subtitle":"5 Golden rules of life:"},
+  {"id":57,"page":57,"slug":"057","title":"Không áp lực. Không có kim cương.","subtitle":"No pressure. No diamonds."},
+  {"id":58,"page":58,"slug":"058","title":"Hoàn hảo","subtitle":"Perfect"},
   {
-    "id": 1,
-    "page": 1,
-    "slug": "001",
-    "title": "Đây là tôi, đang chữa lành.",
-    "subtitle": "This is me, healing."
-  },
-  {
-    "id": 2,
-    "page": 2,
-    "slug": "002",
-    "title": "Tôi chỉ ngừng thể hiện ra thôi.",
-    "subtitle": "I just stopped showing it."
-  },
-  {
-    "id": 3,
-    "page": 3,
-    "slug": "003",
-    "title": "Bà tôi từng nói rằng.",
-    "subtitle": "My grandmother once said."
-  },
-  {
-    "id": 4,
-    "page": 4,
-    "slug": "004",
-    "title": "3 Lý do",
-    "subtitle": "3 Reasons"
-  },
-  {
-    "id": 5,
-    "page": 5,
-    "slug": "005",
-    "title": "Đợi",
-    "subtitle": "Wait"
-  },
-  {
-    "id": 6,
-    "page": 6,
-    "slug": "006",
-    "title": "Tự do hay cô độc",
-    "subtitle": "Freedom or loneliness"
-  },
-  {
-    "id": 7,
-    "page": 7,
-    "slug": "007",
-    "title": "Hãy nhớ rằng",
-    "subtitle": "Remember (1)"
-  },
-  {
-    "id": 8,
-    "page": 8,
-    "slug": "008",
-    "title": "Tình yêu",
-    "subtitle": "Love (1)"
-  },
-  {
-    "id": 9,
-    "page": 9,
-    "slug": "009",
-    "title": "Hãy luôn nhớ rằng: ",
-    "subtitle": "Always remember:"
-  },
-  {
-    "id": 10,
-    "page": 10,
-    "slug": "010",
-    "title": "Hãy ở bên những người này",
-    "subtitle": "Stay with these people"
-  },
-  {
-    "id": 11,
-    "page": 11,
-    "slug": "011",
-    "title": "Vấn đề",
-    "subtitle": "Issue"
-  },
-  {
-    "id": 12,
-    "page": 12,
-    "slug": "012",
-    "title": "May mắn",
-    "subtitle": "Lucky"
-  },
-  {
-    "id": 13,
-    "page": 13,
-    "slug": "013",
-    "title": "Hãy dối xử tốt với chính mình",
-    "subtitle": "Be good to yourself"
-  },
-  {
-    "id": 14,
-    "page": 14,
-    "slug": "014",
-    "title": "Điều tuyệt vời nhất",
-    "subtitle": "The best thing"
-  },
-  {
-    "id": 15,
-    "page": 15,
-    "slug": "015",
-    "title": "Nơi yêu thích của bạn ở đâu?",
-    "subtitle": "Where's your favorite place?"
-  },
-  {
-    "id": 16,
-    "page": 16,
-    "slug": "016",
-    "title": "Một sự thật thú vị",
-    "subtitle": "A fun fact"
-  },
-  {
-    "id": 17,
-    "page": 17,
-    "slug": "017",
-    "title": "Câu nói khiến tôi không ngừng nỗ lực",
-    "subtitle": "The quote inspires me to never stop trying"
-  },
-  {
-    "id": 18,
-    "page": 18,
-    "slug": "018",
-    "title": "Một ngày nào đó",
-    "subtitle": "One day"
-  },
-  {
-    "id": 19,
-    "page": 19,
-    "slug": "019",
-    "title": "Những điều không định nghĩa con người của bạn",
-    "subtitle": "Things that do not define who you are"
-  },
-  {
-    "id": 20,
-    "page": 20,
-    "slug": "020",
-    "title": "Mẹ dặn rằng: ",
-    "subtitle": "Mom says: "
-  },
-  {
-    "id": 21,
-    "page": 21,
-    "slug": "021",
-    "title": "Mẹ tôi đã từng nói",
-    "subtitle": "My mother said"
-  },
-  {
-    "id": 22,
-    "page": 22,
-    "slug": "022",
-    "title": "Xin đừng như tôi",
-    "subtitle": "Please don't be like me"
-  },
-  {
-    "id": 23,
-    "page": 23,
-    "slug": "023",
-    "title": "Sự thật và lời nói dối",
-    "subtitle": "The truth and the lie"
-  },
-  {
-    "id": 24,
-    "page": 24,
-    "slug": "024",
-    "title": "Trưởng thành",
-    "subtitle": "Grow"
-  },
-  {
-    "id": 25,
-    "page": 25,
-    "slug": "025",
-    "title": "Tình yêu",
-    "subtitle": "Love (2)"
-  },
-  {
-    "id": 26,
-    "page": 26,
-    "slug": "026",
-    "title": "Tại sao anh yêu em?",
-    "subtitle": "Why do I love you?"
-  },
-  {
-    "id": 27,
-    "page": 27,
-    "slug": "027",
-    "title": "Hãy như một dòng sông",
-    "subtitle": "Be like a river"
-  },
-  {
-    "id": 28,
-    "page": 28,
-    "slug": "028",
-    "title": "5 thứ tiền không mua được:",
-    "subtitle": "5 things money can't buy:"
-  },
-  {
-    "id": 29,
-    "page": 29,
-    "slug": "029",
-    "title": "Một mình",
-    "subtitle": "Alone"
-  },
-  {
-    "id": 30,
-    "page": 30,
-    "slug": "030",
-    "title": "Người đặc biệt",
-    "subtitle": "A special person"
-  },
-  {
-    "id": 31,
-    "page": 31,
-    "slug": "031",
-    "title": "Bình yên tận hưởng cuộc sống độc thân",
-    "subtitle": "Enjoy your single life in peace"
-  },
-  {
-    "id": 32,
-    "page": 32,
-    "slug": "032",
-    "title": "Hãy nhớ rằng",
-    "subtitle": "Remember (2)"
-  },
-  {
-    "id": 33,
-    "page": 33,
-    "slug": "033",
-    "title": "Tâm lý nói rằng",
-    "subtitle": "Psychology says"
-  },
-  {
-    "id": 34,
-    "page": 34,
-    "slug": "034",
-    "title": "Một câu nói rất thấm",
-    "subtitle": "A deep saying"
-  },
-  {
-    "id": 35,
-    "page": 35,
-    "slug": "035",
-    "title": "Bố",
-    "subtitle": "Dad"
-  },
-  {
-    "id": 36,
-    "page": 36,
-    "slug": "036",
-    "title": "Đừng bỏ cuộc",
-    "subtitle": "Don't give up"
-  },
-  {
-    "id": 37,
-    "page": 37,
-    "slug": "037",
-    "title": "Một sự thật về phụ nữ",
-    "subtitle": "A fact about women"
-  },
-  {
-    "id": 38,
-    "page": 38,
-    "slug": "038",
-    "title": "Thế giới của tôi",
-    "subtitle": "My world"
-  },
-  {
-    "id": 39,
-    "page": 39,
-    "slug": "039",
-    "title": "Lựa chọn",
-    "subtitle": "Choose"
-  },
-  {
-    "id": 40,
-    "page": 40,
-    "slug": "040",
-    "title": "Đúng, tôi độc thân",
-    "subtitle": "Yes, I'm single"
-  },
-  {
-    "id": 41,
-    "page": 41,
-    "slug": "041",
-    "title": "Có 2 kiểu người",
-    "subtitle": "There are 2 types of people"
-  },
-  {
-    "id": 42,
-    "page": 42,
-    "slug": "042",
-    "title": "Tâm lý học nói rằng:",
-    "subtitle": "Psychology says:"
-  },
-  {
-    "id": 43,
-    "page": 43,
-    "slug": "043",
-    "title": "Nhiều quá",
-    "subtitle": "Too much"
-  },
-  {
-    "id": 44,
-    "page": 44,
-    "slug": "044",
-    "title": "Thần chết hỏi cuộc sống rằng:",
-    "subtitle": "Death asked life:"
-  },
-  {
-    "id": 45,
-    "page": 45,
-    "slug": "045",
-    "title": "Trong tình yêu",
-    "subtitle": "In love"
-  },
-  {
-    "id": 46,
-    "page": 46,
-    "slug": "046",
-    "title": "Luôn cố giữ im lặng trong những trường hợp sau:",
-    "subtitle": "Always try to stay silent in these situations:"
-  },
-  {
-    "id": 47,
-    "page": 47,
-    "slug": "047",
-    "title": "Hãy làm việc trong thầm lặng",
-    "subtitle": "Work in silence"
-  },
-  {
-    "id": 48,
-    "page": 48,
-    "slug": "048",
-    "title": "Nếu bạn thành công",
-    "subtitle": "If you succeed"
-  },
-  {
-    "id": 49,
-    "page": 49,
-    "slug": "049",
-    "title": "Người đàn ông đích thực",
-    "subtitle": "Real man"
-  },
-  {
-    "id": 50,
-    "page": 50,
-    "slug": "050",
-    "title": "Nhân quả nói:",
-    "subtitle": "Karma says:"
+    "id": 59,
+    "page": 59,
+    "slug": "059",
+    "title": "Dễ ... Khó",
+    "subtitle": "Easy ... Difficult"
   }
 ]

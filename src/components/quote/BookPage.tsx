@@ -79,14 +79,24 @@ export default function BookPage({
                 <div className="mt-12 leading-9 text-[20px] font-serif">
                     {quote.paragraphs.map((paragraph, index) => (
                         <p key={index} className="mb-7">
-                            {paragraph.segments.map((segment, i) => (
-                                <span key={i}>
-                                    {segment.vi}{" "}
-                                    <span className="italic text-gray-500">
-                                        ({segment.en})
-                                    </span>{" "}
-                                </span>
-                            ))}
+                            {paragraph.segments.map((segment, i) => {
+                                if ("type" in segment && segment.type === "newline") {
+                                    return <br key={i} />;
+                                }
+
+                                if ("vi" in segment) {
+                                    return (
+                                        <span key={i}>
+                                            {segment.vi}{" "}
+                                            <span className="italic text-gray-500">
+                                                ({segment.en})
+                                            </span>{" "}
+                                        </span>
+                                    );
+                                }
+
+                                return null;
+                            })}
                         </p>
                     ))}
 

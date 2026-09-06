@@ -1,0 +1,29 @@
+{
+  "id": 58,
+  "page": 58,
+  "book": "Story Learning",
+  "title": "Hoàn hảo",
+  "subtitle": "Perfect",
+  "paragraphs": [
+    {
+      "segments": [
+        {
+          "vi": "Không ai",
+          "en": "Nobody"
+        },
+        {
+          "vi": "là hoàn hảo cả",
+          "en": "is perfect."
+        },
+        {
+          "vi": "Và cũng không ai",
+          "en": "And no one"
+        },
+        {
+          "vi": "sinh ra đã hợp nhau cả",
+          "en": "is born suitable for you."
+        }
+      ]
+    }
+  ]
+}
