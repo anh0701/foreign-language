@@ -1,0 +1,53 @@
+{
+  "id": 56,
+  "page": 56,
+  "book": "Story Learning",
+  "title": "5 quy tắc vàng trong cuộc sống:",
+  "subtitle": "5 Golden rules of life:",
+  "paragraphs": [
+    {
+      "segments": [
+        {
+          "vi": "1. Hãy mạnh mẽ",
+          "en": "Be strong,"
+        },
+        {
+          "vi": "nhưng đừng thô lỗ",
+          "en": "not rude."
+        },
+        {
+          "vi": "2. Hãy tử tế",
+          "en": "Be kind,"
+        },
+        {
+          "vi": "nhưng đừng yếu đuối",
+          "en": "not weak."
+        },
+        {
+          "vi": "3. Hãy mạnh dạn",
+          "en": "Be bold,"
+        },
+        {
+          "vi": "nhưng đừng bắt nạt",
+          "en": "don't bully."
+        },
+        {
+          "vi": "4. Hãy khiêm tốn",
+          "en": "Be humble,"
+        },
+        {
+          "vi": "nhưng đừng nhút nhát",
+          "en": "not shy."
+        },
+        {
+          "vi": "5. Hãy tự hào",
+          "en": "Be proud,"
+        },
+        {
+          "vi": "nhưng đừng kiêu ngạo",
+          "en": "not arrogant."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 51,
+  "page": 51,
+  "book": "Story Learning",
+  "title": "Cơ hội",
+  "subtitle": "Chance",
+  "paragraphs": [
+    {
+      "segments": [
+        {
+          "vi": "Có những ngày",
+          "en": "There are days"
+        },
+        {
+          "vi": "trời chưa kịp nắng",
+          "en": "when the sun is not yet shining"
+        },
+        {
+          "vi": "đã tối",
+          "en": "but is dark,"
+        },
+        {
+          "vi": "có những lời",
+          "en": "and there are words"
+        },
+        {
+          "vi": "chưa kịp nói",
+          "en": "that have not been spoken"
+        },
+        {
+          "vi": "đã không còn cơ hội",
+          "en": "that have no chance."
+        }
+      ]
+    }
+  ]
+}

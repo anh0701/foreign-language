@@ -1,0 +1,45 @@
+{
+  "id": 59,
+  "page": 59,
+  "book": "Story Learning",
+  "title": "Dễ ... Khó",
+  "subtitle": "Easy ... Difficult",
+  "paragraphs": [
+    {
+      "segments": [
+        {
+          "vi": "Hứa với nhau",
+          "en": "Making promises together"
+        },
+        {
+          "vi": "thì dễ",
+          "en": "is easy."
+        },
+        {
+          "vi": "Làm cho nhau",
+          "en": "Making them for each other"
+        },
+        {
+          "vi": "mới khó",
+          "en": "is difficult."
+        },
+        {
+          "vi": "Đi cùng nhau",
+          "en": "Going together"
+        },
+        {
+          "vi": "thì dễ",
+          "en": "is easy."
+        },
+        {
+          "vi": "Đi được đến cuối cùng",
+          "en": "Going together  to the end"
+        },
+        {
+          "vi": "mới khó",
+          "en": "is difficult."
+        }
+      ]
+    }
+  ]
+}
