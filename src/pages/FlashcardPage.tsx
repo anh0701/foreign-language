@@ -9,7 +9,7 @@ const FlashcardPage: React.FC = () => {
   const topicSlug = searchParams.get('topic');
   const topicTitle = searchParams.get('title');
   
-  const { topics, cards, currentIndex, next, prev, loading } = useFlashcard(topicSlug);
+  const { topics, cards, currentIndex, next, prev, loading, setCurrentIndex } = useFlashcard(topicSlug);
   const [isFlipped, setIsFlipped] = useState(false);
 
   // Mỗi lần đổi topic → luôn bắt đầu với mặt trước
@@ -63,7 +63,7 @@ const FlashcardPage: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col items-center p-6">
-      <main className="w-full max-w-2xl mt-10 flex flex-col items-center">
+      <main className="w-full max-w-4xl mt-10 flex flex-col items-center">
         <div className="w-full flex justify-between items-center mb-8 px-4">
           <h2 className="text-xl font-bold text-slate-800 flex items-center gap-2">
             <Layers className="text-emerald-600" size={24} />
@@ -97,17 +97,126 @@ const FlashcardPage: React.FC = () => {
           </div>
         </div>
 
-        <div className="w-full flex gap-4 mt-12">
-          <button onClick={handlePrev} className="flex-1 bg-white py-4 rounded-2xl font-bold text-slate-600 shadow-sm border border-slate-200 flex items-center justify-center gap-2 hover:bg-slate-50">
-            <ChevronLeft size={20} /> Trước
+        <div className="w-full flex gap-3 sm:gap-4 mt-12">
+          <button
+            onClick={handlePrev}
+            className="
+              flex-1
+              bg-white py-4 rounded-2xl
+              font-bold text-slate-600
+              shadow-sm border border-slate-200
+              flex items-center justify-center gap-2
+              hover:bg-slate-50
+              active:scale-[0.98]
+              transition-all
+            "
+          >
+            <ChevronLeft size={20} />
+            <span className="hidden sm:inline">Trước</span>
           </button>
-          <button onClick={() => navigate('/flashcards')} className="bg-white px-6 rounded-2xl shadow-sm border border-slate-200 flex items-center justify-center text-slate-400 hover:text-emerald-600">
+
+          <button
+            onClick={() => navigate('/flashcards')}
+            className="
+              shrink-0 w-14
+              bg-white rounded-2xl
+              shadow-sm border border-slate-200
+              flex items-center justify-center
+              text-slate-400
+              hover:text-emerald-600
+              active:scale-[0.98]
+              transition-all
+            "
+          >
             <Layers size={20} />
           </button>
-          <button onClick={handleNext} className="flex-1 bg-emerald-600 py-4 rounded-2xl font-bold text-white shadow-lg shadow-emerald-200 flex items-center justify-center gap-2 hover:bg-emerald-700">
-            Tiếp theo <ChevronRight size={20} />
+
+          <button
+            onClick={handleNext}
+            className="
+              flex-1
+              bg-emerald-600 py-4 rounded-2xl
+              font-bold text-white
+              shadow-lg shadow-emerald-200
+              flex items-center justify-center gap-2
+              hover:bg-emerald-700
+              active:scale-[0.98]
+              transition-all
+            "
+          >
+            <span className="hidden sm:inline">Tiếp theo</span>
+            <ChevronRight size={20} />
           </button>
         </div>
+
+        <div className="w-full mt-8 bg-white rounded-3xl shadow-sm border border-slate-100 p-6">
+  <div className="flex items-center justify-between mb-5">
+    <div>
+      <h3 className="font-black text-slate-800 text-lg">
+        Từ vựng trong chủ đề
+      </h3>
+      <p className="text-sm text-slate-400 mt-1">
+        {cards.length} từ vựng
+      </p>
+    </div>
+  </div>
+
+  <div className="grid grid-cols-1 md:grid-cols-2 gap-2">
+    {cards.map((card, index) => (
+      <button
+        key={index}
+        onClick={() => {
+          setIsFlipped(false);
+          setCurrentIndex(index);
+        }}
+        className={`
+          w-full text-left p-4 rounded-2xl
+          border transition-all duration-200
+          flex items-center gap-3
+          ${
+            index === currentIndex
+              ? 'bg-emerald-50 border-emerald-200'
+              : 'bg-slate-50/50 border-transparent hover:bg-slate-50 hover:border-slate-200'
+          }
+        `}
+      >
+        <span
+          className={`
+            w-8 h-8 shrink-0 rounded-xl
+            flex items-center justify-center
+            text-xs font-black
+            ${
+              index === currentIndex
+                ? 'bg-emerald-600 text-white'
+                : 'bg-white text-slate-400 border border-slate-100'
+            }
+          `}
+        >
+          {index + 1}
+        </span>
+
+        <div className="min-w-0 flex-1">
+          <p
+            className={`
+              font-bold break-words
+              ${
+                index === currentIndex
+                  ? 'text-emerald-700'
+                  : 'text-slate-700'
+              }
+            `}
+          >
+            {card.front}
+          </p>
+
+          <p className="text-sm text-slate-400 break-words mt-1 leading-relaxed">
+            {card.back}
+          </p>
+        </div>
+      </button>
+    ))}
+  </div>
+</div>
       </main>
     </div>
   );
