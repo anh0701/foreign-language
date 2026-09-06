@@ -1,0 +1,22 @@
+[
+  { "front": "@", "back": "At — dùng trong email: name at gmail dot com" },
+  { "front": ".", "back": "Dot — dùng trong địa chỉ web/email; Period — dấu chấm trong câu" },
+  { "front": "#", "back": "Hash — thường dùng trong lập trình; Number sign — ký hiệu số" },
+  { "front": "%", "back": "Percent — phần trăm" },
+  { "front": "&", "back": "Ampersand — ký hiệu 'and' (và)" },
+  { "front": "*", "back": "Asterisk — dấu sao" },
+  { "front": "!", "back": "Exclamation mark — dấu chấm than" },
+  { "front": "?", "back": "Question mark — dấu hỏi" },
+  { "front": "/", "back": "Slash — dấu gạch chéo" },
+  { "front": "\\", "back": "Backslash — dấu gạch chéo ngược" },
+  { "front": "-", "back": "Hyphen — dấu gạch nối; Dash — dấu gạch ngang" },
+  { "front": "_", "back": "Underscore — dấu gạch dưới" },
+  { "front": ":", "back": "Colon — dấu hai chấm" },
+  { "front": ";", "back": "Semicolon — dấu chấm phẩy" },
+  { "front": "'", "back": "Apostrophe — dấu nháy đơn" },
+  { "front": "\"", "back": "Quotation mark / Quote — dấu ngoặc kép" },
+  { "front": "+", "back": "Plus — dấu cộng" },
+  { "front": "=", "back": "Equals / Equal sign — dấu bằng" },
+  { "front": "$", "back": "Dollar sign — ký hiệu đô la" },
+  { "front": "~", "back": "Tilde — dấu ngã" }
+]

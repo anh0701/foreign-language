@@ -1,0 +1,17 @@
+[
+  { "front": "Bug", "back": "Lỗi trong phần mềm hoặc chương trình" },
+  { "front": "Debug", "back": "Gỡ lỗi, tìm và sửa lỗi" },
+  { "front": "Compile", "back": "Biên dịch mã nguồn" },
+  { "front": "Deploy", "back": "Triển khai ứng dụng hoặc phần mềm" },
+  { "front": "Repository", "back": "Kho lưu trữ mã nguồn, thường dùng với Git" },
+  { "front": "Branch", "back": "Nhánh trong hệ thống quản lý phiên bản như Git" },
+  { "front": "Commit", "back": "Lưu một tập hợp thay đổi vào Git" },
+  { "front": "Merge", "back": "Gộp các thay đổi hoặc các nhánh" },
+  { "front": "Dependency", "back": "Thư viện hoặc thành phần mà phần mềm phụ thuộc vào" },
+  { "front": "Runtime", "back": "Môi trường hoặc thời điểm chương trình đang chạy" },
+  { "front": "Framework", "back": "Nền tảng cung cấp cấu trúc và công cụ để phát triển phần mềm" },
+  { "front": "Endpoint", "back": "Điểm truy cập của API" },
+  { "front": "Request", "back": "Yêu cầu được gửi đến server hoặc API" },
+  { "front": "Response", "back": "Phản hồi được trả về từ server hoặc API" },
+  { "front": "Query", "back": "Truy vấn dữ liệu hoặc yêu cầu tìm kiếm thông tin" }
+]

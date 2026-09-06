@@ -1,6 +1,13 @@
 [
-  {"id":1,"slug":"interview-ai","title":"AI Engineer"},
-  {"id":2,"slug":"backend-java","title":"Backend Developer (Java)"},
-  {"id":3,"slug":"fast-api","title":"FastAPI"},
-  {"id":4,"slug":"conversational-phrases","title":"Conversational Phrases"}
+  {"id":1, "slug": "everyday-english", "title": "Everyday English"},
+  {"id":2, "slug": "interview-english", "title": "Interview English"},
+  {"id":3,"slug":"conversational-phrases","title":"Conversational Phrases"},
+  {"id":4, "slug": "english-symbols-punctuation", "title": "English Symbols & Punctuation"},
+  {"id":5, "slug": "units-measurements", "title": "Units & Measurements"},
+  {"id":6, "slug": "abbreviations", "title": "Abbreviations"},
+  {"id":7, "slug": "workplace-english", "title": "Workplace English"},
+  {"id":8, "slug": "computer-programming", "title": "Computer & Programming"},
+  {"id":9,"slug":"fast-api","title":"FastAPI"},
+  {"id":10,"slug":"backend-java","title":"Backend Developer (Java)"},
+  {"id":11,"slug":"interview-ai","title":"AI Engineer"}
 ]
