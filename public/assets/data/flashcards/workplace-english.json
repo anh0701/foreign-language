@@ -1,0 +1,17 @@
+[
+  { "front": "Deadline", "back": "Hạn chót" },
+  { "front": "Meeting", "back": "Cuộc họp" },
+  { "front": "Task", "back": "Nhiệm vụ, công việc cần làm" },
+  { "front": "Requirement", "back": "Yêu cầu" },
+  { "front": "Feedback", "back": "Phản hồi, nhận xét" },
+  { "front": "Schedule", "back": "Lịch trình; lên lịch" },
+  { "front": "Project", "back": "Dự án" },
+  { "front": "Team", "back": "Nhóm, đội" },
+  { "front": "Colleague", "back": "Đồng nghiệp" },
+  { "front": "Manager", "back": "Quản lý" },
+  { "front": "Client", "back": "Khách hàng" },
+  { "front": "Interview", "back": "Buổi phỏng vấn; phỏng vấn" },
+  { "front": "Salary", "back": "Mức lương" },
+  { "front": "Position", "back": "Vị trí công việc" },
+  { "front": "Experience", "back": "Kinh nghiệm" }
+]

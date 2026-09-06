@@ -38,8 +38,11 @@ const FlashcardPage: React.FC = () => {
             </button>
           ))}
         </div>
-        <button onClick={() => navigate('/')} className="mt-12 text-slate-400 hover:text-slate-600 flex items-center gap-2 font-medium">
-          <House size={18} /> Quay lại trang chính
+        <button
+          onClick={() => navigate('/')}
+          className="fixed bottom-8 bg-white/90 backdrop-blur-xl p-4 rounded-full shadow-2xl border border-white text-slate-800 hover:scale-110 transition-transform active:scale-95"
+        >
+          <House size={28} />
         </button>
       </div>
     );

@@ -1,0 +1,17 @@
+[
+  { "front": "e.g.", "back": "For example — ví dụ" },
+  { "front": "i.e.", "back": "That is — nghĩa là / tức là" },
+  { "front": "etc.", "back": "Et cetera — vân vân" },
+  { "front": "ASAP", "back": "As soon as possible — càng sớm càng tốt" },
+  { "front": "FYI", "back": "For your information — để bạn biết" },
+  { "front": "ETA", "back": "Estimated time of arrival — thời gian dự kiến đến" },
+  { "front": "DIY", "back": "Do it yourself — tự làm" },
+  { "front": "FAQ", "back": "Frequently asked questions — câu hỏi thường gặp" },
+  { "front": "AKA", "back": "Also known as — còn được gọi là" },
+  { "front": "TBD", "back": "To be determined — sẽ được xác định sau" },
+  { "front": "TBA", "back": "To be announced — sẽ được thông báo sau" },
+  { "front": "BTW", "back": "By the way — nhân tiện" },
+  { "front": "IMO", "back": "In my opinion — theo ý kiến của tôi" },
+  { "front": "IDK", "back": "I don't know — tôi không biết" },
+  { "front": "ASAP", "back": "As soon as possible — càng sớm càng tốt" }
+]
