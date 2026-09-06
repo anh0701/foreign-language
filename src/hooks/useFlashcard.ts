@@ -26,24 +26,38 @@ export const useFlashcard = (topicSlug: string | null) => {
 
   const loadCards = useCallback(async (slug: string) => {
     try {
+      // Xóa dữ liệu cũ ngay khi bắt đầu load
       setLoading(true);
+      setCards([]);
+      setCurrentIndex(0);
+
       const res = await fetch(`assets/data/flashcards/${slug}.json`);
       const data = await res.json();
+
       setCards(data);
-      setCurrentIndex(0);
-    } catch (e) { console.error("Lỗi tải cards", e); }
-    finally { setLoading(false); }
+    } catch (e) {
+      console.error("Lỗi tải cards", e);
+      setCards([]);
+    } finally {
+      setLoading(false);
+    }
   }, []);
 
   useEffect(() => {
     loadTopics();
-    if (topicSlug) loadCards(topicSlug);
+
+    if (topicSlug) {
+      loadCards(topicSlug);
+    } else {
+      // Đang ở trang chọn topic, không cần loading cards
+      setLoading(false);
+    }
   }, [topicSlug, loadTopics, loadCards]);
 
   return { 
     topics, cards, currentIndex, loading, 
     setCurrentIndex, 
-    next: () => setCurrentIndex((prev) => (prev + 1) % cards.length),
-    prev: () => setCurrentIndex((prev) => (prev - 1 + cards.length) % cards.length)
+    next: () => setCurrentIndex((prev) => cards.length > 0 ? (prev + 1) % cards.length : 0),
+    prev: () => setCurrentIndex((prev) => cards.length > 0 ? (prev - 1 + cards.length) % cards.length : 0)
   };
 };

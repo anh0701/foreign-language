@@ -24,6 +24,8 @@ export default function CoverPage({ onOpen }: Props) {
             <p className="
                 mt-6
                 max-w-md
+                px-6
+                md:px-0
                 text-center
                 font-serif
                 text-sm

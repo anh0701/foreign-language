@@ -4,3 +4,16 @@
 .preserve-3d { transform-style: preserve-3d; }
 .backface-hidden { backface-visibility: hidden; }
 .rotate-y-180 { transform: rotateY(180deg); }
+
+.custom-scrollbar::-webkit-scrollbar {
+    width: 3px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #d6d3d1;
+    border-radius: 9999px;
+}
+
+.custom-scrollbar {
+    scrollbar-width: thin;
+}

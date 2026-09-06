@@ -30,7 +30,7 @@ export default function TableOfContents({
                 Table of Contents
             </h1>
 
-            <div className="mt-10 flex-1 overflow-y-auto space-y-4 pr-2">
+            <div className="mt-10 flex-1 overflow-y-auto custom-scrollbar space-y-4 pr-1">
                 {quotes.map((quote) => (
                     <button
                         key={quote.id}
