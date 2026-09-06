@@ -36,7 +36,7 @@ export default function WordGamePage() {
             "{currentWord?.vi}"
           </h2>
 
-          <div className="flex flex-wrap gap-x-6 md:gap-x-8 gap-y-3 justify-center mb-12">
+          <div className="w-full flex flex-wrap gap-x-3 md:gap-x-8 gap-y-4 justify-center mb-10 px-1">
             {(() => {
               let letterIndex = 0;
 
@@ -79,7 +79,7 @@ export default function WordGamePage() {
                 const color = wordColors[wordIndex % wordColors.length];
 
                 return (
-                  <div key={wordIndex} className="flex gap-2 md:gap-3">
+                  <div key={wordIndex} className="flex gap-1.5 sm:gap-2 md:gap-3">
                     {word.split('').map(() => {
                       const selected = selectedLetters[letterIndex];
                       const currentIndex = letterIndex;
@@ -89,15 +89,19 @@ export default function WordGamePage() {
                         <div
                           key={`${wordIndex}-${currentIndex}`}
                           className={`
-                          w-10 h-12 md:w-12 md:h-14
-                          border-b-4
-                          flex items-center justify-center
-                          text-2xl font-black
-                          transition-all duration-300
-                          ${selected ? color.active : color.inactive}
-                        `}
+                            w-7 h-10
+                            sm:w-9 sm:h-11
+                            md:w-12 md:h-14
+                            border-b-4
+                            flex items-center justify-center
+                            text-lg sm:text-xl md:text-2xl
+                            font-black
+                            transition-all duration-300
+                            shrink-0
+                            ${selected ? color.active : color.inactive}
+                          `}
                         >
-                          {selected || ''}
+                          {selected?.toUpperCase() || ''}
                         </div>
                       );
                     })}
