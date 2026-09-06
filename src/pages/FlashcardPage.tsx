@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import { useFlashcard } from '../hooks/useFlashcard';
 import { Layers, House, ChevronLeft, ChevronRight, Rotate3d, Book } from 'lucide-react';
@@ -9,11 +9,24 @@ const FlashcardPage: React.FC = () => {
   const topicSlug = searchParams.get('topic');
   const topicTitle = searchParams.get('title');
   
-  const { topics, cards, currentIndex, next, prev } = useFlashcard(topicSlug);
+  const { topics, cards, currentIndex, next, prev, loading } = useFlashcard(topicSlug);
   const [isFlipped, setIsFlipped] = useState(false);
+
+  // Mỗi lần đổi topic → luôn bắt đầu với mặt trước
+  useEffect(() => {
+    setIsFlipped(false);
+  }, [topicSlug]);
 
   const handleNext = () => { setIsFlipped(false); setTimeout(next, 150); };
   const handlePrev = () => { setIsFlipped(false); setTimeout(prev, 150); };
+
+  if (loading) {
+    return (
+      <div className="flex justify-center items-center h-screen italic text-slate-500">
+        Đang tải dữ liệu...
+      </div>
+    );
+  }
 
   if (!topicSlug) {
     return (
