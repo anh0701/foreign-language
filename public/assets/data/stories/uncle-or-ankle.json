@@ -1,0 +1,402 @@
+{
+  "id": 22,
+  "slug": "uncle-or-ankle",
+  "title": "Uncle or Ankle?",
+  "level": "beginner",
+  "topic": "health",
+  "estimatedReadingTime": 2,
+
+  "summary": "A tries to ask for help after his uncle falls off his bicycle, but a funny misunderstanding happens between \"uncle\" and \"ankle\".",
+
+  "characters": [
+    {
+      "id": "a",
+      "name": "A",
+      "role": "main_character",
+      "gender": "male",
+      "chatSide": "left"
+    },
+    {
+      "id": "man",
+      "name": "Man",
+      "role": "support_character",
+      "gender": "male",
+      "chatSide": "right"
+    },
+    {
+      "id": "uncle",
+      "name": "Uncle",
+      "role": "support_character",
+      "gender": "male",
+      "chatSide": "left"
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "role": "narration",
+      "gender": "neutral",
+      "chatSide": "center"
+    }
+  ],
+
+  "dialogues": [
+    {
+      "order": 1,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "A was walking down the street when he suddenly saw his uncle fall off his bicycle.",
+      "translation": "A đang đi bộ trên đường thì bất ngờ thấy chú mình ngã khỏi xe đạp."
+    },
+    {
+      "order": 2,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "His uncle hit the ground and passed out.",
+      "translation": "Chú của A ngã xuống đất và bất tỉnh."
+    },
+    {
+      "order": 3,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "A was terrified. He ran to the nearest person for help.",
+      "translation": "A rất hoảng sợ. Cậu chạy đến người gần nhất để nhờ giúp đỡ."
+    },
+    {
+      "order": 4,
+      "speakerId": "a",
+      "type": "dialogue",
+      "english": "Help! Please help!",
+      "translation": "Cứu với! Làm ơn giúp tôi với!"
+    },
+    {
+      "order": 5,
+      "speakerId": "a",
+      "type": "dialogue",
+      "english": "My uncle is broken!",
+      "translation": "Chú tôi bị gãy rồi!"
+    },
+    {
+      "order": 6,
+      "speakerId": "man",
+      "type": "dialogue",
+      "english": "Your... ankle is broken?",
+      "translation": "Mắt cá chân của cậu... bị gãy à?"
+    },
+    {
+      "order": 7,
+      "speakerId": "a",
+      "type": "dialogue",
+      "english": "No! My uncle is broken!",
+      "translation": "Không! Chú tôi bị gãy!"
+    },
+    {
+      "order": 8,
+      "speakerId": "man",
+      "type": "dialogue",
+      "english": "Your ankle?",
+      "translation": "Mắt cá chân của cậu?"
+    },
+    {
+      "order": 9,
+      "speakerId": "a",
+      "type": "dialogue",
+      "english": "No, no! My uncle!",
+      "translation": "Không, không! Chú tôi!"
+    },
+    {
+      "order": 10,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "The man sighed.",
+      "translation": "Người đàn ông thở dài."
+    },
+    {
+      "order": 11,
+      "speakerId": "man",
+      "type": "dialogue",
+      "english": "Wait... are you talking about a body part?",
+      "translation": "Khoan đã... cậu đang nói về một bộ phận cơ thể à?"
+    },
+    {
+      "order": 12,
+      "speakerId": "a",
+      "type": "dialogue",
+      "english": "YES! My uncle is broken!",
+      "translation": "ĐÚNG! Chú tôi bị gãy!"
+    },
+    {
+      "order": 13,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "The man looked even more confused.",
+      "translation": "Người đàn ông càng thêm bối rối."
+    },
+    {
+      "order": 14,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "Then A pointed behind him.",
+      "translation": "Sau đó A chỉ ra phía sau mình."
+    },
+    {
+      "order": 15,
+      "speakerId": "a",
+      "type": "dialogue",
+      "english": "Look! He's over there!",
+      "translation": "Nhìn kìa! Chú tôi ở đằng kia!"
+    },
+    {
+      "order": 16,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "The man turned around.",
+      "translation": "Người đàn ông quay lại."
+    },
+    {
+      "order": 17,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "A's uncle was lying on the ground, completely unconscious, with his bicycle next to him.",
+      "translation": "Chú của A đang nằm bất tỉnh hoàn toàn trên mặt đất, với chiếc xe đạp nằm bên cạnh."
+    },
+    {
+      "order": 18,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "The man froze.",
+      "translation": "Người đàn ông sững người."
+    },
+    {
+      "order": 19,
+      "speakerId": "man",
+      "type": "dialogue",
+      "english": "Oh...",
+      "translation": "Ồ..."
+    },
+    {
+      "order": 20,
+      "speakerId": "man",
+      "type": "dialogue",
+      "english": "You mean your uncle!",
+      "translation": "Ý cậu là chú của cậu!"
+    },
+    {
+      "order": 21,
+      "speakerId": "a",
+      "type": "dialogue",
+      "english": "Yes!",
+      "translation": "Đúng!"
+    },
+    {
+      "order": 22,
+      "speakerId": "man",
+      "type": "dialogue",
+      "english": "Not your ankle?",
+      "translation": "Không phải mắt cá chân của cậu?"
+    },
+    {
+      "order": 23,
+      "speakerId": "a",
+      "type": "dialogue",
+      "english": "No! My uncle!",
+      "translation": "Không! Chú tôi!"
+    },
+    {
+      "order": 24,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "The man stared at the unconscious man for a moment.",
+      "translation": "Người đàn ông nhìn chằm chằm vào người đàn ông đang bất tỉnh một lúc."
+    },
+    {
+      "order": 25,
+      "speakerId": "man",
+      "type": "dialogue",
+      "english": "Okay... I understand now.",
+      "translation": "Được rồi... giờ thì tôi hiểu rồi."
+    },
+    {
+      "order": 26,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "He quickly ran over to help.",
+      "translation": "Anh ta nhanh chóng chạy đến để giúp đỡ."
+    },
+    {
+      "order": 27,
+      "speakerId": "narrator",
+      "type": "narration",
+      "english": "A followed him.",
+      "translation": "A đi theo anh ta."
+    },
+    {
+      "order": 28,
+      "speakerId": "man",
+      "type": "dialogue",
+      "english": "Next time, just say, \"My uncle fell off his bike!\"",
+      "translation": "Lần sau, cứ nói: \"Chú tôi bị ngã xe đạp!\""
+    },
+    {
+      "order": 29,
+      "speakerId": "a",
+      "type": "dialogue",
+      "english": "Okay.",
+      "translation": "Được."
+    },
+    {
+      "order": 30,
+      "speakerId": "man",
+      "type": "dialogue",
+      "english": "And maybe learn the difference between uncle and ankle later.",
+      "translation": "Và có lẽ sau này cậu nên học sự khác nhau giữa uncle và ankle."
+    },
+    {
+      "order": 31,
+      "speakerId": "a",
+      "type": "dialogue",
+      "english": "Later. Definitely later.",
+      "translation": "Để sau. Chắc chắn là để sau."
+    }
+  ],
+
+  "vocabulary": [
+    {
+      "word": "uncle",
+      "meaning": "chú, bác, cậu",
+      "example": "My uncle lives in Hanoi."
+    },
+    {
+      "word": "ankle",
+      "meaning": "mắt cá chân",
+      "example": "I hurt my ankle."
+    },
+    {
+      "word": "broken",
+      "meaning": "bị gãy",
+      "example": "He has a broken arm."
+    },
+    {
+      "word": "fall off",
+      "meaning": "ngã khỏi",
+      "example": "He fell off his bike."
+    },
+    {
+      "word": "bicycle",
+      "meaning": "xe đạp",
+      "example": "She rides her bicycle to work."
+    },
+    {
+      "word": "hit the ground",
+      "meaning": "ngã xuống đất, đập xuống đất",
+      "example": "He fell and hit the ground."
+    },
+    {
+      "word": "pass out",
+      "meaning": "bất tỉnh, ngất",
+      "example": "He passed out after the accident."
+    },
+    {
+      "word": "unconscious",
+      "meaning": "bất tỉnh",
+      "example": "The man was unconscious."
+    },
+    {
+      "word": "terrified",
+      "meaning": "rất sợ hãi, hoảng sợ",
+      "example": "She was terrified after the accident."
+    },
+    {
+      "word": "body part",
+      "meaning": "bộ phận cơ thể",
+      "example": "The hand is a body part."
+    },
+    {
+      "word": "confused",
+      "meaning": "bối rối, không hiểu",
+      "example": "He looked confused."
+    },
+    {
+      "word": "freeze",
+      "meaning": "sững người, đứng im vì bất ngờ",
+      "example": "He froze when he saw the accident."
+    }
+  ],
+
+  "quiz": [
+    {
+      "question": "What happened to A's uncle?",
+      "options": [
+        "He lost his bicycle",
+        "He fell off his bicycle and passed out",
+        "He hurt his ankle while walking",
+        "He went home"
+      ],
+      "answer": "He fell off his bicycle and passed out"
+    },
+    {
+      "question": "What did the man think A meant by \"uncle\"?",
+      "options": [
+        "A body part",
+        "A bicycle",
+        "A friend",
+        "A doctor"
+      ],
+      "answer": "A body part"
+    },
+    {
+      "question": "Which body part sounds similar to \"uncle\"?",
+      "options": [
+        "Elbow",
+        "Knee",
+        "Ankle",
+        "Wrist"
+      ],
+      "answer": "Ankle"
+    },
+    {
+      "question": "What does \"ankle\" mean?",
+      "options": [
+        "Mắt cá chân",
+        "Khuỷu tay",
+        "Đầu gối",
+        "Cổ tay"
+      ],
+      "answer": "Mắt cá chân"
+    },
+    {
+      "question": "What does \"uncle\" mean?",
+      "options": [
+        "Mắt cá chân",
+        "Chú, bác, cậu",
+        "Xe đạp",
+        "Người bị thương"
+      ],
+      "answer": "Chú, bác, cậu"
+    },
+    {
+      "question": "Why was the man confused?",
+      "options": [
+        "A was speaking too quietly",
+        "A used \"uncle\" when the man thought he meant \"ankle\"",
+        "The man could not see the bicycle",
+        "A did not know where his uncle was"
+      ],
+      "answer": "A used \"uncle\" when the man thought he meant \"ankle\""
+    }
+  ],
+
+  "tags": [
+    "health",
+    "funny",
+    "beginner",
+    "conversation",
+    "uncle",
+    "ankle",
+    "body-parts"
+  ],
+
+  "thumbnail": "/images/uncle-or-ankle.jpg",
+  "published": true,
+  "createdAt": "2026-09-07T08:00:00Z",
+  "updatedAt": "2026-09-07T08:00:00Z"
+}

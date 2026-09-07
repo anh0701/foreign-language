@@ -1,0 +1,406 @@
+[
+  {
+    "front": "How are you feeling today?",
+    "back": "I'm feeling great, thanks!"
+  },
+  {
+    "front": "How are you feeling?",
+    "back": "I'm doing well."
+  },
+  {
+    "front": "How are you?",
+    "back": "I'm pretty good, thanks."
+  },
+  {
+    "front": "Are you feeling okay?",
+    "back": "Yes, I'm fine."
+  },
+  {
+    "front": "How do you feel today?",
+    "back": "I feel much better today."
+  },
+  {
+    "front": "How are you feeling?",
+    "back": "I'm a little tired."
+  },
+  {
+    "front": "Are you okay?",
+    "back": "I'm okay, just a little stressed."
+  },
+  {
+    "front": "How have you been feeling lately?",
+    "back": "I've been feeling good lately."
+  },
+  {
+    "front": "How are you feeling now?",
+    "back": "I'm feeling better now."
+  },
+  {
+    "front": "Are you feeling better?",
+    "back": "Yes, much better. Thanks for asking."
+  },
+  {
+    "front": "What's wrong?",
+    "back": "I don't feel very well."
+  },
+  {
+    "front": "What's the matter?",
+    "back": "I have a headache."
+  },
+  {
+    "front": "Are you sick?",
+    "back": "I think I might be getting a cold."
+  },
+  {
+    "front": "You don't look well. Are you okay?",
+    "back": "Not really. I feel a little sick."
+  },
+  {
+    "front": "What's bothering you?",
+    "back": "My stomach hurts."
+  },
+  {
+    "front": "Why do you look so tired?",
+    "back": "I didn't sleep well last night."
+  },
+  {
+    "front": "What's wrong with you?",
+    "back": "I have a sore throat."
+  },
+  {
+    "front": "Why aren't you feeling well?",
+    "back": "I think I ate something bad."
+  },
+  {
+    "front": "Do you feel sick?",
+    "back": "Yes, I feel nauseous."
+  },
+  {
+    "front": "Are you feeling any better?",
+    "back": "A little, but I'm still tired."
+  },
+  {
+    "front": "How do you feel?",
+    "back": "I feel tired."
+  },
+  {
+    "front": "How do you feel?",
+    "back": "I feel weak."
+  },
+  {
+    "front": "How do you feel?",
+    "back": "I feel dizzy."
+  },
+  {
+    "front": "How do you feel?",
+    "back": "I feel sick."
+  },
+  {
+    "front": "How do you feel?",
+    "back": "I feel exhausted."
+  },
+  {
+    "front": "How do you feel?",
+    "back": "I feel relaxed."
+  },
+  {
+    "front": "How do you feel?",
+    "back": "I feel stressed."
+  },
+  {
+    "front": "How do you feel?",
+    "back": "I feel anxious."
+  },
+  {
+    "front": "How do you feel?",
+    "back": "I feel happy today."
+  },
+  {
+    "front": "How do you feel?",
+    "back": "I feel much calmer now."
+  },
+  {
+    "front": "What symptoms do you have?",
+    "back": "I have a headache."
+  },
+  {
+    "front": "What symptoms do you have?",
+    "back": "I have a fever."
+  },
+  {
+    "front": "What symptoms do you have?",
+    "back": "I have a cough."
+  },
+  {
+    "front": "What symptoms do you have?",
+    "back": "I have a runny nose."
+  },
+  {
+    "front": "What symptoms do you have?",
+    "back": "I have a sore throat."
+  },
+  {
+    "front": "What symptoms do you have?",
+    "back": "I have a stomachache."
+  },
+  {
+    "front": "What symptoms do you have?",
+    "back": "I feel dizzy and weak."
+  },
+  {
+    "front": "What symptoms do you have?",
+    "back": "I feel nauseous."
+  },
+  {
+    "front": "What symptoms do you have?",
+    "back": "My body aches."
+  },
+  {
+    "front": "What symptoms do you have?",
+    "back": "I have trouble sleeping."
+  },
+  {
+    "front": "Where does it hurt?",
+    "back": "My head hurts."
+  },
+  {
+    "front": "Where does it hurt?",
+    "back": "My stomach hurts."
+  },
+  {
+    "front": "Where does it hurt?",
+    "back": "My back hurts."
+  },
+  {
+    "front": "Where does it hurt?",
+    "back": "My throat hurts."
+  },
+  {
+    "front": "Where does it hurt?",
+    "back": "My neck hurts."
+  },
+  {
+    "front": "Where does it hurt?",
+    "back": "My leg hurts."
+  },
+  {
+    "front": "Where does it hurt?",
+    "back": "My arm hurts."
+  },
+  {
+    "front": "Does it hurt?",
+    "back": "Yes, it hurts a lot."
+  },
+  {
+    "front": "Does it still hurt?",
+    "back": "Yes, but not as much as before."
+  },
+  {
+    "front": "When did you start feeling sick?",
+    "back": "I started feeling sick yesterday."
+  },
+  {
+    "front": "How long have you been sick?",
+    "back": "I've been sick for three days."
+  },
+  {
+    "front": "When did the pain start?",
+    "back": "It started this morning."
+  },
+  {
+    "front": "How long have you had this headache?",
+    "back": "I've had it since yesterday."
+  },
+  {
+    "front": "When did you first notice the symptoms?",
+    "back": "I noticed them a few days ago."
+  },
+  {
+    "front": "Has the pain gotten worse?",
+    "back": "Yes, it has gotten worse."
+  },
+  {
+    "front": "Is the pain getting better?",
+    "back": "Yes, it's slowly getting better."
+  },
+  {
+    "front": "Have you been feeling sick for a long time?",
+    "back": "No, it just started today."
+  },
+  {
+    "front": "Have you taken any medicine?",
+    "back": "Yes, I took some medicine this morning."
+  },
+  {
+    "front": "Did you take your medicine?",
+    "back": "Yes, I took it after breakfast."
+  },
+  {
+    "front": "Have you seen a doctor?",
+    "back": "Yes, I saw a doctor yesterday."
+  },
+  {
+    "front": "Do you need to see a doctor?",
+    "back": "I think I should see one."
+  },
+  {
+    "front": "What did the doctor say?",
+    "back": "The doctor said I need to get some rest."
+  },
+  {
+    "front": "Did the doctor give you any medicine?",
+    "back": "Yes, the doctor prescribed some medicine."
+  },
+  {
+    "front": "Are you taking any medication?",
+    "back": "Yes, I'm taking medicine for my cough."
+  },
+  {
+    "front": "Have you had enough rest?",
+    "back": "Not really. I've been very busy."
+  },
+  {
+    "front": "Did you sleep well?",
+    "back": "Yes, I slept very well."
+  },
+  {
+    "front": "Did you sleep well?",
+    "back": "No, I couldn't sleep well last night."
+  },
+  {
+    "front": "How many hours did you sleep?",
+    "back": "I only slept for about five hours."
+  },
+  {
+    "front": "Why are you so tired?",
+    "back": "I didn't get enough sleep."
+  },
+  {
+    "front": "Are you getting enough sleep?",
+    "back": "I'm trying to sleep more."
+  },
+  {
+    "front": "Do you feel rested?",
+    "back": "Yes, I feel refreshed."
+  },
+  {
+    "front": "What brings you here today?",
+    "back": "I've been feeling sick for the past few days."
+  },
+  {
+    "front": "Can you describe your symptoms?",
+    "back": "I have a fever, a cough, and a sore throat."
+  },
+  {
+    "front": "Do you have a fever?",
+    "back": "Yes, I think I have a slight fever."
+  },
+  {
+    "front": "Are you coughing?",
+    "back": "Yes, I've been coughing a lot."
+  },
+  {
+    "front": "Do you have a headache?",
+    "back": "Yes, I've had a headache all day."
+  },
+  {
+    "front": "Do you feel dizzy?",
+    "back": "Yes, especially when I stand up."
+  },
+  {
+    "front": "Are you having trouble breathing?",
+    "back": "No, I can breathe normally."
+  },
+  {
+    "front": "Does anything make the pain worse?",
+    "back": "Yes, it gets worse when I move."
+  },
+  {
+    "front": "Does anything make you feel better?",
+    "back": "Resting helps me feel better."
+  },
+  {
+    "front": "Do you have any allergies?",
+    "back": "No, I don't have any allergies that I know of."
+  },
+  {
+    "front": "How are you feeling after the medicine?",
+    "back": "I feel much better now."
+  },
+  {
+    "front": "Are you feeling better now?",
+    "back": "Yes, the medicine seems to be helping."
+  },
+  {
+    "front": "Do you need anything?",
+    "back": "No, I'm okay. Thank you for asking."
+  },
+  {
+    "front": "Can I help you?",
+    "back": "Thanks, but I think I'll be okay."
+  },
+  {
+    "front": "Should I call a doctor?",
+    "back": "No, I don't think it's necessary right now."
+  },
+  {
+    "front": "Do you want to go home and rest?",
+    "back": "Yes, I think that's a good idea."
+  },
+  {
+    "front": "You should get some rest.",
+    "back": "You're right. I really need to rest."
+  },
+  {
+    "front": "Make sure you drink plenty of water.",
+    "back": "Thanks. I'll make sure to stay hydrated."
+  },
+  {
+    "front": "Take care of yourself.",
+    "back": "Thank you. I will."
+  },
+  {
+    "front": "I hope you feel better soon.",
+    "back": "Thank you. I really appreciate that."
+  },
+  {
+    "front": "Are you okay now?",
+    "back": "Yes, I'm feeling much better now."
+  },
+  {
+    "front": "How is your health these days?",
+    "back": "My health has been pretty good lately."
+  },
+  {
+    "front": "Have you been exercising?",
+    "back": "Yes, I've been exercising regularly."
+  },
+  {
+    "front": "Do you eat healthy food?",
+    "back": "I try to eat healthy whenever I can."
+  },
+  {
+    "front": "Do you drink enough water?",
+    "back": "I try to drink plenty of water every day."
+  },
+  {
+    "front": "Are you feeling stressed?",
+    "back": "Yes, I've been under a lot of stress lately."
+  },
+  {
+    "front": "What do you do when you feel stressed?",
+    "back": "I usually listen to music or take a walk."
+  },
+  {
+    "front": "Are you feeling happy today?",
+    "back": "Yes, I'm in a really good mood today."
+  },
+  {
+    "front": "Why do you seem worried?",
+    "back": "I've just had a lot on my mind lately."
+  },
+  {
+    "front": "How are you feeling emotionally?",
+    "back": "I'm feeling much better emotionally."
+  }
+]
