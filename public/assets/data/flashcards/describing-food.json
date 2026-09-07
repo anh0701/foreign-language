@@ -1,0 +1,82 @@
+[
+  {
+    "front": "How does the food look?",
+    "back": "It looks delicious."
+  },
+  {
+    "front": "How does the food smell?",
+    "back": "It smells wonderful."
+  },
+  {
+    "front": "How does it taste?",
+    "back": "It tastes really good."
+  },
+  {
+    "front": "How does it taste?",
+    "back": "It is sweet and creamy."
+  },
+  {
+    "front": "How does it taste?",
+    "back": "It is a little spicy."
+  },
+  {
+    "front": "How does it taste?",
+    "back": "It is slightly salty."
+  },
+  {
+    "front": "How does it taste?",
+    "back": "It tastes fresh and light."
+  },
+  {
+    "front": "Is the food spicy?",
+    "back": "Yes, it is quite spicy."
+  },
+  {
+    "front": "Is the food sweet?",
+    "back": "Yes, but it isn't too sweet."
+  },
+  {
+    "front": "Is the food salty?",
+    "back": "It's a little too salty for me."
+  },
+  {
+    "front": "Is the food hot?",
+    "back": "Yes, it's still very hot."
+  },
+  {
+    "front": "What is the texture like?",
+    "back": "It is soft and creamy."
+  },
+  {
+    "front": "What is the texture like?",
+    "back": "It is crispy on the outside."
+  },
+  {
+    "front": "What is the texture like?",
+    "back": "It is tender and juicy."
+  },
+  {
+    "front": "What does it smell like?",
+    "back": "It has a rich and pleasant smell."
+  },
+  {
+    "front": "What ingredients does it have?",
+    "back": "It contains vegetables, meat, and spices."
+  },
+  {
+    "front": "What is your favorite part of the dish?",
+    "back": "I really like the sauce."
+  },
+  {
+    "front": "Do you like the food?",
+    "back": "Yes, I absolutely love it."
+  },
+  {
+    "front": "Do you like the food?",
+    "back": "It's okay, but it's not my favorite."
+  },
+  {
+    "front": "Would you recommend this dish?",
+    "back": "Yes, I would definitely recommend it."
+  }
+]

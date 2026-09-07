@@ -85,7 +85,7 @@ const FlashcardPage: React.FC = () => {
                 {cards[currentIndex]?.front}
               </p>
               <div className="absolute bottom-6 text-slate-300 flex items-center gap-2 text-xs font-bold uppercase tracking-widest">
-                <Rotate3d size={16} /> Click để xem nghĩa
+                <Rotate3d size={16} /> Click để lật
               </div>
             </div>
 

@@ -1,0 +1,286 @@
+[
+  {
+    "front": "What does it look like?",
+    "back": "It is small and round."
+  },
+  {
+    "front": "What does it look like?",
+    "back": "It is big and heavy."
+  },
+  {
+    "front": "What does it look like?",
+    "back": "It is long and thin."
+  },
+  {
+    "front": "What color is it?",
+    "back": "It is bright red."
+  },
+  {
+    "front": "What color is it?",
+    "back": "It is dark blue."
+  },
+  {
+    "front": "What shape is it?",
+    "back": "It is round."
+  },
+  {
+    "front": "What shape is it?",
+    "back": "It is square."
+  },
+  {
+    "front": "How big is it?",
+    "back": "It is quite large."
+  },
+  {
+    "front": "How heavy is it?",
+    "back": "It is surprisingly heavy."
+  },
+  {
+    "front": "What is it made of?",
+    "back": "It is made of wood."
+  },
+  {
+    "front": "What is it made of?",
+    "back": "It is made of plastic."
+  },
+  {
+    "front": "How does it feel?",
+    "back": "It feels soft and smooth."
+  },
+  {
+    "front": "How does it feel?",
+    "back": "It feels rough and hard."
+  },
+  {
+    "front": "Is it new or old?",
+    "back": "It is quite old."
+  },
+  {
+    "front": "Is it in good condition?",
+    "back": "Yes, it is still in very good condition."
+  },
+
+  {
+    "front": "What happened?",
+    "back": "Something unexpected happened."
+  },
+  {
+    "front": "What happened?",
+    "back": "I accidentally dropped my phone."
+  },
+  {
+    "front": "What happened yesterday?",
+    "back": "We had a small problem at work."
+  },
+  {
+    "front": "Can you describe what happened?",
+    "back": "Everything happened very quickly."
+  },
+  {
+    "front": "What happened first?",
+    "back": "First, we heard a loud noise."
+  },
+  {
+    "front": "What happened next?",
+    "back": "Then, everyone started running outside."
+  },
+  {
+    "front": "Was anyone hurt?",
+    "back": "Fortunately, nobody was hurt."
+  },
+  {
+    "front": "How did it happen?",
+    "back": "It happened by accident."
+  },
+  {
+    "front": "When did it happen?",
+    "back": "It happened early this morning."
+  },
+  {
+    "front": "Where did it happen?",
+    "back": "It happened near my house."
+  },
+  {
+    "front": "Was it serious?",
+    "back": "No, it wasn't very serious."
+  },
+  {
+    "front": "How did you feel about it?",
+    "back": "I was very surprised."
+  },
+  {
+    "front": "What was the problem?",
+    "back": "The computer suddenly stopped working."
+  },
+  {
+    "front": "How was the event?",
+    "back": "It was exciting and well organized."
+  },
+  {
+    "front": "How was your day?",
+    "back": "It was busy but productive."
+  },
+
+  {
+    "front": "How does the food look?",
+    "back": "It looks delicious."
+  },
+  {
+    "front": "How does the food smell?",
+    "back": "It smells wonderful."
+  },
+  {
+    "front": "How does it taste?",
+    "back": "It tastes really good."
+  },
+  {
+    "front": "How does it taste?",
+    "back": "It is sweet and creamy."
+  },
+  {
+    "front": "How does it taste?",
+    "back": "It is a little spicy."
+  },
+  {
+    "front": "How does it taste?",
+    "back": "It is slightly salty."
+  },
+  {
+    "front": "How does it taste?",
+    "back": "It tastes fresh and light."
+  },
+  {
+    "front": "Is the food spicy?",
+    "back": "Yes, it is quite spicy."
+  },
+  {
+    "front": "Is the food sweet?",
+    "back": "Yes, but it isn't too sweet."
+  },
+  {
+    "front": "Is the food salty?",
+    "back": "It's a little too salty for me."
+  },
+  {
+    "front": "Is the food hot?",
+    "back": "Yes, it's still very hot."
+  },
+  {
+    "front": "What is the texture like?",
+    "back": "It is soft and creamy."
+  },
+  {
+    "front": "What is the texture like?",
+    "back": "It is crispy on the outside."
+  },
+  {
+    "front": "What is the texture like?",
+    "back": "It is tender and juicy."
+  },
+  {
+    "front": "What does it smell like?",
+    "back": "It has a rich and pleasant smell."
+  },
+  {
+    "front": "What ingredients does it have?",
+    "back": "It contains vegetables, meat, and spices."
+  },
+  {
+    "front": "What is your favorite part of the dish?",
+    "back": "I really like the sauce."
+  },
+  {
+    "front": "Do you like the food?",
+    "back": "Yes, I absolutely love it."
+  },
+  {
+    "front": "Do you like the food?",
+    "back": "It's okay, but it's not my favorite."
+  },
+  {
+    "front": "Would you recommend this dish?",
+    "back": "Yes, I would definitely recommend it."
+  },
+
+  {
+    "front": "Can you describe this place?",
+    "back": "It is a beautiful and peaceful place."
+  },
+  {
+    "front": "What is the place like?",
+    "back": "It is crowded and lively."
+  },
+  {
+    "front": "What is the weather like?",
+    "back": "It is warm and sunny."
+  },
+  {
+    "front": "What is the room like?",
+    "back": "It is clean, bright, and spacious."
+  },
+  {
+    "front": "What does the house look like?",
+    "back": "It is a large house with a beautiful garden."
+  },
+  {
+    "front": "How would you describe the view?",
+    "back": "The view is absolutely breathtaking."
+  },
+  {
+    "front": "How would you describe the atmosphere?",
+    "back": "The atmosphere is calm and relaxing."
+  },
+  {
+    "front": "What is the city like?",
+    "back": "It is modern and full of life."
+  },
+  {
+    "front": "How was the restaurant?",
+    "back": "It was cozy and comfortable."
+  },
+  {
+    "front": "Was the place crowded?",
+    "back": "Yes, it was very crowded."
+  },
+
+  {
+    "front": "Can you describe it in one word?",
+    "back": "Amazing."
+  },
+  {
+    "front": "Can you describe it in one word?",
+    "back": "Beautiful."
+  },
+  {
+    "front": "Can you describe it in one word?",
+    "back": "Interesting."
+  },
+  {
+    "front": "What do you think of it?",
+    "back": "I think it is really impressive."
+  },
+  {
+    "front": "What is special about it?",
+    "back": "Its unique design makes it special."
+  },
+  {
+    "front": "Why do you like it?",
+    "back": "I like it because it is simple and useful."
+  },
+  {
+    "front": "Can you describe your experience?",
+    "back": "It was an unforgettable experience."
+  },
+  {
+    "front": "What was the most interesting part?",
+    "back": "The most interesting part was meeting new people."
+  },
+  {
+    "front": "Was it what you expected?",
+    "back": "No, it was even better than I expected."
+  },
+  {
+    "front": "Would you do it again?",
+    "back": "Yes, I would definitely do it again."
+  }
+]
