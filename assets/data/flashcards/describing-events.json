@@ -1,0 +1,82 @@
+[
+  {
+    "front": "What happened?",
+    "back": "Something unexpected happened."
+  },
+  {
+    "front": "What happened?",
+    "back": "I accidentally dropped my phone."
+  },
+  {
+    "front": "What happened yesterday?",
+    "back": "We had a small problem at work."
+  },
+  {
+    "front": "Can you describe what happened?",
+    "back": "Everything happened very quickly."
+  },
+  {
+    "front": "What happened first?",
+    "back": "First, we heard a loud noise."
+  },
+  {
+    "front": "What happened next?",
+    "back": "Then, everyone started running outside."
+  },
+  {
+    "front": "What happened after that?",
+    "back": "After that, we called for help."
+  },
+  {
+    "front": "When did it happen?",
+    "back": "It happened early this morning."
+  },
+  {
+    "front": "Where did it happen?",
+    "back": "It happened near my house."
+  },
+  {
+    "front": "How did it happen?",
+    "back": "It happened by accident."
+  },
+  {
+    "front": "Was anyone hurt?",
+    "back": "Fortunately, nobody was hurt."
+  },
+  {
+    "front": "Was it serious?",
+    "back": "No, it wasn't very serious."
+  },
+  {
+    "front": "How did you feel about it?",
+    "back": "I was very surprised."
+  },
+  {
+    "front": "What was the problem?",
+    "back": "The computer suddenly stopped working."
+  },
+  {
+    "front": "How was the event?",
+    "back": "It was exciting and well organized."
+  },
+  {
+    "front": "Did everything go well?",
+    "back": "Yes, everything went smoothly."
+  },
+  {
+    "front": "Was it what you expected?",
+    "back": "No, it was even better than I expected."
+  },
+  {
+    "front": "What was the most interesting part?",
+    "back": "The most interesting part was meeting new people."
+  },
+  {
+    "front": "How was your day?",
+    "back": "It was busy but productive."
+  },
+  {
+    "front": "Would you do it again?",
+    "back": "Yes, I would definitely do it again."
+  }
+]
