@@ -45,6 +45,40 @@ export const useMatchingGame = (jsonPath: string) => {
     return result;
   };
 
+  const normalizeVietnamese = (text: string) => {
+    return text
+      .trim()
+      .toLowerCase()
+      .replace(/\s+/g, ' ');
+  };
+
+  const selectUniqueMeaningPairs = (
+    data: WordPair[],
+    count: number
+  ): WordPair[] => {
+    const shuffledData = shuffle(data);
+
+    const selected: WordPair[] = [];
+    const usedMeanings = new Set<string>();
+
+    for (const word of shuffledData) {
+      const normalizedMeaning = normalizeVietnamese(word.vi);
+
+      if (usedMeanings.has(normalizedMeaning)) {
+        continue;
+      }
+
+      usedMeanings.add(normalizedMeaning);
+      selected.push(word);
+
+      if (selected.length === count) {
+        break;
+      }
+    }
+
+    return selected;
+  };
+
   const initGame = useCallback(async () => {
     try {
       setLoading(true);
@@ -62,7 +96,7 @@ export const useMatchingGame = (jsonPath: string) => {
       // Chọn 5 cặp cho round.
       // Mỗi WordPair giữ nguyên id.
 
-      const shuffled = shuffle(data).slice(0, 5);
+      const shuffled = selectUniqueMeaningPairs(data, 5);
 
       //  Hai column chứa cùng 5 WordPair, nhưng thứ tự khác nhau.
 
