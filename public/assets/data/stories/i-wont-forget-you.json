@@ -1,0 +1,256 @@
+{
+    "id": 24,
+    "slug": "i-remember-you",
+    "title": "I Remember You",
+    "level": "beginner",
+    "topic": "relationships",
+    "estimatedReadingTime": 2,
+    "summary": "Voki tries to say that he will never forget his friend, but his simple English creates a funny misunderstanding.",
+    "characters": [
+        {
+            "id": "voki",
+            "name": "Voki",
+            "role": "main_character",
+            "gender": "male",
+            "chatSide": "left"
+        },
+        {
+            "id": "friend",
+            "name": "Friend",
+            "role": "support_character",
+            "gender": "neutral",
+            "chatSide": "right"
+        },
+        {
+            "id": "narrator",
+            "name": "Narrator",
+            "role": "narration",
+            "gender": "neutral",
+            "chatSide": "center"
+        }
+    ],
+    "dialogues": [
+        {
+            "order": 1,
+            "speakerId": "narrator",
+            "type": "narration",
+            "english": "Voki and his best friend are at the train station. It is time to say goodbye.",
+            "translation": "Voki và người bạn thân đang ở ga tàu. Đã đến lúc phải nói lời tạm biệt."
+        },
+        {
+            "order": 2,
+            "speakerId": "friend",
+            "type": "dialogue",
+            "english": "My train is coming. I have to go.",
+            "translation": "Tàu của mình sắp đến rồi. Mình phải đi."
+        },
+        {
+            "order": 3,
+            "speakerId": "voki",
+            "type": "dialogue",
+            "english": "I know. I am going to miss you.",
+            "translation": "Mình biết. Mình sẽ nhớ bạn."
+        },
+        {
+            "order": 4,
+            "speakerId": "friend",
+            "type": "dialogue",
+            "english": "I will miss you too.",
+            "translation": "Mình cũng sẽ nhớ bạn."
+        },
+        {
+            "order": 5,
+            "speakerId": "narrator",
+            "type": "narration",
+            "english": "Voki wants to say one last thing. He wants his friend to know that he will never forget him.",
+            "translation": "Voki muốn nói một điều cuối cùng. Cậu muốn người bạn biết rằng cậu sẽ không bao giờ quên bạn mình."
+        },
+        {
+            "order": 6,
+            "speakerId": "voki",
+            "type": "dialogue",
+            "english": "You go far away...",
+            "translation": "Bạn sẽ đi rất xa..."
+        },
+        {
+            "order": 7,
+            "speakerId": "voki",
+            "type": "dialogue",
+            "english": "I remember you!",
+            "translation": "Mình nhớ bạn!"
+        },
+        {
+            "order": 8,
+            "speakerId": "friend",
+            "type": "dialogue",
+            "english": "You remember me?",
+            "translation": "Bạn nhớ mình à?"
+        },
+        {
+            "order": 9,
+            "speakerId": "voki",
+            "type": "dialogue",
+            "english": "Yes! When you go... I remember you.",
+            "translation": "Đúng! Khi bạn đi... mình nhớ bạn."
+        },
+        {
+            "order": 10,
+            "speakerId": "friend",
+            "type": "dialogue",
+            "english": "Of course. But you mean you will remember me after I leave?",
+            "translation": "Tất nhiên rồi. Nhưng ý bạn là bạn sẽ nhớ mình sau khi mình rời đi à?"
+        },
+        {
+            "order": 11,
+            "speakerId": "voki",
+            "type": "dialogue",
+            "english": "Yes! And... I don't want to forget you.",
+            "translation": "Đúng! Và... mình không muốn quên bạn."
+        },
+        {
+            "order": 12,
+            "speakerId": "friend",
+            "type": "dialogue",
+            "english": "Ah, I understand!",
+            "translation": "À, mình hiểu rồi!"
+        },
+        {
+            "order": 13,
+            "speakerId": "friend",
+            "type": "dialogue",
+            "english": "You mean, \"I won't forget you.\"",
+            "translation": "Ý bạn là, \"Mình sẽ không quên bạn.\""
+        },
+        {
+            "order": 14,
+            "speakerId": "voki",
+            "type": "dialogue",
+            "english": "Yes! I won't forget you!",
+            "translation": "Đúng! Mình sẽ không quên bạn!"
+        },
+        {
+            "order": 15,
+            "speakerId": "narrator",
+            "type": "narration",
+            "english": "The train arrives. Voki gives his friend a big hug.",
+            "translation": "Chuyến tàu đến. Voki ôm người bạn thật chặt."
+        },
+        {
+            "order": 16,
+            "speakerId": "friend",
+            "type": "dialogue",
+            "english": "Goodbye, Voki. Don't forget me!",
+            "translation": "Tạm biệt Voki. Đừng quên mình nhé!"
+        },
+        {
+            "order": 17,
+            "speakerId": "voki",
+            "type": "dialogue",
+            "english": "Never. I won't forget you.",
+            "translation": "Không bao giờ. Mình sẽ không quên bạn."
+        }
+    ],
+    "vocabulary": [
+        {
+            "word": "remember",
+            "meaning": "nhớ, nhớ lại, nhận ra",
+            "example": "I remember you.",
+            "note": "\"I remember you\" = Tôi nhớ bạn / Tôi nhận ra bạn. Câu này nói về việc bạn đang nhớ hoặc nhận ra một người, không nhấn mạnh lời hứa về tương lai."
+        },
+        {
+            "word": "forget",
+            "meaning": "quên",
+            "example": "I don't want to forget you.",
+            "note": "\"Forget\" = quên. Khi muốn nói về việc sẽ không quên một người trong tương lai, dùng \"won't forget\"."
+        },
+        {
+            "word": "I remember you",
+            "meaning": "Tôi nhớ bạn / Tôi nhận ra bạn",
+            "example": "Oh, I remember you! We met last year.",
+            "note": "Dùng khi bạn nhớ hoặc nhận ra một người. Ví dụ khi gặp lại ai đó: \"Oh, I remember you!\" = \"À, tôi nhớ bạn!\""
+        },
+        {
+            "word": "I won't forget you",
+            "meaning": "Tôi sẽ không quên bạn",
+            "example": "Goodbye. I won't forget you.",
+            "note": "\"won't\" = \"will not\" → nói về tương lai. Trong một lời chia tay, nếu muốn hứa rằng mình sẽ luôn nhớ người đó, hãy nói \"I won't forget you.\""
+        },
+        {
+            "word": "won't",
+            "meaning": "sẽ không",
+            "example": "I won't forget this day.",
+            "note": "\"won't\" = \"will not\", dùng để nói một điều sẽ không xảy ra trong tương lai."
+        },
+        {
+            "word": "miss",
+            "meaning": "nhớ, cảm thấy buồn vì ai đó không ở bên",
+            "example": "I will miss you.",
+            "note": "\"I will miss you\" = Mình sẽ nhớ bạn khi bạn không còn ở đây."
+        },
+        {
+            "word": "goodbye",
+            "meaning": "tạm biệt",
+            "example": "It is time to say goodbye.",
+            "note": "Dùng khi kết thúc một cuộc gặp hoặc khi một người rời đi."
+        },
+        {
+            "word": "far away",
+            "meaning": "ở rất xa",
+            "example": "My friend lives far away.",
+            "note": "Dùng để nói một người hoặc một nơi ở khoảng cách xa."
+        }
+    ],
+    "quiz": [
+        {
+            "question": "Why did Voki say \"I remember you\"?",
+            "options": [
+                "He wanted to say he would never forget his friend.",
+                "He wanted to ask where his friend lived.",
+                "He wanted to say goodbye quickly.",
+                "He wanted to remember a phone number."
+            ],
+            "answer": "He wanted to say he would never forget his friend."
+        },
+        {
+            "question": "What did Voki really want to say?",
+            "options": [
+                "I remember you.",
+                "I don't know you.",
+                "I won't forget you.",
+                "I will forget you."
+            ],
+            "answer": "I won't forget you."
+        },
+        {
+            "question": "What does \"I remember you\" usually mean?",
+            "options": [
+                "I will never forget you.",
+                "I know or recognize you from before.",
+                "I will see you tomorrow.",
+                "I want you to stay."
+            ],
+            "answer": "I know or recognize you from before."
+        },
+        {
+            "question": "What does \"I won't forget you\" mean?",
+            "options": [
+                "I don't know you.",
+                "I forgot you yesterday.",
+                "I will not forget you in the future.",
+                "I want to forget you."
+            ],
+            "answer": "I will not forget you in the future."
+        }
+    ],
+    "tags": [
+        "humor",
+        "relationships",
+        "grammar",
+        "common_mistakes",
+        "emotions"
+    ],
+    "thumbnail": "/images/i-wont-forget-you.jpg",
+    "published": true,
+    "createdAt": "2026-09-10T08:00:00Z",
+    "updatedAt": "2026-09-10T08:00:00Z"
+}

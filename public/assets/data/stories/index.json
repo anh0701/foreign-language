@@ -1,200 +1,27 @@
 [
-  {
-    "id": 1,
-    "slug": "the-lost-cat",
-    "title": "The Lost Cat",
-    "level": "beginner",
-    "topic": "daily_life",
-    "thumbnail": "/images/cat.jpg",
-    "estimatedReadingTime": 2
-  },
-  {
-    "id": 2,
-    "slug": "the-perfect-son",
-    "title": "The Perfect Son",
-    "level": "beginner",
-    "topic": "family",
-    "thumbnail": "/images/family.jpg",
-    "estimatedReadingTime": 3
-  },
-  {
-    "id": 3,
-    "slug": "the-butchers-parrot",
-    "title": "The Butcher's Parrot",
-    "level": "beginner",
-    "topic": "funny_story",
-    "thumbnail": "/images/funny_story.jpg",
-    "estimatedReadingTime": 3
-  },
-  {
-    "id": 4,
-    "slug": "mind-your-own-business",
-    "title": "Mind Your Own Business",
-    "level": "beginner",
-    "topic": "funny_conversation",
-    "thumbnail": "/images/funny_conversation.jpg",
-    "estimatedReadingTime": 3
-  },
-  {
-    "id": 5,
-    "slug": "too-many-problems",
-    "title": "Too Many Problems",
-    "level": "beginner",
-    "topic": "school_life",
-    "thumbnail": "/images/school_life.jpg",
-    "estimatedReadingTime": 1
-  },
-  {
-    "id": 6,
-    "slug": "a-heavy-discussion",
-    "title": "A Heavy Discussion",
-    "level": "beginner",
-    "topic": "funny_joke",
-    "thumbnail": "/images/funny_joke.jpg",
-    "estimatedReadingTime": 1
-  },
-  {
-    "id": 7,
-    "slug": "the-short-cut",
-    "title": "The Short Cut",
-    "level": "beginner",
-    "topic": "funny_joke",
-    "thumbnail": "/images/funny_joke.jpg",
-    "estimatedReadingTime": 1
-  },
-  {
-    "id": 8,
-    "slug": "breakfast-for-a-friend",
-    "title": "Breakfast for a Friend",
-    "level": "beginner",
-    "topic": "school_life",
-    "thumbnail": "/images/school_life.jpg",
-    "estimatedReadingTime": 4
-  },
-  {
-    "id": 9,
-    "slug": "driving-lesson-choice",
-    "title": "The Driving Lesson Choice",
-    "level": "beginner",
-    "topic": "daily_life",
-    "thumbnail": "/images/daily_life.jpg",
-    "estimatedReadingTime": 2
-  },
-  {
-    "id": 10,
-    "slug": "akpos-library-embarrassment",
-    "title": "Akpos in the Library",
-    "level": "intermediate",
-    "topic": "humor",
-    "thumbnail": "/images/humor.jpg",
-    "estimatedReadingTime": 2
-  },
-  {
-    "id": 11,
-    "slug": "dinner-time-mom",
-    "title": "Dinner Time",
-    "level": "beginner",
-    "topic": "daily_life",
-    "thumbnail": "/images/daily_life.jpg",
-    "estimatedReadingTime": 1
-  },
-  {
-    "id": 12,
-    "slug": "voice-mail-letter",
-    "title": "Sending a Voice Mail",
-    "level": "beginner",
-    "topic": "humor",
-    "thumbnail": "/images/humor.jpg",
-    "estimatedReadingTime": 1
-  },
-  {
-    "id": 13,
-    "slug": "boss-wish-genie",
-    "title": "Let the Boss Speak First",
-    "level": "intermediate",
-    "topic": "workplace",
-    "thumbnail": "/images/workplace.jpg",
-    "estimatedReadingTime": 2
-  },
-  {
-    "id": 14,
-    "slug": "loud-music-sleep",
-    "title": "Music for Sleep",
-    "level": "intermediate",
-    "topic": "daily_life",
-    "thumbnail": "/images/daily_life.jpg",
-    "estimatedReadingTime": 2
-  },
-  {
-    "id": 15,
-    "slug": "the-broken-finger",
-    "title": "The Broken Finger",
-    "level": "beginner",
-    "topic": "health",
-    "thumbnail": "/images/health.jpg",
-    "estimatedReadingTime": 2
-  },
-  {
-    "id": 16,
-    "slug": "too-honest",
-    "title": "Too Honest",
-    "level": "beginner",
-    "topic": "work",
-    "thumbnail": "/images/work.jpg",
-    "estimatedReadingTime": 2
-  },
-  {
-    "id": 17,
-    "slug": "the-photo-proof",
-    "title": "The Photo Proof",
-    "level": "beginner",
-    "topic": "daily_life",
-    "thumbnail": "/images/daily_life.jpg",
-    "estimatedReadingTime": 2
-  },
-  {
-    "id": 18,
-    "slug": "the-last-message",
-    "title": "The Last Message",
-    "level": "beginner",
-    "topic": "daily_life",
-    "thumbnail": "/images/daily_life.jpg",
-    "estimatedReadingTime": 1
-  },
-  {
-    "id": 19,
-    "slug": "wrong-chat",
-    "title": "Wrong Chat",
-    "level": "beginner",
-    "topic": "daily_life",
-    "thumbnail": "/images/daily_life.jpg",
-    "estimatedReadingTime": 1
-  },
-  {
-    "id": 20,
-    "slug": "homework-first",
-    "title": "Homework first",
-    "level": "beginner",
-    "topic": "daily_life",
-    "thumbnail": "/images/daily_life.jpg",
-    "estimatedReadingTime": 1
-  },
-  {
-    "id": 21,
-    "slug": "remember-or-miss",
-    "title": "Remember or Miss?",
-    "level": "beginner",
-    "topic": "daily_life",
-    "thumbnail": "/images/daily_life.jpg",
-    "estimatedReadingTime": 2
-  },
-  {
-    "id": 22,
-    "slug": "uncle-or-ankle",
-    "title": "Uncle or Ankle?",
-    "level": "beginner",
-    "topic": "health",
-    "thumbnail": "/images/health.jpg",
-    "estimatedReadingTime": 2
-  }
+  {"id":1,"slug":"the-lost-cat","title":"The Lost Cat","level":"beginner","topic":"daily_life","thumbnail":"/images/cat.jpg","estimatedReadingTime":2},
+  {"id":2,"slug":"the-perfect-son","title":"The Perfect Son","level":"beginner","topic":"family","thumbnail":"/images/family.jpg","estimatedReadingTime":3},
+  {"id":3,"slug":"the-butchers-parrot","title":"The Butcher's Parrot","level":"beginner","topic":"funny_story","thumbnail":"/images/funny_story.jpg","estimatedReadingTime":3},
+  {"id":4,"slug":"mind-your-own-business","title":"Mind Your Own Business","level":"beginner","topic":"funny_conversation","thumbnail":"/images/funny_conversation.jpg","estimatedReadingTime":3},
+  {"id":5,"slug":"too-many-problems","title":"Too Many Problems","level":"beginner","topic":"school_life","thumbnail":"/images/school_life.jpg","estimatedReadingTime":1},
+  {"id":6,"slug":"a-heavy-discussion","title":"A Heavy Discussion","level":"beginner","topic":"funny_joke","thumbnail":"/images/funny_joke.jpg","estimatedReadingTime":1},
+  {"id":7,"slug":"the-short-cut","title":"The Short Cut","level":"beginner","topic":"funny_joke","thumbnail":"/images/funny_joke.jpg","estimatedReadingTime":1},
+  {"id":8,"slug":"breakfast-for-a-friend","title":"Breakfast for a Friend","level":"beginner","topic":"school_life","thumbnail":"/images/school_life.jpg","estimatedReadingTime":4},
+  {"id":9,"slug":"driving-lesson-choice","title":"The Driving Lesson Choice","level":"beginner","topic":"daily_life","thumbnail":"/images/daily_life.jpg","estimatedReadingTime":2},
+  {"id":10,"slug":"akpos-library-embarrassment","title":"Akpos in the Library","level":"intermediate","topic":"humor","thumbnail":"/images/humor.jpg","estimatedReadingTime":2},
+  {"id":11,"slug":"dinner-time-mom","title":"Dinner Time","level":"beginner","topic":"daily_life","thumbnail":"/images/daily_life.jpg","estimatedReadingTime":1},
+  {"id":12,"slug":"voice-mail-letter","title":"Sending a Voice Mail","level":"beginner","topic":"humor","thumbnail":"/images/humor.jpg","estimatedReadingTime":1},
+  {"id":13,"slug":"boss-wish-genie","title":"Let the Boss Speak First","level":"intermediate","topic":"workplace","thumbnail":"/images/workplace.jpg","estimatedReadingTime":2},
+  {"id":14,"slug":"loud-music-sleep","title":"Music for Sleep","level":"intermediate","topic":"daily_life","thumbnail":"/images/daily_life.jpg","estimatedReadingTime":2},
+  {"id":15,"slug":"the-broken-finger","title":"The Broken Finger","level":"beginner","topic":"health","thumbnail":"/images/health.jpg","estimatedReadingTime":2},
+  {"id":16,"slug":"too-honest","title":"Too Honest","level":"beginner","topic":"work","thumbnail":"/images/work.jpg","estimatedReadingTime":2},
+  {"id":17,"slug":"the-photo-proof","title":"The Photo Proof","level":"beginner","topic":"daily_life","thumbnail":"/images/daily_life.jpg","estimatedReadingTime":2},
+  {"id":18,"slug":"the-last-message","title":"The Last Message","level":"beginner","topic":"daily_life","thumbnail":"/images/daily_life.jpg","estimatedReadingTime":1},
+  {"id":19,"slug":"wrong-chat","title":"Wrong Chat","level":"beginner","topic":"daily_life","thumbnail":"/images/daily_life.jpg","estimatedReadingTime":1},
+  {"id":20,"slug":"homework-first","title":"Homework first","level":"beginner","topic":"daily_life","thumbnail":"/images/daily_life.jpg","estimatedReadingTime":1},
+  {"id":21,"slug":"remember-or-miss","title":"Remember or Miss?","level":"beginner","topic":"daily_life","thumbnail":"/images/daily_life.jpg","estimatedReadingTime":2},
+  {"id":22,"slug":"uncle-or-ankle","title":"Uncle or Ankle?","level":"beginner","topic":"health","thumbnail":"/images/health.jpg","estimatedReadingTime":2},
+  {"id":23,"slug":"the-time-or-time","title":"The Time or Time?","level":"beginner","topic":"daily_life","thumbnail":"/images/daily_life.jpg","estimatedReadingTime":2},
+  {"id":24,"slug":"i-wont-forget-you","title":"I Won't Forget You","level":"beginner","topic":"relationships","thumbnail":"/images/relationships.jpg","estimatedReadingTime":2}
+
 ]
