@@ -1,0 +1,289 @@
+{
+    "id": 23,
+    "slug": "the-time-or-time",
+    "title": "The Time or Time?",
+    "level": "beginner",
+    "topic": "daily_life",
+    "estimatedReadingTime": 2,
+    "summary": "A traveler asks a gatekeeper a simple question, but one missing word causes a funny misunderstanding.",
+    "characters": [
+        {
+            "id": "traveler",
+            "name": "Traveler",
+            "role": "main_character",
+            "gender": "male",
+            "chatSide": "left"
+        },
+        {
+            "id": "gatekeeper",
+            "name": "Gatekeeper",
+            "role": "support_character",
+            "gender": "male",
+            "chatSide": "right"
+        },
+        {
+            "id": "narrator",
+            "name": "Narrator",
+            "role": "narration",
+            "gender": "neutral",
+            "chatSide": "center"
+        }
+    ],
+    "dialogues": [
+        {
+            "order": 1,
+            "speakerId": "narrator",
+            "type": "narration",
+            "english": "A traveler arrives at a big gate. He is late and looks worried.",
+            "translation": "Một người khách đến một cánh cổng lớn. Anh ấy đang muộn và trông rất lo lắng."
+        },
+        {
+            "order": 2,
+            "speakerId": "traveler",
+            "type": "dialogue",
+            "english": "Excuse me. Do you have time?",
+            "translation": "Xin lỗi. Ông có thời gian không?"
+        },
+        {
+            "order": 3,
+            "speakerId": "gatekeeper",
+            "type": "dialogue",
+            "english": "Yes, I have time.",
+            "translation": "Có, tôi có thời gian."
+        },
+        {
+            "order": 4,
+            "speakerId": "narrator",
+            "type": "narration",
+            "english": "The gatekeeper smiles and pulls out a chair.",
+            "translation": "Người gác cổng mỉm cười và kéo một chiếc ghế ra."
+        },
+        {
+            "order": 5,
+            "speakerId": "gatekeeper",
+            "type": "dialogue",
+            "english": "Please, sit down. We can talk.",
+            "translation": "Mời anh ngồi. Chúng ta có thể nói chuyện."
+        },
+        {
+            "order": 6,
+            "speakerId": "traveler",
+            "type": "dialogue",
+            "english": "No, no. I don't want to sit.",
+            "translation": "Không, không. Tôi không muốn ngồi."
+        },
+        {
+            "order": 7,
+            "speakerId": "gatekeeper",
+            "type": "dialogue",
+            "english": "Maybe you want some tea?",
+            "translation": "Có lẽ anh muốn uống chút trà?"
+        },
+        {
+            "order": 8,
+            "speakerId": "traveler",
+            "type": "dialogue",
+            "english": "No tea! I need... time.",
+            "translation": "Không cần trà! Tôi cần... giờ."
+        },
+        {
+            "order": 9,
+            "speakerId": "gatekeeper",
+            "type": "dialogue",
+            "english": "You need time? I can give you more time.",
+            "translation": "Anh cần thời gian à? Tôi có thể cho anh thêm thời gian."
+        },
+        {
+            "order": 10,
+            "speakerId": "traveler",
+            "type": "dialogue",
+            "english": "No! I need... number. Now.",
+            "translation": "Không! Tôi cần... con số. Bây giờ."
+        },
+        {
+            "order": 11,
+            "speakerId": "gatekeeper",
+            "type": "dialogue",
+            "english": "A number? What number?",
+            "translation": "Một con số? Số gì?"
+        },
+        {
+            "order": 12,
+            "speakerId": "traveler",
+            "type": "dialogue",
+            "english": "Eight? Nine? Ten? What number now?",
+            "translation": "Tám? Chín? Mười? Bây giờ là số mấy?"
+        },
+        {
+            "order": 13,
+            "speakerId": "narrator",
+            "type": "narration",
+            "english": "The gatekeeper looks confused. The traveler points at his wrist.",
+            "translation": "Người gác cổng trông rất bối rối. Người khách chỉ vào cổ tay mình."
+        },
+        {
+            "order": 14,
+            "speakerId": "traveler",
+            "type": "dialogue",
+            "english": "Your little... clock thing. What is it?",
+            "translation": "Cái... thứ nhỏ nhỏ như đồng hồ của ông ấy. Nó là mấy giờ?"
+        },
+        {
+            "order": 15,
+            "speakerId": "gatekeeper",
+            "type": "dialogue",
+            "english": "Ah! You want to know the time!",
+            "translation": "À! Anh muốn biết bây giờ là mấy giờ!"
+        },
+        {
+            "order": 16,
+            "speakerId": "traveler",
+            "type": "dialogue",
+            "english": "Yes! Yes! The time!",
+            "translation": "Đúng! Đúng! Giờ hiện tại!"
+        },
+        {
+            "order": 17,
+            "speakerId": "gatekeeper",
+            "type": "dialogue",
+            "english": "You should say, \"Do you have the time?\"",
+            "translation": "Anh nên nói: \"Do you have the time?\""
+        },
+        {
+            "order": 18,
+            "speakerId": "traveler",
+            "type": "dialogue",
+            "english": "Do you have the time?",
+            "translation": "Ông có biết bây giờ là mấy giờ không?"
+        },
+        {
+            "order": 19,
+            "speakerId": "narrator",
+            "type": "narration",
+            "english": "The gatekeeper finally understands. He takes out his watch.",
+            "translation": "Cuối cùng người gác cổng cũng hiểu. Ông lấy chiếc đồng hồ ra."
+        },
+        {
+            "order": 20,
+            "speakerId": "gatekeeper",
+            "type": "dialogue",
+            "english": "It's eight thirty.",
+            "translation": "Bây giờ là tám giờ rưỡi."
+        },
+        {
+            "order": 21,
+            "speakerId": "traveler",
+            "type": "dialogue",
+            "english": "Thank you! Now I understand one little word can cause a big problem.",
+            "translation": "Cảm ơn ông! Giờ tôi hiểu một từ nhỏ cũng có thể gây ra một vấn đề lớn."
+        }
+    ],
+    "vocabulary": [
+        {
+            "word": "time",
+            "meaning": "thời gian, khoảng thời gian rảnh",
+            "example": "Do you have time to talk?",
+            "note": "Không có \"the\", \"time\" thường nói về thời gian nói chung hoặc thời gian rảnh. Ví dụ: \"Do you have time?\" = Bạn có rảnh không?"
+        },
+        {
+            "word": "the time",
+            "meaning": "giờ hiện tại, mấy giờ",
+            "example": "Do you have the time?",
+            "note": "Có \"the\", \"the time\" dùng để hỏi giờ hiện tại. \"Do you have the time?\" = Bạn có biết bây giờ là mấy giờ không?"
+        },
+        {
+            "word": "Do you have time?",
+            "meaning": "Bạn có thời gian rảnh không?",
+            "example": "Do you have time to help me?",
+            "note": "Không có \"the\" → hỏi về thời gian rảnh để làm một việc gì đó, thường là nói chuyện hoặc giúp đỡ."
+        },
+        {
+            "word": "Do you have the time?",
+            "meaning": "Bạn có biết bây giờ là mấy giờ không?",
+            "example": "Excuse me, do you have the time?",
+            "note": "Có \"the\" → hỏi giờ cụ thể hiện tại. Hãy nhớ: THE TIME → CLOCK."
+        },
+        {
+            "word": "gatekeeper",
+            "meaning": "người gác cổng",
+            "example": "The gatekeeper opened the gate.",
+            "note": "A person who guards or controls a gate."
+        },
+        {
+            "word": "late",
+            "meaning": "muộn, trễ",
+            "example": "I am late for work.",
+            "note": "Dùng khi ai đó không đến đúng giờ."
+        },
+        {
+            "word": "watch",
+            "meaning": "đồng hồ đeo tay",
+            "example": "He looks at his watch.",
+            "note": "Trong câu chuyện, gatekeeper lấy watch ra để cho biết \"the time\"."
+        },
+        {
+            "word": "confused",
+            "meaning": "bối rối, không hiểu",
+            "example": "The gatekeeper looks confused.",
+            "note": "Dùng khi bạn không hiểu điều gì đang xảy ra."
+        },
+        {
+            "word": "clock",
+            "meaning": "đồng hồ",
+            "example": "Look at the clock.",
+            "note": "Clock thường là đồng hồ treo tường, đồng hồ để bàn hoặc thiết bị hiển thị giờ."
+        }
+    ],
+    "quiz": [
+        {
+            "question": "What did the traveler really want to know?",
+            "options": [
+                "If the gatekeeper had free time",
+                "What time it was",
+                "If he could drink tea",
+                "Where the gate was"
+            ],
+            "answer": "What time it was"
+        },
+        {
+            "question": "Why did the gatekeeper pull out a chair?",
+            "options": [
+                "He thought the traveler wanted to sit and talk.",
+                "He wanted to repair the chair.",
+                "He wanted to leave.",
+                "He wanted to eat."
+            ],
+            "answer": "He thought the traveler wanted to sit and talk."
+        },
+        {
+            "question": "What should the traveler say when asking for the current time?",
+            "options": [
+                "Do you have time?",
+                "Do you have the time?",
+                "Do you have a time?",
+                "Do you have some time?"
+            ],
+            "answer": "Do you have the time?"
+        },
+        {
+            "question": "What does \"Do you have time?\" usually ask about?",
+            "options": [
+                "The current clock time",
+                "A watch",
+                "Free time",
+                "A number"
+            ],
+            "answer": "Free time"
+        }
+    ],
+    "tags": [
+        "humor",
+        "daily_life",
+        "grammar",
+        "common_mistakes"
+    ],
+    "thumbnail": "/images/the-time-or-time.jpg",
+    "published": true,
+    "createdAt": "2026-09-10T08:00:00Z",
+    "updatedAt": "2026-09-10T08:00:00Z"
+}
